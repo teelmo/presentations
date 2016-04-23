@@ -314,7 +314,7 @@ class: left, top
 
 ???
 
-* [Kato Ite (See for yourself)](http://verkkoanalytiikka.apps.yle.fi/#!/kato-ite?q=tebest&page=1) is a tool to see why your stories are getting audience.
+* Kato Ite (See for yourself) is a tool to see why your stories are getting audience.
 
 ---
 

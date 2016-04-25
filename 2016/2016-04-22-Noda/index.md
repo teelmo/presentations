@@ -1,5 +1,5 @@
 [//]: # "https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet"
-[//]: # "markdown-to-slides index.md -o index.html -t "Analytics of News Apps" -s "../styles.css" -i"
+[//]: # "markdown-to-slides index.md -o index.html -t "Analytics of News Apps" -s "../css/styles.css" -i"
 
 class: left, middle
 # .large[Analytics of News Apps]

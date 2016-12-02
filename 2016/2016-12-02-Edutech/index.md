@@ -39,19 +39,31 @@ class: left, top
 # Mitä teemme?
 
 * Verkkoa
-* Työskentelemme toimittajien kanssa
 * Kerromme tarinoita
 * Dataan perustuvaa journalismia
 * Visualisointeja
 * Käyttöliittymiä
 * Kokeilemme uusia teknologioita, kuten VR
 
+
+---
+
+class: center, middle
+
+<img src="img/kolmoset_1.png" alt="" style="width: 600px; style:inline;"/>
+
+---
+
+class: center, middle
+
+<img src="img/kolmoset_2.png" alt="" style="width: 600px; style:inline;"/>
+
 ---
 
 class: left, top
 # Verkonomaisia toteutuksia
 
-Käytään läpi keskustellen erilaisia esimerkkejä kuten:
+Käytään läpi keskustellen esimerkkejä
 
 Taulukko, Laskuri, Testi, Datakäyttöliittymä, Palvelu
 
@@ -67,6 +79,17 @@ Haettava ja järjestettävä taulukko, mahdollistaa suurten datamäärien esitt�
 ---
 
 class: left, top
+# Laskuri
+
+Tarkastelu omasta näkökulmasta, mitä asiat tarkoittavat minun näkökulmastani.
+
+* <a href="http://yle.fi/uutiset/3-9273402" target="_blank">Eläkelaskuri</a>
+  * <a href="http://www.hs.fi/talous/art-2000002927559.html">Eläkelaskuri #2</a>
+* <a href="http://yle.fi/uutiset/3-9306597" target="_blank">Kuntaverolaskuri</a>
+
+---
+
+class: left, top
 # Testi
 
 Uutisaihe puettu testin muotoon, jaettavuus.
@@ -76,36 +99,29 @@ Uutisaihe puettu testin muotoon, jaettavuus.
 ---
 
 class: left, top
-# Laskuri
-
-Tarkastelu omasta näkökulmasta, mitä asiat tarkoittavat minun näkökulmastani.
-
-* <a href="http://yle.fi/uutiset/3-9273402" target="_blank">Eläkelaskuri</a>
-** <a href="http://www.hs.fi/talous/art-2000002927559.html">Eläkelaskuri</a>
-
----
-
-class: left, top
 # Täytyykö kaikkien osata koodata?
 
 * <a href="http://www.suomenlehdisto.fi/ala-opettele-koodaamaan/">Ei</a>.
 * Mutta esimerkiksi Excel-osaaminen on olennaista.
+* Ja on tärkeää, että ymmärretään mahdollisuudet, mitä voidaan tehdä?
 
 ---
 
 class: left, top
 # Miten työskentelemme
 
+Yhteistyö!
+
 Muodostamme 2–4 hengen minitiimejä: toimittaja, graafikko, koodari, tuottaja.
 
 * Kommunikoimme Facebookissa, Whatsappissa, Hangoutsilla, sähköpostilla, kasvokkain
 * Hahmottelemme <a href="img/hahmottelu.png">paperilla</a> ja <a href="img/indesing.png">Indesignissä</a>
-* Klikattavat prototyypit
+* Prototyypit ovat tekemisessä keskeisiä, <a href="http://yle.fi/uutiset/3-8797190" target="_blank">paperilla</a> tai koodaten.
 * Käytämme post-it lappuja <a href="img/workprocess_1.png">#1</a> <a href="img/workprocess_2.png">#2</a>
 
 ---
 
-class: left, top
+class: center, middle
 <img src="img/Bu2ax9sIIAAG3TW.jpg" alt="" />
 
 ---
@@ -113,10 +129,23 @@ class: left, top
 class: left, top
 # Mihin koodaamista tarvitaan toimituksissa?
 
-Tekniikka voi olla apuna pelkästään jutun tausta-aineistojen hankinnassa.
+Tekniikka voi olla apuna tausta-aineistojen hankinnassa.
 
+* <a href="http://www.vuokraovi.com/vuokra-asunnot" target="_blank">Vuokraovi</a>
 * <a href="https://drive.google.com/drive/u/0/folders/0B9SvRKpOIo3OZnZfQWtMajQtLTg" target="_blank">Data</a>
-* <a href="http://yle.fi/uutiset/3-6965987" target="_blank">Asuntoetu</a>
+* <a href="http://yle.fi/uutiset/3-6965987" target="_blank">Asuntoetujuttu</a>
+
+---
+
+class: center, top
+
+# Prosessi
+
+<img src="img/visualisointi.png" alt="" style="width: 500px; style:inline;"/>
+
+Data, informaatio, tietämys, ymmärrys
+
+Mihin journalismi asettuu?
 
 ---
 
@@ -127,10 +156,12 @@ Miten data liittyy journalismiin. Datan selailuun rakennettu käyttöliittymä.
 
 * <a href="http://yle.fi/uutiset/3-9192528" target="_blank">Kuntatutka</a>
 * Tulokone
-** <a href="http://yle.fi/uutiset/3-8416491" target="_blank">2015</a>
-** <a href="http://yle.fi/uutiset/3-7574646" target="_blank">2014</a>
-** <a href="http://yle.fi/uutiset/3-6908390" target="_blank">2013</a>
-** <a href="http://yle.fi/uutiset/3-6358393" target="_blank">2012</a>
+  * <a href="http://yle.fi/uutiset/3-8416491" target="_blank">2015</a>
+  * <a href="http://yle.fi/uutiset/3-7574646" target="_blank">2014</a>
+  * <a href="http://yle.fi/uutiset/3-6908390" target="_blank">2013</a>
+  * <a href="http://yle.fi/uutiset/3-6358393" target="_blank">2012</a>
+
+Analytiikka
 
 ---
 
@@ -162,7 +193,7 @@ class: left, top
 
 ---
 
-class: left, top
+class: center, middle
 # Abraham Wald
 
 <img src="img/blog_raf_bullet_holes_0.jpg" alt="" style="width: 600px; style:inline;"/>

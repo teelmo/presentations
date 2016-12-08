@@ -45,7 +45,6 @@ class: left, top
 * Käyttöliittymiä
 * Kokeilemme uusia teknologioita, kuten VR
 
-
 ---
 
 class: center, middle

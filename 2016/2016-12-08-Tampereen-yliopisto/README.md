@@ -1,4 +1,4 @@
-# Verkkokerronta Ylessä
+# Miten opettaa datajournalismia
 
 [Tampereen yliopistossa](http://uta.fi) pidetty luento.
 

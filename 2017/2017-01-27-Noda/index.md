@@ -37,8 +37,8 @@ class: left, middle
 
 # Plus Desk at Yle News
 <img src="img/hahmottelu.png" style="width: 250px; float: right; padding-left: 30px; margin-right: -70px; margin-top: 10px;">
-* We make online stories <span class="highlight">together</span> with other teams
-* The more <span class="highlight">bigger</span> and <span class="highlight">investigative</span> projects, less fast-ones
+* We make online stories in <span class="highlight">co-operation</span> with other teams
+* More <span class="highlight">bigger</span> and <span class="highlight">investigative</span> projects, less fast-ones
 * From 350 stories in 2013 to 150 in 2016
 * Half of <span class="highlight">the most read stories</span> at Yle came from Plus Desk
 
@@ -66,11 +66,11 @@ class: left, middle
 
 <p><span class="highlight">Motivation</span> Pension system reform</p>
 <p><span class="highlight">Implementation</span> Embedded calculator</p>
-<p><span class="highlight">Outcome</span> One of most read stories in 2016</p>
+<p><span class="highlight">Outcome</span> One of the most read stories in 2016</p>
 
 <div style="float: right"><a href="https://docs.google.com/spreadsheets/d/1Gj3uqUzWOUeDGamxc8Ig_Owu-EfZzzs-MaLSLESf0C4/edit#gid=1128173612" target="_blank">» data</a></div><br />
 <div style="float: right"><a href="http://yle.fi/uutiset/3-9273402" target="_blank">» story</a></div><br />
-<div style="float: right"><a href="https://dashboard.yle.fi/article/3-8944418" target="_blank">» numbers</a></div>
+<div style="float: right"><a href="https://dashboard.yle.fi/article/3-9273402" target="_blank">» numbers</a></div>
 
 ---
 class: left, middle
@@ -85,7 +85,7 @@ class: left, middle
 
 ---
 class: left, middle
-# Problems / Obstacles
+# Challenges / Obstacles
 
 * From <span class="highlight">Excel</span> to story
 * <span class="highlight">Two datasets</span> &rarr; pick more relevant
@@ -98,24 +98,24 @@ class: left, middle
 
 <p><span class="highlight">Motivation</span> First-time home buyers</p>
 <p><span class="highlight">Implementation</span> Map-based application</p>
-<p><span class="highlight">Outcome</span> Unique view to housing markets</p>
+<p><span class="highlight">Outcome</span> Unique view to the housing markets</p>
 
-<div style="float: right"><a href="https://www.theguardian.com/society/ng-interactive/2015/sep/02/unaffordable-country-where-can-you-afford-to-buy-a-house" target="_blank">» inspiration</a></div>
+<div style="float: right"><a href="https://www.theguardian.com/society/ng-interactive/2015/sep/02/unaffordable-country-where-can-you-afford-to-buy-a-house" target="_blank">» inspiration</a></div><br />
 <div style="float: right"><a href="https://docs.google.com/spreadsheets/d/1ZlljAPxWaCHFbhdvpKfoxN3b1an9RniMby60YMNeJQo/edit#gid=1849495620" target="_blank">» data</a></div><br />
 <div style="float: right"><a href="http://yle.fi/uutiset/3-8944418" target="_blank">» story</a></div><br />
-<div style="float: right"><a href="https://dashboard.yle.fi/article/3-9273402" target="_blank">» numbers</a></div><br />
+<div style="float: right"><a href="https://dashboard.yle.fi/article/3-8944418" target="_blank">» numbers</a></div>
 
 ---
 class: left, middle
 # Unique view to housing markets, <span class="highlight">Why?</span>
 
-* Compined housing prices with income
+* Combined housing prices with income
 * Size instead of price
 * Showed the segregation between cities and rural areas
 
 ---
 class: left, middle
-# Problems / Obstacles
+# Challenges / Obstacles
 
 <img src="img/omakotitalo.jpg" style="width: 250px; float: right; padding-left: 30px; margin-right: -70px; margin-top: -20px;">
 <img src="img/kerrostalo.jpg" style="clear:both; width: 250px; float: right; padding-left: 30px; margin-right: -70px; margin-top: 10px;">
@@ -123,7 +123,7 @@ class: left, middle
 * Lack of sales data in most areas
 * No data from houses, only apartments
 * Application &harr; <a href="http://yle.fi/uutiset/3-8938636">Story</a>
-* Map colorization
+* Why and what would I share
 
 ---
 class: left, middle
@@ -151,7 +151,7 @@ class: left, middle
 
 ---
 class: left, middle
-# Problems / Obstacles
+# Challenges / Obstacles
 
 * <span class="highlight">Getting data</span> for current municipalities 
 * Merging various data sources and formats into one sheet

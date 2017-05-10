@@ -62,7 +62,7 @@ class: center, middle
 class: left, top
 # Verkonomaisia toteutuksia
 
-Käytään läpi keskustellen esimerkkejä
+Käydään läpi keskustellen esimerkkejä
 
 Taulukko, Laskuri, Testi, Datakäyttöliittymä, Palvelu
 

@@ -1,5 +1,5 @@
 class: center, middle
-# Data <span class="highlight">journalismin</span> työvälineenä</a>
+# Data <span class="highlight">journalismin</span> työvälineenä
 
 <img src="img/yle_logo.png" style="width: 150px;" />
 

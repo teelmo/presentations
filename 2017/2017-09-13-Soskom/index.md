@@ -109,14 +109,13 @@ class: left, middle
 
 ---
 class: left, middle
-
 # <span class="highlight">Story</span> New City Council
 
 <p><span class="highlight">Motivation</span> Municipality elections</p>
 <p><span class="highlight">Implementation</span> Election analysis</p>
 <p><span class="highlight">Outcome</span> Unique view to the result</p>
 
-<div style="float: right"><a href="https://vaalikone.yle.fi/kuntavaalit2017/" target="_blank">» data 1</a> | <a href="https://vaalit.yle.fi/tulospalvelu/kv2017" target="_blank">» data 2</a></div><br />
+<div style="float: right"><a href="https://vaalikone.yle.fi/kuntavaalit2017/" target="_blank">» data 1</a> / <a href="https://vaalit.yle.fi/tulospalvelu/kv2017" target="_blank">» data 2</a></div><br />
 <div style="float: right"><a href="http://yle.fi/uutiset/3-9552923#Tampere" target="_blank">» story</a></div><br />
 <!-- <div style="float: right"><a href="https://dashboard.yle.fi/article/3-9552923" target="_blank">» numbers</a></div> -->
 
@@ -222,6 +221,28 @@ class: left, middle
 * <span class="highlight">Finishing and polishing</span>
 * Changes in Google API usage limitations
 * Lack of HTTPS &rarr; No automated location 
+
+---
+class: center, middle
+# Let's stretch one's legs
+
+---
+class: center, middle
+
+<a href="http://drones.pitchinteractive.com/" target="_blank"><img src="img/drone_strikes.png" alt="" style="width: 500px;"/></a>
+<a href="http://guns.periscopic.com/?year=2013" target="_blank"><img src="img/gun_death.png" alt="" style="width: 500px;"/></a>
+
+---
+class: center, middle
+
+<a href="http://www.nytimes.com/interactive/science/space/keplers-tally-of-planets.html" target="_blank"><img src="img/exo2.png" alt="" style="width: 500px;"/></a>
+<a href="https://nbremer.github.io/exoplanets/" target="_blank"><img src="img/exo.png" alt="" style="width: 500px;"/></a>
+
+---
+class: center, middle
+
+<a href="http://hint.fm/wind/" target="_blank"><img src="img/wind2.png" alt="" style="width: 500px;"/></a>
+<a href="http://www.senchalabs.org/philogl/PhiloGL/examples/winds/" target="_blank"><img src="img/wind.png" alt="" style="width: 500px;"/></a>
 
 ---
 class: center, middle

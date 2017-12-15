@@ -51,7 +51,7 @@ class: left, middle
 ---
 class: left, middle
 
-# Succesful data story: <span class="highlight">4&nbsp;examples</span>
+# Käydään läpi keskustellen: <span class="highlight">3&nbsp;esimerkkiä</span>
 
 1. <span class="highlight">Eläke</span>laskuri
 2. <span class="highlight">Vaali</span>analyysi
@@ -85,9 +85,9 @@ class: left, middle
 
 # Pari juttua ensin
 
-* <a href="https://yle.fi/uutiset/3-9865602" target="_blank">Poll results</a>, <a href="https://yle.fi/uutiset/3-9215760" target="_blank">Longtime polls</a>
-* <a href="https://yle.fi/uutiset/3-7148743" target="_blank">Are your jobs disappearing?</a>
-* <a href="https://yle.fi/uutiset/3-8464732" target="_blank">Municipality tax</a>
+* <a href="https://yle.fi/uutiset/3-9865602" target="_blank">Puoluekannatus</a>, <a href="https://yle.fi/uutiset/3-9215760" target="_blank">Pitkä aikasarja</a>
+* <a href="https://yle.fi/uutiset/3-7148743" target="_blank">Ovatko työpaikkasi katoamassa</a>
+* <a href="https://yle.fi/uutiset/3-9843545" target="_blank">Verolaskuri</a>
 
 ---
 
@@ -99,9 +99,9 @@ class: left, middle
 <p><span class="highlight">Toteutus</span> Sisällytetty laskuri</p>
 <p><span class="highlight">Lopputulos</span> Vuoden 2016 luetuimpia juttuja</p>
 
-<div style="float: right"><a href="https://docs.google.com/spreadsheets/d/1Gj3uqUzWOUeDGamxc8Ig_Owu-EfZzzs-MaLSLESf0C4/edit#gid=1128173612" target="_blank">» data</a></div><br />
+<!-- <div style="float: right"><a href="https://docs.google.com/spreadsheets/d/1Gj3uqUzWOUeDGamxc8Ig_Owu-EfZzzs-MaLSLESf0C4/edit#gid=1128173612" target="_blank">» data</a></div><br /> -->
 <div style="float: right"><a href="http://yle.fi/uutiset/3-9273402" target="_blank">» juttu</a></div><br />
-<div style="float: right"><a href="https://dashboard.yle.fi/article/3-9273402" target="_blank">» numerot</a></div>
+<!-- <div style="float: right"><a href="https://dashboard.yle.fi/article/3-9273402" target="_blank">» numerot</a></div> -->
 
 ---
 class: left, middle
@@ -146,7 +146,7 @@ class: left, middle
 
 <div style="float: right"><a href="https://vaalikone.yle.fi/kuntavaalit2017/" target="_blank">» data 1</a> / <a href="https://vaalit.yle.fi/tulospalvelu/kv2017" target="_blank">» data 2</a></div><br />
 <div style="float: right"><a href="http://yle.fi/uutiset/3-9552923#Tampere" target="_blank">» juttu</a></div><br />
-<div style="float: right"><a href="https://dashboard.yle.fi/article/3-9552923" target="_blank">» numerot</a></div>
+<!-- <div style="float: right"><a href="https://dashboard.yle.fi/article/3-9552923" target="_blank">» numerot</a></div> -->
 
 ---
 class: left, middle
@@ -176,9 +176,9 @@ class: left, middle
 <p><span class="highlight">Toteutus</span> Kuntatutka</p>
 <p><span class="highlight">Lopputulos</span> Noda-Awards -finalisti</p>
 
-<div style="float: right"><a href="https://docs.google.com/spreadsheets/d/15M_MyAudZXCMASTlbP4SSA3BTQFlw7RRxVwa47uDcEs/edit#gid=0" target="_blank">» data</a></div><br />
+<!-- <div style="float: right"><a href="https://docs.google.com/spreadsheets/d/15M_MyAudZXCMASTlbP4SSA3BTQFlw7RRxVwa47uDcEs/edit#gid=0" target="_blank">» data</a></div><br /> -->
 <div style="float: right"><a href="https://yle.fi/uutiset/3-9490180" target="_blank">» juttu</a></div><br />
-<div style="float: right"><a href="https://dashboard.yle.fi/article/3-9192528" target="_blank">» numerot</a></div>
+<!-- <div style="float: right"><a href="https://dashboard.yle.fi/article/3-9192528" target="_blank">» numerot</a></div> -->
 
 ---
 class: left, middle

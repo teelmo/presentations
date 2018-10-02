@@ -1,5 +1,5 @@
 class: center, middle
-# How To Make A Successful <span class="highlight">Data Story
+# How To Make A Successful <span class="highlight">Data Story</span>
 
 <img src="img/yle_logo.png" style="width: 150px;" />
 

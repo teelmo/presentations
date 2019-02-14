@@ -98,9 +98,9 @@ class: left, middle
 <p><span class="highlight">Toteutus</span> Sisällytetty laskuri</p>
 <p><span class="highlight">Lopputulos</span> Vuoden 2016 luetuimpia juttuja</p>
 
-<div style="float: right"><a href="https://docs.google.com/spreadsheets/d/1Gj3uqUzWOUeDGamxc8Ig_Owu-EfZzzs-MaLSLESf0C4/edit#gid=1128173612" target="_blank">» data</a></div><br />
+<!-- <div style="float: right"><a href="https://docs.google.com/spreadsheets/d/1Gj3uqUzWOUeDGamxc8Ig_Owu-EfZzzs-MaLSLESf0C4/edit#gid=1128173612" target="_blank">» data</a></div><br /> -->
 <div style="float: right"><a href="http://yle.fi/uutiset/3-9273402" target="_blank">» story</a></div><br />
-<div style="float: right"><a href="https://dashboard.yle.fi/article/3-9273402" target="_blank">» numbers</a></div>
+<!-- <div style="float: right"><a href="https://dashboard.yle.fi/article/3-9273402" target="_blank">» numbers</a></div> -->
 
 ---
 class: left, middle
@@ -148,7 +148,7 @@ class: left, middle
 
 <div style="float: right"><a href="https://vaalikone.yle.fi/kuntavaalit2017/" target="_blank">» data 1</a> / <a href="https://vaalit.yle.fi/tulospalvelu/kv2017" target="_blank">» data 2</a></div><br />
 <div style="float: right"><a href="http://yle.fi/uutiset/3-9552923#Tampere" target="_blank">» juttu</a></div><br />
-<div style="float: right"><a href="https://dashboard.yle.fi/article/3-9552923" target="_blank">» numerot</a></div>
+<!-- <div style="float: right"><a href="https://dashboard.yle.fi/article/3-9552923" target="_blank">» numerot</a></div> -->
 
 ---
 class: left, middle
@@ -193,7 +193,7 @@ class: left, middle
 <p><span class="highlight">Lopputulos</span> Tavoitettiin nuoria naisia</p>
 
 <div style="float: right"><a href="http://yle.fi/uutiset/3-10509829" target="_blank">» juttu</a></div><br />
-<div style="float: right"><a href="https://dashboard.yle.fi/article/3-10509829" target="_blank">» numerot</a></div><br />
+<!-- <div style="float: right"><a href="https://dashboard.yle.fi/article/3-10509829" target="_blank">» numerot</a></div><br /> -->
 
 ---
 class: left, middle
@@ -215,7 +215,7 @@ class: left, middle
 <div style="float: right"><a href="https://www.theguardian.com/society/ng-interactive/2015/sep/02/unaffordable-country-where-can-you-afford-to-buy-a-house" target="_blank">» inspiraatio</a></div><br />
 <div style="float: right"><a href="https://docs.google.com/spreadsheets/d/1ZlljAPxWaCHFbhdvpKfoxN3b1an9RniMby60YMNeJQo/edit#gid=1849495620" target="_blank">» data</a></div><br />
 <div style="float: right"><a href="http://yle.fi/uutiset/3-8944418" target="_blank">» juttu</a></div><br />
-<div style="float: right"><a href="https://dashboard.yle.fi/article/3-8944418" target="_blank">» numerot</a></div>
+<!-- <div style="float: right"><a href="https://dashboard.yle.fi/article/3-8944418" target="_blank">» numerot</a></div> -->
 
 ---
 class: left, middle
@@ -255,7 +255,7 @@ class: left, middle
 
 <div style="float: right"><a href="https://docs.google.com/spreadsheets/d/15M_MyAudZXCMASTlbP4SSA3BTQFlw7RRxVwa47uDcEs/edit#gid=0" target="_blank">» data</a></div><br />
 <div style="float: right"><a href="https://yle.fi/uutiset/3-9490180" target="_blank">» juttu</a></div><br />
-<div style="float: right"><a href="https://dashboard.yle.fi/article/3-9192528" target="_blank">» numerot</a></div>
+<!-- <div style="float: right"><a href="https://dashboard.yle.fi/article/3-9192528" target="_blank">» numerot</a></div> -->
 
 ---
 class: left, middle
@@ -325,49 +325,6 @@ class: center, middle
 <img src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Heart_coraz%C3%B3n.svg/1024px-Heart_coraz%C3%B3n.svg.png" alt="" style="width: 300px;"/><br />
 
 Teemo Tebest, <a href="http://twitter.com/teelmo"><span class="highlight">@teelmo</span></a>
-
----
-class: left, middle
-# Keksikää <span class="highlight">5 data-aihetta</span> tai juttuideaa
-
-Mikä data-aihe sinua erityisesti kiinnostaisi
-
-* Kirjoita yksi idea per yksi post-it-lappu.
-
-Käytetään 10 minuuttia
-
----
-class: left, middle
-# Valitse paras ja muodosta aiheeseen <span class="highlight">5 kysymystä</span>
-
-Vie ideaasi pidemmälle ja ala jo miettiä vastausta.
-
-* Kenelle?
-* Mikä esitystapa?
-* Mihin aineisto voisi verrata?
-* Mitä dataa on saatavilla?
-
-Käytetään 10 minuuttia
-
----
-class: left, middle
-# Luokaa kolmen hengen ryhmiä, <span class="highlight">myykää ideanne!</span>
-
-Miksi juuri sinun ideasia on tärkeä, kiinnostava ja relevantti?
-
-* 2 minuuttia per henkilö
-
-Käytetään 10 minuuttia
-
----
-class: left, middle
-# Valitkaa paras idea ja <span class="highlight">hahmotelkaa prototyyppi</span> 
-
-* Mitä voitaisiin tehdä jos käytössä rajattomat resurssit?
-* Käydään läpi mitä saitte aikaan!
-* Muistakaa miettiä kenelle ja miksi juttunne on tärkeä.
-
-Käytetään 10–15 minuuttia.
 
 ---
 class: left, middle

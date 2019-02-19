@@ -1,0 +1,433 @@
+/*1337889476,176833978*/
+
+.fbEmuMainBody .firstPassiveName{font-weight:bold}
+.fbEmuPremium .fbEmuStreamAttachment{margin-bottom:3px}
+.fbEmuStreamStory .fbEmuStreamAttachment.fbEmuStreamOGAction{border-top:1px solid #e5e7eb;border-bottom:1px solid #e5e7eb;padding-top:6px;padding-bottom:6px;margin-bottom:5px}
+.fbEmuStreamStory .fbEmuStreamAttachment.fbEmuStreamLinkStory{border-top:1px solid #e5e7eb;border-bottom:1px solid #e5e7eb;border-left:1px solid #e5e7eb;border-right:1px solid #e5e7eb;margin-bottom:5px;margin-right:4px}
+.fbEmuStreamStory .fbEmuStreamAttachment.fbEmuStreamLinkStory .uiImageBlockImage
+.centeredImageWrapper{border-right:1px solid #e5e7eb;display:table-cell;vertical-align:middle}
+.fbEmuMarketplace .fbEmuStreamAttachment.fbEmuStreamLinkStory .uiImageBlockImage
+.centeredImageWrapper{height:58px;width:50px}
+.fbEmuPremium .fbEmuStreamAttachment.fbEmuStreamLinkStory .uiImageBlockImage
+.centeredImageWrapper{height:87px;width:74px}
+.fbEmuStreamStory .fbEmuStreamAttachment.fbEmuStreamLinkStory .uiImageBlockImage
+.centeredImageWrapper img{margin:0 auto}
+.fbEmuPremium .fbEmuStreamAttachment.fbEmuStreamLinkStory .uiImageBlockImage
+.centeredImageWrapper img{max-height:87px;max-width:74px}
+.fbEmuMarketplace .fbEmuStreamAttachment.fbEmuStreamLinkStory .uiImageBlockImage
+.centeredImageWrapper img{max-height:58px;max-width:50px}
+.fbEmuStreamStory .whitespaceLink{display:inline}
+.fbEmuStreamStory .whitespaceLink:hover
+.fbEmuStreamAttachment.fbEmuStreamOGAction{border-top:1px solid #c4cde1;border-bottom:1px solid #c4cde1}
+.fbEmuStreamStory.fbEmuStreamAttachment.fbEmuStreamLinkStory:hover{border-top:1px solid #c4cde1;border-bottom:1px solid #c4cde1;border-left:1px solid #c4cde1;border-right:1px solid #c4cde1}
+.fbEmuStreamStory .fbEmuStreamAttachment.fbEmuStreamLinkStory:hover
+.uiImageBlockImage .centeredImageWrapper{border-right:1px solid #c4cde1}
+.fbEmuStreamStory .fbEmuStreamAttachment.fbEmuStreamOGAction .fbEmuStreamTitle{margin-top:4px}
+.fbEmuPremium .fbEmuStreamAttachment.fbEmuStreamPhotoStory{margin-bottom:2px}
+.fbEmuStreamAttachment.fbEmuStreamEventStory a.fbEmuStreamTitle, .fbEmuPicStory a.fbEmuStreamTitle, .fbEmuLikeMessage{color:gray}
+.fbEmuPremium .fbEmuStreamAttachment.fbEmuStreamOGAction img, .fbEmuPremium .fbEmuStreamAttachment.fbEmuStreamEventStory img{max-height:75px;max-width:75px}
+.fbEmuMarketplace .fbEmuStreamAttachment.fbEmuStreamEventStory img, .fbEmuStreamStory .fadPageAttachment img{max-height:50px;max-width:50px}
+.fbEmuStreamAttachment.fbEmuStreamLinkStory .fbEmuLink{margin-right:5px}
+.fbEmuPicStory a.fbEmuStreamTitle, .fbEmuStreamAttachment.fbEmuStreamEventStory .fbEmuStreamAttachmentBlock a{font-weight:normal}
+.fbEmuStreamAttachment.fbEmuStreamLinkStory .fbEmuStreamTitle{font-weight:bold;padding-top:4px}
+.fbEmuMarketplace .fbEmuStreamAttachment.fbEmuStreamPhotoStory img, .fbEmuMarketplace .fbEmuStreamAttachment.fbEmuStreamPhotoStory i{max-height:90px;max-width:118px}
+.fbEmuPremium .fbEmuStreamAttachment.fbEmuStreamPhotoStory img, .fbEmuPremium .fbEmuStreamAttachment.fbEmuStreamPhotoStory i{max-height:128px;max-width:168px}
+.fbEmuStreamStory .uiVideoThumb.fbEmuLargeThumb{margin-right:0}
+.fbEmuMarketplace .uiVideoThumb.fbEmuLargeThumb img{display:block;height:72px;max-height:72px;max-width:128px}
+.fbEmuPremium .uiVideoThumb.fbEmuLargeThumb img{height:104px;display:block;max-height:104px;max-width:185px}
+.fbEmuStreamStory .uiStreamMessage{font-weight:normal}
+.fbEmuStreamStory .fbEmuStreamTitle{display:block;font-weight:bold}
+.fbEmuStreamStory .fbEmuStreamBody{color:#666}
+.fbEmuStreamStory .uiPhotoThumb{display:inline-block}
+.fbEmuConnectionAttachment .fbEmuStreamTitle .pageName{min-width:121px}
+.fbEmuConnectionAttachment .fadPlayAttachment:hover .fbEmuStreamTitle, .fbEmuConnectionAttachment .fbEmuStreamTitle:hover .pageName, .fbEmuConnectionAttachment .marginImageLink:hover + .uiImageBlockContent .pageName, .fbEmuStreamStory .whitespaceLink:hover .fbEmuStreamOGAction, .fbEmuStreamStory .fbEmuStreamLinkStory:hover{text-decoration:underline}
+.fbEmuStreamStory .whitespaceLink:hover{cursor:pointer}
+.fbEmuStreamStory .messageBody .whitespaceLink:hover, .fbEmuStreamStory .whitespaceLink:hover .fbEmuStreamOGAction, .fbEmuStreamStory .whitespaceLink:hover .fbEmuLikeMessage{background-color:#eceff5}
+.fbEmuStreamStory .fbEmuStreamLinkStory:hover{background-color:#f6f7f9}
+.fbEmuStreamStory .whitespaceLink:hover a.uiBlingBox{text-decoration:none}
+.fbEmuStreamStory .whitespaceLink:hover .uiBlingBox{background-color:#eceff5}
+.fbEmuStreamStory .fbEmuStreamPhotoStory:hover .uiPhotoThumb{border:1px solid #3b5998}
+.fbEmuStreamStory .fbEmuConnectionAttachment .fbEmuStreamBody{color:#3b5998}
+.fbEmuStreamStory .uiVideoThumb{display:inline-block;margin-right:5px}
+.fbEmuStreamStory .uiVideoThumb img{height:auto}
+.fbEmuStreamStory .uiVideoThumb.fbEmuSmallThumb img{max-width:60px}
+.fbEmuStreamStory .fbEmuStreamAttachment .uiPhotoThumb img{margin:3px}
+.fbEmuStreamStory .fbEmuAttachmentFrame{background-color:#000;text-align:center}
+.fbEmuStreamStory .fbEmuAttachmentFrame .uiVideoThumb{display:inline-block;margin:0}
+.fbEmuStreamStory .textOnly{word-wrap:break-word}
+.fbEmuStreamStory .textWithMedia{word-wrap:break-word}
+.fbEmuStreamAttachmentOffset{border-left:2px solid #ccc;padding-left:4px}
+.fbEmuStreamAttachmentOffset .fbEmuPicStory, .fbEmuStreamStory .fbEmuStreamAttachmentOffset .textOnly{border-left:0;padding-left:0}
+.fbEmuStreamStory .uiUfi .ufiItem{padding:3px 3px 2px}
+.fbEmuStreamStory .uiBlingBox .text{line-height:normal}
+.fbEmuStreamStory .uiBlingBox{margin-right:-1px;margin-left:-1px}
+.fbEmuStreamStory .uiBlingBox .img{margin-top:-1px}
+.fbEmuStreamStory .fbTimelineFeedbackComments{float:left;padding-right:3px}
+.fbEmuStreamStory .fbTimelineFeedbackLikes{float:left;padding-right:3px}
+.fbFeedTickerStory .fbEmuStreamStory .fbEmuStreamAttachment img{width:32px;height:32px}
+.fbFeedTickerStory .fbEmuStreamAttachment .fbEmuStreamAttachmentBlock{height:32px}
+.fbEmuStream .title{font-weight:bold;line-height:13px;margin-right:20px}
+.fbEmuStream .fbEmuContext{margin-bottom:2px}
+.fbEmuStream .action{margin:2px 0 1px 0}
+.fbEmuStream .body{line-height:13px}
+.fbEmuStreamBlockQuote{border-left:2px solid #ccc;padding:0 0 3px 8px}
+.fbEmuStream .text_exposed_link{padding:0 0 0 5px}
+.fbEmuStreamAttribution{color:gray}
+.bassLike{margin-top:2px}
+.fbEmuStreamStory{padding-top:1px}
+.fbEmuComboList .fbEmuComboListHeader{background-color:#ccc;border-top:1px solid #ccc;margin:13px 0 8px 0;padding:0;position:relative}
+.fbEmuComboList .fbEmuComboListHeader .fbEmuComboListHeaderText{background-color:#fff;color:#999;font-size:9px;font-weight:bold;left:0;margin-left:32px;padding:0 8px;position:absolute;top:-6px}
+.fbEmuStreamStory .tickerStoryBlock .uiStreamMessage .passiveName, .fbEmuStreamStory .uiStreamMessage .actorName.firstName, .fbEmuStreamStory .uiStreamMessage .passiveName.firstName{font-weight:bold}
+.fbEmuStreamStory .uiStreamMessage .actorName, .fbEmuStreamStory .uiStreamMessage .passiveName{font-weight:normal}
+.fbEmuStreamStoryAttachment{padding-left:32px}
+.fbEmu .uiUfi{width:auto}
+.uiHelpLink{background:url(https://s-static.ak.fbcdn.net/rsrc.php/v2/yt/r/7rpZ7CHyvX7.gif) no-repeat 0 center;display:inline-block;height:9px;width:12px}
+.uiHelpLink .right{left:auto;right:-4px}
+.fbChatEventMsg{border-top:1px solid #eee;position:relative}
+.fbChatEventMsg .eventIcon{margin-top:1px;height:16px;width:16px}
+.fbChatEventMsg .addActionIcon{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/y7/r/lHiQQo7ypwd.png);background-repeat:no-repeat;background-position:-294px -210px}
+.fbChatEventMsg .leaveActionIcon{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/y7/r/lHiQQo7ypwd.png);background-repeat:no-repeat;background-position:-290px -262px}
+.fbChatEventMsg .videoCallIcon{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/y7/r/lHiQQo7ypwd.png);background-repeat:no-repeat;background-position:-289px -279px}
+.fbChatEventMsg .editNameIcon{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/y7/r/lHiQQo7ypwd.png);background-repeat:no-repeat;background-position:-294px -244px}
+.fbChatEventMsg .changePictureIcon{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/y7/r/lHiQQo7ypwd.png);background-repeat:no-repeat;background-position:-294px -227px}
+.fbChatEventMsg .songIcon{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/y7/r/lHiQQo7ypwd.png);background-repeat:no-repeat;background-position:-272px -296px;height:12px}
+.fbChatEventMsg .playErrorIcon{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/y7/r/lHiQQo7ypwd.png);background-repeat:no-repeat;background-position:-288px -67px;height:12px}
+.fbChatEventMsg .iconWrapper{float:left;text-align:right;width:32px}
+.fbChatEventMsg .messageWrapper{margin-left:40px}
+.fbDockChatTab .fbChatEventMsg .timestamp{background-color:#fff;position:absolute;right:0;top:-6px;visibility:hidden}
+.fbDockChatTab .fbChatEventMsg:hover .timestamp{visibility:visible}
+.fbChatConvItem .metaInfoContainer{visibility:hidden}
+.fbChatConvItem:hover .metaInfoContainer{visibility:visible}
+.fbChatMessageGroup{border-top:1px solid #eee;position:relative}
+.fbChatMessageGroup .profileLink{float:left}
+.fbChatMessageGroup .profileLink .profilePhoto{display:block;height:32px;width:32px}
+.fbChatMessageGroup .messages{margin-left:40px}
+.fbChatMessage{margin-bottom:3px;white-space:pre-wrap;word-wrap:break-word}
+.fbChatMessage.cyphertext{color:#999;font-size:9px;line-height:11px}
+.fbChatMessage.errorStatus{color:#999}
+.fbChatMessage .attachment{margin-top:3px}
+.fbChatMessage .more{display:inline-block}
+.fbChatMessage .imagePreview{height:81px;margin-top:2px}
+.fbChatMessage .sharePreview,
+.fbChatMessage .sharePreview img,
+.fbChatMessage .videoPreview{margin-top:2px;max-height:90px;max-width:193px}
+.fbChatMessage .linkPreview,
+.fbChatMessage .linkPreview img{margin-top:2px;max-height:90px;max-width:90px}
+.fbChatMessage .MercuryLinkRight{margin-left:4px;max-height:90px;max-width:99px}
+.fbChatMessage .MercuryLinkRight .MercuryLinkTitle{max-height:70px;overflow:hidden}
+.fbChatMessage .MercuryExternalLink,
+.fbChatMessage .musicAttachment .MercuryMusicIcon{margin-bottom:3px}
+.fbChatMessageSubject{margin-bottom:3px;white-space:pre-wrap;word-wrap:break-word}
+.fbChatTabSelector .fbChatTabSelectorItem a{padding-left:5px;padding-right:20px}
+.fbChatTabSelector .fbChatTabSelectorItem a:hover{background-color:#6d84b4;border-color:#3b5998;color:#fff;outline:none}
+.fbChatTabSelector .messagesIcon{margin-right:5px;vertical-align:bottom}
+.fbChatTabSelector .numMessages{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/y7/r/lHiQQo7ypwd.png);background-repeat:no-repeat;background-position:-272px -262px;color:#fff;font-size:9px;font-weight:bold;height:16px;padding-top:1px;position:absolute;right:2px;text-align:center;top:-8px;width:17px}
+.fbChatTabSelector.openToggler .numMessages{display:none}
+.fbChatTabSelector .unreadCount{background-color:#d8dfea;-webkit-border-radius:2px;color:#3b5998;font-weight:bold;left:-1px;margin-right:2px;padding:1px 4px 2px;position:relative}
+.fbChatTabSelector .promoted{font-weight:bold}
+.fbChatTab .name{white-space:nowrap}
+.fbChatTab .name a,
+.fbChatTab .name a:hover{color:#333;text-decoration:none}
+.highlight .fbChatTab .name a,
+.highlight .fbChatTab .name a:hover{color:#fff}
+a .fbChatTab .funhouse{display:none}
+a:hover .fbChatTab .funhouse{display:block}
+.highlight.active .fbChatUserTab .wrap{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/y7/r/lHiQQo7ypwd.png);background-repeat:no-repeat;background-position:left -650px}
+.active .fbChatUserTab .wrap{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/y7/r/lHiQQo7ypwd.png);background-repeat:no-repeat;background-position:left -680px;padding-left:12px}
+.roger.mobile .fbChatUserTab .wrap{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/y7/r/lHiQQo7ypwd.png);background-repeat:no-repeat;background-position:left -621px;padding-left:12px}
+.greenring .fbChatUserTab .wrap{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/y7/r/lHiQQo7ypwd.png);background-repeat:no-repeat;background-position:left -710px;padding-left:12px}
+.typing .fbChatUserTab .wrapWrapper{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/y7/r/lHiQQo7ypwd.png);background-repeat:no-repeat;background-position:right 1px;padding-right:15px}
+.fbDockChatBuddyListNub{height:25px;width:180px}
+.presence_error .fbDockChatBuddyListNub{display:none}
+.fbDockChatBuddyListNub.openToggler{z-index:99}
+.fbDockChatBuddyListNub.openToggler .fbNubButton{display:none}
+.fbDockChatBuddyListNub .fbNubButton .icon{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/ye/r/SJMMHV014Gr.png);background-repeat:no-repeat;background-position:-136px -45px;float:left;height:10px;margin:3px 4px 0 0;width:16px}
+.offline .fbDockChatBuddyListNub .fbNubButton .icon, .offline.error .fbDockChatBuddyListNub .fbNubButton .icon{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/ye/r/SJMMHV014Gr.png);background-repeat:no-repeat;background-position:-102px -45px;height:10px;margin:3px 4px 0 0;width:16px}
+.error .fbDockChatBuddyListNub .fbNubButton .icon{margin-top:1px;background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/yi/r/Ce0Xa8hRU2A.png);background-repeat:no-repeat;background-position:-217px -50px;height:13px;width:14px}
+.fbDockChatBuddyListNub .fbNubButton .label{display:block;line-height:15px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.fbDockChatBuddyListNub .fbNubButton .label .count{color:#777}
+.fbDockChatBuddyListNub .fbNubButton .label .count strong{color:#333}
+.fbDockChatBuddyListNub .fbNubFlyout{bottom:0;min-height:280px;width:100%}
+.fbDockChatBuddyListNub .fbNubFlyoutInner{border-bottom:0}
+.fbDockChatBuddyListNub .fbNubFlyoutTitlebar .titlebarLabel{padding:0}
+.fbDockChatBuddyListNub .fbNubFlyoutTitlebar .titlebarTextWrapper{margin:3px 3px 3px 5px}
+.fbDockChatBuddyListNub .fbChatOrderedList, .fbDockChatBuddyListNub .fbChatTypeaheadView{padding:5px 0}
+.fbDockChatBuddyListNub .fbChatTypeahead, .fbDockChatBuddyListNub .fbChatTypeahead .wrap{border-style:none}
+.fbDockChatBuddyListNub .fbChatTypeahead{border-top:1px solid #dadfea}
+.fbDockChatBuddyListNub .fbChatTypeahead input{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/ye/r/SJMMHV014Gr.png);background-repeat:no-repeat;background-position:left -2px;-webkit-box-sizing:border-box;height:24px;padding-left:20px;padding-right:25px}
+.fbDockChatBuddyListNub div.fbChatSidebarDropdown .uiCloseButton{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/y7/r/lHiQQo7ypwd.png);background-repeat:no-repeat;background-position:-272px -184px;border:0 !important;-webkit-box-shadow:none;height:24px;width:22px}
+.fbDockChatBuddyListNub div.fbChatSidebarDropdown .uiCloseButton:active, .fbDockChatBuddyListNub div.fbChatSidebarDropdown .uiCloseButton:focus, .fbDockChatBuddyListNub div.fbChatSidebarDropdown .uiCloseButton:hover, .fbDockChatBuddyListNub div.fbChatSidebarDropdown .openToggler .uiCloseButton, .fbDockChatBuddyListNub div.fbChatSidebarDropdown .openToggler .uiCloseButton:active, .fbDockChatBuddyListNub div.fbChatSidebarDropdown .openToggler .uiCloseButton:focus, .fbDockChatBuddyListNub div.fbChatSidebarDropdown .openToggler .uiCloseButton:hover{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/y7/r/lHiQQo7ypwd.png);background-repeat:no-repeat;background-position:-272px -158px;background-color:#4a66a0;margin:0}
+.fbDockChatBuddyListNub .fbDockChatBuddyListNubMessage{background-color:#fff;border-top:1px solid #ccd0db;display:none;padding:6px}
+.error .fbDockChatBuddyListNub .fbDockChatBuddyListNubMessage{display:block}
+.error .fbDockChatBuddyListNub .fbDockChatBuddyListNubMessage .img{float:left;margin-top:7px;background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/yi/r/Ce0Xa8hRU2A.png);background-repeat:no-repeat;background-position:-217px -50px;height:13px;width:14px}
+.fbDockChatBuddyListNub .fbDockChatBuddyListNubMessage .message{margin-left:24px}
+.rogerMarketingCallout .learnMoreLink{margin-left:7px}
+.fbNub .fbNubFlyoutTitlebar .fbDockChatDropdown .button{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v2/y7/r/lHiQQo7ypwd.png);background-repeat:no-repeat;background-position:-272px -184px;width:22px}
+.fbNub .fbNubFlyoutTitlebar .fbDockChatDropdown .button:active, .fbNub .fbNubFlyoutTitlebar .fbDockChatDropdown .button:focus, .fbNub .fbNubFlyoutTitlebar .fbDockChatDropdown .button:hover{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v2/y7/r/lHiQQo7ypwd.png);background-repeat:no-repeat;background-position:-272px -158px}
+.fbNub .fbNubFlyoutTitlebar .fbDockChatDropdown .button:active, .fbNub .fbNubFlyoutTitlebar .fbDockChatDropdown .openToggler .button, .fbNub .fbNubFlyoutTitlebar .fbDockChatDropdown .openToggler .button:active, .fbNub .fbNubFlyoutTitlebar .fbDockChatDropdown .openToggler .button:focus
+.fbNub .fbNubFlyoutTitlebar .fbDockChatDropdown .openToggler .button:hover{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v2/y7/r/lHiQQo7ypwd.png);background-repeat:no-repeat;background-position:-272px -158px;background-color:#4a66a0;border:0}
+.fbNub, .fbNubGroup{float:left;position:relative}
+.fbNub{-webkit-box-shadow:0 1px 1px rgba(0, 0, 0, .3)}
+.fbNub.openToggler{-webkit-box-shadow:none}
+.lNubContainer .fbNub{margin-right:4px}
+.rNubContainer .fbNub{margin-left:4px}
+.fbNubButton{background:#ebeef4;border:1px solid rgba(29, 49, 91, .3);border-bottom:0;-webkit-box-shadow:inset 0 1px rgba(255, 255, 255, .5);color:#333;display:block;height:16px;font-weight:bold;padding:4px 5px;position:relative;z-index:1}
+.fbNubButton, .fbNubFlyoutTitlebar, .fbNub .noTitlebar{border-top-left-radius:1px 1px;border-top-right-radius:1px 1px}
+.fbNubButton:hover{background:#f5f7fa;text-decoration:none}
+.openToggler .fbNubButton{background:#fff;-webkit-border-radius:0;border-top:0;-webkit-box-shadow:0 1px 1px rgba(0, 0, 0, .3);padding:5px}
+.fbNubFlyout{bottom:25px;-webkit-box-shadow:0 1px 1px rgba(0, 0, 0, .3);position:absolute}
+.fbNub.maxHeight .fbNubFlyoutOuter{height:9999px}
+.fbNub .noTitlebar{border-top:1px solid rgba(0, 0, 0, .3)}
+.lNubContainer .fbNubFlyout, .rNubContainer .fbNub .swapDirection{left:0;right:auto}
+.rNubContainer .fbNubFlyout, .lNubContainer .fbNub .swapDirection{left:auto;right:0}
+.fbNubFlyoutInner{border-bottom:1px solid rgba(0, 0, 0, .3)}
+.fbNubFlyoutTitlebar, .menuOpened .fbNubFlyoutTitlebar, .menuOpened .fbNubFlyoutTitlebar:hover{background-color:#6d84b4;border:1px solid rgba(0, 39, 121, .76);border-bottom:none;border-top-left-radius:1px 1px;border-top-right-radius:1px 1px;cursor:pointer}
+.fbNubFlyoutTitlebar:hover{background-color:#627bae}
+.menuOpened .fbNubFlyoutTitlebar, .menuOpened .fbNubFlyoutTitlebar:hover{-webkit-box-shadow:none}
+.fbNubFlyoutTitlebar .titlebarLabel{color:#fff;font-weight:bold;line-height:18px;padding:3px 7px 4px}
+.fbNubFlyoutHeader, .fbNubFlyoutBody, .fbNubFlyoutFooter{background-color:#fff;border:1px solid rgba(0, 0, 0, .3);border-width:0 1px}
+.fbNubFlyoutBody{overflow-x:hidden;overflow-y:auto;position:relative}
+.fbNubButton, .fbNubButton:hover, .openToggler .fbNubButton, .fbNubFlyout, .fbNubFlyout .flyoutInner, .fbNubFlyoutTitlebar, .fbNubFlyoutHeader, .fbNubFlyoutBody, .fbNubFlyoutFooter{-webkit-background-clip:padding-box}
+.fbDockWrapper{bottom:0;direction:ltr;height:25px;left:0;position:fixed;right:0;z-index:300}
+.fbDockWrapperLeft{right:auto}
+.fbDockWrapperRight{left:auto}
+.fbDock{margin:0 15px 0 0}
+.fbDock .lNubContainer{float:left}
+.fbDock .rNubContainer{float:right}
+.fbMercuryChatTab.typing .fbChatUserTab .wrapWrapper{float:left;max-width:133px}
+.fbMercuryChatTab.typing .fbNubButton:hover .fbChatUserTab .wrapWrapper{max-width:113px}
+.fbMercuryChatTab.user.active .titlebarTextWrapper{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/y7/r/lHiQQo7ypwd.png);background-repeat:no-repeat;background-position:left -649px;padding-left:12px}
+.fbMercuryChatTab.user.greenring .titlebarTextWrapper{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/y7/r/lHiQQo7ypwd.png);background-repeat:no-repeat;background-position:left -709px;padding-left:12px}
+.fbMercuryChatTab.user.mobile.roger .titlebarTextWrapper{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/y7/r/lHiQQo7ypwd.png);background-repeat:no-repeat;background-position:left -520px;padding-left:12px}
+.fbMercuryChatTab .titlebar i.titanArchiveWarning{margin-right:5px}
+.fbMercuryChatTab.user .titlebar .videoicon{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/y7/r/lHiQQo7ypwd.png);background-repeat:no-repeat;background-position:-272px -80px;display:none;width:22px}
+.fbMercuryChatTab.user.active .titlebar .videoicon{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/y7/r/lHiQQo7ypwd.png);background-repeat:no-repeat;background-position:-288px -15px}
+.fbMercuryChatTab.user.active .titlebar .videoicon:active, .fbMercuryChatTab.user.active .titlebar .videoicon:focus, .fbMercuryChatTab.user.active .titlebar .videoicon:hover{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/y7/r/lHiQQo7ypwd.png);background-repeat:no-repeat;background-position:-288px -41px}
+.videoCallEnabled .fbMercuryChatTab.user .titlebar .videoicon{display:inline-block}
+.videoCallEnabled .fbMercuryChatTab.user.disabled .titlebar .videoicon{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/y7/r/lHiQQo7ypwd.png);background-repeat:no-repeat;background-position:-288px -15px;cursor:default}
+.fbMercuryChatTab .callBackLink{white-space:nowrap}
+.fbMercuryChatTab.disabled .callBackLink{display:none}
+.tooltipItemWithIcon{margin-right:20px}
+.videoCallPromo{width:225px}
+.fbMercuryChatTab .addFriends{padding:3px 5px}
+.fbMercuryChatTab .addFriends table td:first-child{padding-right:3px;width:100%}
+.fbMercuryChatTab{height:25px;width:160px}
+#fbDockChatTabs .fbMercuryChatTab.opened{width:260px}
+.fbMercuryChatTab.highlightTab .fbNubButton{background-color:#6d84b4;border-color:#3a5997;-webkit-box-shadow:inset 0 1px rgba(255, 255, 255, .1);color:#fff}
+.fbMercuryChatTab.highlightTab:hover .fbNubButton{background-color:#627bae}
+.fbMercuryChatTab.opened .fbNubButton{display:none}
+.fbMercuryChatTab .fbChatTab{margin-left:2px}
+.fbMercuryChatTab .fbChatTab .name{line-height:15px;overflow:hidden;text-overflow:ellipsis}
+.fbMercuryChatTab .numMessages{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/y7/r/lHiQQo7ypwd.png);background-repeat:no-repeat;background-position:-272px -262px;color:#fff;font-size:9px;font-weight:bold;height:16px;padding-top:1px;position:absolute;right:12px;text-align:center;top:-8px;width:17px}
+.fbMercuryChatTab .fbDockChatTabFlyout{display:none;bottom:0;height:285px;width:100%}
+.fbMercuryChatTab.opened .fbDockChatTabFlyout{display:block}
+.fbMercuryChatTab .fbNubFlyoutInner{border-bottom:0}
+.fbMercuryChatTab.highlightTitle .fbNubFlyoutTitlebar{border-color:#337703;background-color:#65a830}
+.fbMercuryChatTab .fbNubFlyoutHeader{position:relative}
+.fbMercuryChatTab .sheetContainer{position:absolute;top:100%;width:100%}
+.fbMercuryChatTab.sheetSlide .sheetContainer{overflow:hidden}
+.fbMercuryChatTab .sheetContainer .sheet{-webkit-background-clip:padding-box;background-color:#f2f2f2;border-bottom:1px solid rgba(0, 0, 0, .1);position:relative;z-index:1}
+.fbMercuryChatTab .sheetContainer .sheet .sheet_content{display:inline-block;vertical-align:middle;width:212px}
+.fbMercuryChatTab.sheetSlide .sheetContainer .sheet{bottom:100%}
+.fbMercuryChatTab .sheet .sheet_img{vertical-align:middle}
+.fbMercuryChatTab .sheet .active .sheet_img{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/ye/r/SJMMHV014Gr.png);background-repeat:no-repeat;background-position:-119px -45px;height:10px;width:16px}
+.fbMercuryChatTab .sheet .mobile .sheet_img{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/y7/r/lHiQQo7ypwd.png);background-repeat:no-repeat;background-position:-295px -100px;height:15px;margin-right:3px;width:11px}
+.fbMercuryChatTab .sheet .messenger .sheet_img{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/y7/r/lHiQQo7ypwd.png);background-repeat:no-repeat;background-position:-295px -80px;height:19px;margin-right:7px;width:11px}
+.fbMercuryChatTab .sheet .blocked .sheet_img{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/ye/r/SJMMHV014Gr.png);background-repeat:no-repeat;background-position:0 -80px;height:15px;margin-right:3px;width:13px}
+.fbMercuryChatTab .sheet .chatOffline .sheet_img{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/ye/r/SJMMHV014Gr.png);background-repeat:no-repeat;background-position:-102px -45px;height:10px;width:16px}
+.no-titan .fbMercuryChatTab.disabled .fbNubFlyoutBody{background-color:#f7f7f7}
+.fbMercuryChatTab .fbNubFlyoutBodyContent, .fbMercuryChatTab .conversationContainer{height:100%;width:100%}
+.fbMercuryChatTab .conversationContainer{table-layout:fixed}
+.fbMercuryChatTab .conversationContainer .conversation{padding-top:3px}
+.fbMercuryChatTab .fbNubFlyoutFooter{position:relative}
+.fbMercuryChatTab .typingIndicator{margin-left:26px;padding:0 8px 5px 19px;visibility:hidden;-webkit-user-select:none;-webkit-user-select:none}
+.fbMercuryChatTab.roger .typingIndicator{color:#a6a6a6}
+.fbMercuryChatTab .typingIndicator.sentFromMobile{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/y7/r/lHiQQo7ypwd.png);background-repeat:no-repeat;background-position:left -122px;visibility:visible}
+.fbMercuryChatTab .typingIndicator.sentFromEmail{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/y7/r/lHiQQo7ypwd.png);background-repeat:no-repeat;background-position:left -222px;visibility:visible}
+.fbMercuryChatTab .typingIndicator.typing{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/y7/r/lHiQQo7ypwd.png);background-repeat:no-repeat;background-position:left -322px;visibility:visible}
+.fbMercuryChatTab.roger .typingIndicator.typing{background:none;visibility:visible}
+.fbMercuryChatTab .typingIndicator.seen{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/y7/r/lHiQQo7ypwd.png);background-repeat:no-repeat;background-position:left -22px;visibility:visible}
+.fbMercuryChatTab .typingIndicator.seen a{color:inherit}
+.fbMercuryChatTab .inputContainer{position:relative}
+.fbMercuryChatTab.focusedTab .titlebar{background-color:#4d68a2}
+.fbMercuryChatTab .input{border:0;border-top:1px solid #c9d0da;display:block;height:0;margin:0;max-height:77px;min-height:16px;outline:none;overflow:auto;overflow-x:hidden;padding:5px 4px 3px 20px;resize:none;width:234px}
+.no-titan .fbMercuryChatTab.disabled .input{background-color:#e4e4e4;color:#888}
+.fbMercuryChatTab .inputIcon{left:4px;position:absolute;top:5px}
+.fbMercuryChatTab.mobile .inputIcon{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/y7/r/lHiQQo7ypwd.png);background-repeat:no-repeat;background-position:0 -423px;height:12px;width:8px;margin-top:2px;left:7px}
+.fbMercuryChatTab.roger .input{padding:5px 4px 3px 5px;width:249px}
+.fbMercuryChatTab.roger .inputIcon{display:none}
+.fbMercuryChatTab .funhouse .close{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/y7/r/lHiQQo7ypwd.png);background-repeat:no-repeat;background-position:-272px -15px;height:15px;vertical-align:top;width:15px}
+.fbMercuryChatTab .funhouse .close:hover, .fbMercuryChatTab .funhouse .close:focus{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/y7/r/lHiQQo7ypwd.png);background-repeat:no-repeat;background-position:-272px -47px}
+.fbMercuryChatTab .funhouse .close:active{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/y7/r/lHiQQo7ypwd.png);background-repeat:no-repeat;background-position:-272px -63px}
+.fbMercuryChatTab .funhouse{margin-top:1px}
+.fbMercuryChatTab.opened .funhouse{display:block;margin-left:5px}
+.fbMercuryChatTab .titlebar .titlebarLabel{padding:0}
+.fbMercuryChatTab .titlebar .titlebarTextWrapper{margin:3px 7px 4px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.fbMercuryChatTab .titlebar .titlebarText{margin:0;color:#fff}
+.fbMercuryChatTab .titlebar .noLink{text-decoration:none}
+.fbMercuryChatTab .titlebar .button{display:inline-block;height:25px;margin-right:-1px;vertical-align:top}
+.fbMercuryChatTab .titlebar .close{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/y7/r/lHiQQo7ypwd.png);background-repeat:no-repeat;background-position:-272px -236px;margin-right:3px;width:21px}
+.fbMercuryChatTab .titlebar .close:active, .fbMercuryChatTab .titlebar .close:focus, .fbMercuryChatTab .titlebar .close:hover{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/y7/r/lHiQQo7ypwd.png);background-repeat:no-repeat;background-position:-272px -210px}
+.fbMercuryChatTab .fbChatMessageGroup .metaInfoContainer, .fbMercuryChatTab .fbChatEventMsg .timestamp{background-color:#fff;position:absolute;right:0;top:-6px}
+.fbMercuryChatTab .fbChatEventMsg .timestamp{visibility:hidden}
+.fbMercuryChatTab .fbChatEventMsg:hover .timestamp{visibility:visible}
+.no-titan .fbMercuryChatTab.disabled .fbChatMessageGroup .metaInfoContainer{background-color:#f7f7f7}
+.fbMercuryChatTab .MercuryTabSheetLoading{padding:5px 115px 5px}
+.fbMercuryChatTab.thread .titlebarText{max-width:172px}
+.fbMercuryChatTab.thread .narrowTitleBar .titlebarText{max-width:147px}
+.fbMercuryChatTab.thread .titlebar .addToThread{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/y7/r/lHiQQo7ypwd.png);background-repeat:no-repeat;background-position:-272px -132px;width:22px}
+.fbMercuryChatTab.thread .titlebar .addToThread:active, .fbMercuryChatTab.thread .titlebar .addToThread:focus, .fbMercuryChatTab.thread .titlebar .addToThread:hover{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/y7/r/lHiQQo7ypwd.png);background-repeat:no-repeat;background-position:-272px -106px}
+.MercuryLogMessageIcon{height:16px;width:16px}
+.MercurySubscribeIcon{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/y7/r/lHiQQo7ypwd.png);background-repeat:no-repeat;background-position:-294px -210px}
+.MercuryUnsubscribeIcon{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/y7/r/lHiQQo7ypwd.png);background-repeat:no-repeat;background-position:-290px -262px}
+.MercuryThreadNameIcon{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/y7/r/lHiQQo7ypwd.png);background-repeat:no-repeat;background-position:-294px -244px}
+.MercuryThreadImageIcon{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/y7/r/lHiQQo7ypwd.png);background-repeat:no-repeat;background-position:-294px -227px}
+.MercuryMissedVideoCallIcon{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/y7/r/lHiQQo7ypwd.png);background-repeat:no-repeat;background-position:-272px -279px}
+.MercuryVideoCallIcon{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/y7/r/lHiQQo7ypwd.png);background-repeat:no-repeat;background-position:-289px -279px}
+.fbChatEventMsg .eventIcon.MercuryErrorIcon{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/yi/r/Ce0Xa8hRU2A.png);background-repeat:no-repeat;background-position:-63px -30px;height:12px;margin-top:2px;width:11px}
+.mercuryErrorIndicator{margin-left:2px;vertical-align:bottom}
+.mercuryClickableErrorIndicator{cursor:pointer}
+.MercuryThreadImage{width:50px;height:50px}
+.MercuryMediumThreadImage{width:32px;height:32px}
+.MercuryThreadlistIcon{vertical-align:middle}
+.MercuryPhotoIcon i{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/ye/r/SJMMHV014Gr.png);background-repeat:no-repeat;background-position:-88px -27px}
+.MercuryVideoIcon i{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/ye/r/SJMMHV014Gr.png);background-repeat:no-repeat;background-position:-36px -27px}
+.MercuryMusicIcon i{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/ye/r/SJMMHV014Gr.png);background-repeat:no-repeat;background-position:-68px -45px}
+.MercuryTextIcon i{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/yi/r/Ce0Xa8hRU2A.png);background-repeat:no-repeat;background-position:-102px -50px}
+.MercuryDefaultIcon i{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/yi/r/Ce0Xa8hRU2A.png);background-repeat:no-repeat;background-position:-85px -50px}
+.MercuryErrorIcon i{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/ye/r/SJMMHV014Gr.png);background-repeat:no-repeat;background-position:-17px -45px}
+.fbRequestList .async_saving{position:relative}
+.fbRequestList .loadingIndicator{display:none;top:50%;left:50%;margin:-5px 0 0 -8px;position:absolute}
+.fbRequestList .async_saving .loadingIndicator{display:block}
+.fbRequestList .async_saving .addButtonWrapper, .fbRequestList .async_saving .uiButton{visibility:hidden}
+div.fbRequestList .addButtonWrapper{display:inline-block;margin-right:5px;text-align:left}
+.fbRequestList .addButtonWrapper .FriendListMenu li, #fbRequestsFlyout .addButtonWrapper .FriendListMenu li{overflow:hidden;padding:0;text-overflow:ellipsis;white-space:nowrap}
+.fbRequestList .networkContextWrapper{margin:2px 0}
+#so_sound_player{left:0;position:absolute;top:0;z-index:1000}
+#sound_player_holder{position:absolute}
+.cx-uiStickyArea__container{position:relative}
+.uiContextualLayer .cx-uiStickyArea__area{position:absolute;top:0}
+.cx-uiStickyArea__container .cx-uiStickyArea__area{position:static;top:auto}
+.objectListItem{padding-bottom:8px;padding-top:8px}
+.passive .objectListItem{color:gray}
+.objectListItem .auxiliary{text-align:right}
+.uiSplitPics{float:left;width:50px}
+.uiSplitPics_small .uiSplitPics{width:32px}
+.uiSplitPics .uiSplitPic{float:left;overflow:hidden;width:24px}
+.uiSplitPics .leftThree{width:33px}
+.uiSplitPics .rBottom .img{height:25px}
+.uiSplitPics .rTop .img,
+.uiSplitPics .rBottom .img{margin-left:-4px}
+.uiSplitPics .rBottom{margin-top:1px}
+.uiSplitPics .rTop,
+.uiSplitPics .rBottom{margin-left:1px;width:16px}
+.uiSplitPics_small .uiSplitPics .uiSplitPic{width:15px}
+.uiSplitPics .img{display:block;margin-left:-13px}
+.uiSplitPics_small .uiSplitPics .img,
+.uiSplitPics .leftThree .img{margin-left:-8px}
+.uiSplitPics .leftPic{margin-right:1px;width:25px}
+.uiSplitPics_small .uiSplitPics .leftPic{width:16px}
+.uiInlineTokenizer{cursor:text;border:1px solid #bdc7d8}
+.uiInlineTokenizer .tokenarea{padding-left:2px}
+.uiInlineTokenizer .uiToken{top:2px}
+.uiInlineTokenizer .uiTypeahead{border:0;float:left}
+.uiInlineTokenizer .uiTypeahead .wrap{border:0}
+div.uiInlineTokenizerView{width:200px}
+.uiInlineTokenizer .textInput[disabled]{background:#fff}
+.contact_importer_widget table.uiInfoTable.noLabel th.label{display:none}
+.contact_importer_widget.ci_inputless .as_invite_optout{margin-left:0}
+.ci_design_full .contact_importer_widget.ci_inputless .login_form{margin-left:45px}
+.ego_contact_importer .contact_importer_widget .ci_submit_container
+.ci_submit_button{float:none}
+.ego_contact_importer .contact_importer_widget .ci_submit_container
+.ci_ego_link_button input{font-weight:bold}
+.contact_importer_widget .lhs_logo_class{float:left;margin:11px 11px 0 0}
+.contact_importer_widget.ci_webmail .unsupported_email{width:275px}
+.contact_importer_widget.ci_webmail .unsupported .unsupported_email{display:block}
+.contact_importer_widget.ci_webmail .unsupported .disclaimer,
+.contact_importer_widget.ci_webmail .unsupported_email,
+.contact_importer_widget.ci_webmail .unsupported .ci_submit_container,
+.contact_importer_widget.ci_webmail .api .disclaimer{display:none}
+.contact_importer_widget.ci_webmail .waiting .ci_login{background:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/yb/r/GsNJNwuI-UM.gif) right no-repeat;background-position:98% 50%;background-color:#fff}
+.contact_importer_widget.ci_webmail .as_invite_optout{margin-left:60px}
+.ego_contact_importer .contact_importer_widget.ci_webmail .valid .ci_login,
+.ego_contact_importer .contact_importer_widget.ci_webmail .api .ci_login{padding-right:23px;width:206px;background:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/y9/r/Ar6K0o_04bw.gif) right no-repeat;background-position:98% 50%;background-color:#fff}
+.ego_contact_importer .contact_importer_widget.ci_webmail .unsupported .ci_login{background:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/yA/r/NS2OPUfKoJa.gif) right no-repeat;background-position:98% 50%;background-color:#fff}
+.ego_contact_importer .contact_importer_widget.ci_webmail .ci_password{width:226px}
+.GrowthInviteStory_Logo{background:#fff;border:1px solid #ccc}
+.GrowthInviteStory_ThreePhotos{float:left;margin-right:10px}
+.GrowthInviteStory_ThreePhotos img{margin:0 5px 5px 0}
+.GrowthInviteStory_ButtonWrap{display:block;padding-top:0}
+.GrowthInviteStory_ButtonWrap
+.contact_importer_widget
+.ci_submit_container
+.ci_submit_button{padding-left:0;padding-bottom:5px}
+#megaphone_story_147 .megaphone_content{margin-top:10px}
+#msn_chat_login_form td.label{text-align:right;vertical-align:top;padding-top:5px;padding-right:10px;width:96px}
+.ego_image .img{vertical-align:bottom}
+.ego_image_tiny .img{height:32px;width:32px}
+.ego_image_small .img{height:50px;width:50px}
+.ego_image_medium .img{width:80px}
+.uiProgressBar{background:#fff;border:1px solid;border-color:#a4a4a4 #bbb #d5d5d5}
+.uiProgressBar .fill{background:#6d84b4;border:solid #3b5998;border-width:1px 0 1px 1px;color:#fff;height:20px;margin:-1px;overflow:hidden;position:relative}
+.uiProgressBarSmall .fill{height:8px}
+.uiProgressBar .full{border-right:solid 1px #3b5998}
+.uiProgressBar .empty{border-width:1px 0}
+.uiProgressBar .label{white-space:nowrap;line-height:20px;display:inline-block;padding-left:5px}
+.uiProgressBar .labelBack{position:absolute}
+.fbContextualHelp .columnHeader{font-size:11px}
+.fbContextualHelp .messageContainer{background-color:#eceff5;border-color:#9daccb;font-size:13px;height:130px;padding-top:8px}
+.fbProfileSilhouetteIcon{width:50px;height:50px;display:inline-block;background-color:#eceff5;border:1px solid #c5cde1}
+.fbProfileSilhouetteIcon:active{background-color:#d8deeb;border:1px solid #9daccb}
+.fbProfileSilhouetteIcon:hover{border:1px solid #9daccb}
+.fbProfileSilhouetteIcon .iconSpan{display:inline-block;width:50px;height:50px;border-top:1px solid #f2f4f8;border-bottom:1px solid #f6f7f9}
+.fbProfileSilhouetteIcon .iconSpan:active{border-top:1px solid #cdd5e6;border-bottom:1px solid #f7f9fb}
+.fbProfileSilhouetteIcon .iconImage{position:relative;left:1px;top:1px}
+#rogerSidenavCallout{background-color:#fff;border-bottom:1px solid #bdc7d8;padding:11px 13px}
+#rogerSidenavCallout .dismissRogerCallout{float:right}
+a.egoMediaThumb i,
+span.egoMediaThumb i{height:66px;width:94px}
+a.egoMediaThumbMedium i,
+span.egoMediaThumbMedium i{height:78px;width:104px}
+.egoTimelineIntro a.egoMediaThumbMedium i,
+.egoTimelineIntro span.egoMediaThumbMedium i{height:70px;width:104px}
+.egoPhotoImage{float:left;padding-bottom:3px}
+.egoPhotoContext{padding-top:3px}
+.app_star_survey_block{padding-top:3px
+}
+.uiStarsRatable{display:inline-block;position:relative;cursor:pointer}
+.uiStarsRatable i{display:inline-block;height:17px;width:16px}
+.uiStarsRatable .emptyStar{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/yi/r/7pe72Ge_bhl.png);background-repeat:no-repeat;background-position:0 0}
+.uiStarsRatable .fullStar{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/yi/r/7pe72Ge_bhl.png);background-repeat:no-repeat;background-position:0 -18px}
+.uiStarsRatable .hoverStar{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/yi/r/7pe72Ge_bhl.png);background-repeat:no-repeat;background-position:0 -36px}
+.uiStarsRated{cursor:default}
+.fbProfileNavHeaderEditButton{width:18px;height:18px;display:block}
+.fbProfileNavHeaderEditButton:hover .navHeaderPencil{opacity:.8}
+.fbProfileNavHeaderEditButton:active .navHeaderPencil{opacity:1}
+.uiP{line-height:16px}
+.uiPLarge{line-height:18px}
+.couponAdsPhoto{height:50px;width:50px;margin:2px 6px 2px 2px}
+.couponAdsBody{border:dotted 1px #808080;cursor:pointer}
+.couponAdsTextDiv{color:#3b5998;height:50px;padding-right:4px}
+.couponAdsBody:hover .couponAdsDiv,
+.couponAdsBody:hover{text-decoration:underline;cursor:pointer}
+.sp_700rzo{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/yW/r/S-U4rZRYrJb.png);background-repeat:no-repeat;display:inline-block;height:16px;width:16px}
+.sx_5520c9{background-position:-51px -15px}
+.sx_cedb20{width:142px;height:14px;background-position:-0px -0px}
+.sx_29b2e3{width:50px;height:50px;background-position:-0px -15px}
+.sp_7i5eii{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v2/y6/r/gjY1fQbSa4f.png);background-repeat:no-repeat;display:inline-block;height:16px;width:16px}
+.sx_cbfaf9{background-position:-0px -0px}
+.sx_a91374{background-position:-0px -17px}
+.sp_8su1fm{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/y_/r/efW2dnzldtP.png);background-repeat:no-repeat;display:inline-block;height:16px;width:16px}
+.sx_1ca7c7{height:18px;background-position:-0px -0px}
+.sx_510cbb{background-position:-0px -19px}
+.sx_e0038a{background-position:-0px -36px}
+.sx_8991b5{background-position:-0px -53px}
+.sx_85f1ad{background-position:-0px -70px}
+.sp_a7u4g2{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/yU/r/rULmlKGTppe.png);background-repeat:no-repeat;display:inline-block;height:9px;width:7px}
+.sx_18913e{background-position:-0px -23px}
+.sx_f3b206{width:11px;height:11px;background-position:-0px -0px}
+.sx_0b8415{width:10px;height:10px;background-position:-0px -12px}
+.highlight{background:#fff8cc;border-bottom:1px solid #ffe222;padding-bottom:1px}
+
+#bootloader_fr5AC { height: 42px; }

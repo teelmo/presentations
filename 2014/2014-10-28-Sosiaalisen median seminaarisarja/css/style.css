@@ -1,0 +1,313 @@
+/*
+  COLORS
+ 
+  Dark Blue       #222438
+  Medium Blue      #959db5
+  Light Blue       #c9d5e1
+  Dark Blue Links    #1a4a6a
+  
+*/
+
+body {
+  font-family: 'Open Sans', "Helvetica Neue", arial, sans-serif;
+  font-size: 50px;
+  font-size: 5rem;
+  color: #f1f1f1;
+  /*background-color: #c9d5e1;*/
+  background-color: rgb(34,36,37);
+}
+
+h1 {
+  font-size: 110px;
+  font-family: 'Gentium Basic', "Helvetica Neue", Arial, sans-serif;
+  font-size: 11rem;
+  margin: 0;
+  text-align: center;
+  text-shadow: 0 2px 1px #fff;
+}
+
+ol li,
+ul li {
+	margin: 30px 0;
+}
+
+ol,
+ul,
+p {
+  width: 70%;
+  margin: 70px auto 0 auto;
+  margin: 7rem auto 0 auto;
+  text-shadow: 0 1px 1px #fff;
+  line-height: 1.2;
+}
+.container {
+  text-align: center;
+  margin-top: 110px;
+}
+
+a, a:visited {
+  color: #00aabd;
+  text-decoration: none;
+  /*font-weight: bold;
+  font-style: italic;*/
+  text-shadow: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+
+.center {
+	text-align: center;
+	margin: auto auto;
+}
+.large {
+  line-height: 1;
+  font-size: 70px;
+  font-size: 7rem;
+  text-shadow: 0 1px 0 #000;
+  font-weight: bold;
+}
+.nowrap {
+	white-space: nowrap;
+}
+
+.small li {
+	margin: 5px 0;
+	font-size: 45px;
+	font-size: 4.5rem;
+}
+small {
+  line-height: 1;
+  font-style: italic;
+  font-size: 20px;
+  font-size: 2rem;
+  text-shadow: 0 1px 0 #000;
+}
+
+.download {
+  padding-left: 15px;
+  padding-left: 1.5rem;
+}
+
+.pro-tip {
+  display: block;
+  padding: 20px;
+  padding: 2rem;
+  text-shadow: 0 1px 0 #000;
+}
+
+pre {
+  font-size: 18px;
+  font-size: 1.8rem;
+}
+
+blockquote {
+  text-align: left;
+  width: 70%;
+  margin: 10px auto;
+  margin: 1rem auto;
+  background: #fff;
+  border: solid 3px #959db5;
+  padding: 0 40px;
+  padding: 0 4rem;
+  border-radius: 6px;
+  border-radius: .6rem;
+}
+
+code {
+  font-style: normal;
+  padding-left: 5px;
+  padding-left: .5rem;
+}
+
+/*----------------------------------------  HEADER  */
+
+#header {
+  width: 100%;
+  position: fixed;
+  top: 0;
+  display: none;
+  left: 0;
+  z-index: 10;
+  background: #fff;
+  border-bottom: solid 3px #959db5;
+  padding: 0 5px 5px 5px;
+  padding: 0 .5rem .5rem .5rem;
+  text-align: center;
+  opacity: .8;
+}
+#header a {
+  color: rgb(34,36,37);
+  text-shadow: 0 0 0;
+}
+
+#instructions {
+  position: fixed;
+  top: 100px;
+  left: 20px;
+  display: none;
+  background: #fff;
+  border: solid 1px rgb(34,36,37);
+  padding: 5px 10px;
+  text-transform: uppercase;
+  width: 275px;
+  font-size: 14px;
+  font-weight: bold;
+  z-index: 99;
+  color: rgb(34,36,37);
+}
+
+#powered {
+  font-weight: bold;
+  padding-bottom: 20px;
+}
+
+.nav-button {
+  padding: 10px;
+  padding: 1rem;
+  text-decoration: none;
+  color: #959db5;
+  font-size: 20px;
+  font-size: 2rem;
+  text-shadow: 0 -1px 1px #000;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-style: normal;
+}
+
+#header a.current, a.nav-button:hover {
+  color: #00aabd;
+  text-shadow: 0 0 0 #ccc;
+}
+
+#resize-graphic {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  opacity: .6;
+}
+
+/*----------------------------------------  SLIDES  */
+
+.slide {
+  margin: 0 auto;
+  width: 99%;
+  padding: 120px 0;
+  padding: 8rem 0;
+  height: 100rem;
+}
+
+#title {
+  line-height: .8;
+}
+
+#author {
+  width: 75%;
+  font-size: 20px;
+  font-size: 2rem;
+  margin: 0 auto;
+  padding-bottom: 20px;
+  padding-bottom: 2rem;
+  text-align: right;
+  font-style: italic;
+}
+
+.twitter-follow-button {
+  position: relative;
+  top: 8px;
+  left: 4px;
+}
+
+#animations {
+  padding-top: 70px;
+  padding-top: 7rem;
+  height: 480px;
+  height: 48rem;
+}
+
+#examples h1 {
+  padding-bottom: 20px;
+  padding-bottom: 2rem;
+}
+
+#examples, #examples p, #credits {
+  line-height: .8;
+}
+
+#examples p {
+  padding-top: 20px;
+}
+
+#credits a {
+  padding-right: 3px;
+}
+
+/*------------------------  BASE-REM SIZING  */
+
+
+@media (min-width: 1401px) {
+  html {
+    font-size: 12px;
+  }
+}
+
+@media (max-width: 1400px) {
+  html {
+    font-size: 11px;
+  }
+}
+
+/* target screen width  */
+@media (max-width: 1280px) {
+  html {
+    font-size: 10px;
+  }
+}
+  
+@media (max-width: 1160px) {
+  html {
+    font-size: 9px;
+  }
+}
+  
+@media (max-width: 1040px) {
+  html {
+    font-size: 8px;
+  }
+}
+  
+@media (max-width: 920px) {
+  html {
+    font-size: 7px;
+  }
+}
+  
+@media (max-width: 800px) {
+  html {
+    font-size: 6px;
+  }
+}
+  
+@media (max-width: 680px) {
+  html {
+    font-size: 5px;
+  }
+}
+  
+@media (max-width: 560px) {
+  html {
+    font-size: 4px;
+  }
+}
+  
+@media (max-width: 440px) {
+  html {
+    font-size: 3px;
+  }
+}
+
+@media (max-width: 320px) {
+  html {
+    font-size: 3px;
+  }
+}

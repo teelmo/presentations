@@ -1,0 +1,138 @@
+1070143200|teelmo|A|OHJ|00FFFF
+1070143200|teelmo|A|OHJ/OHJ-PORI|00FFFF
+1070143200|teelmo|A|OHJ/OHJ-PORI/Tietotekniikan peruskurssi|00FFFF
+1071180000|teelmo|A|KIE|FF0000
+1071180000|teelmo|A|KIE/KIE-PORI|FF0000
+1071180000|teelmo|A|KIE/KIE-PORI/Englannin kielen peruskurssi II|FF0000
+1072735200|teelmo|A|MAT|FFFF00
+1072735200|teelmo|A|MAT/MAT-PORI|FFFF00
+1072735200|teelmo|A|MAT/MAT-PORI/Insinoorimatematiikka 1|FFFF00
+1098306000|teelmo|A|TLT|FF00FF
+1098306000|teelmo|A|TLT/TLT-PORI|FF00FF
+1098306000|teelmo|A|TLT/TLT-PORI/Tietoliikennetekniikan perusteet|FF00FF
+1101420000|teelmo|A|OHJ/OHJ-PORI/Ohjelmistotuotanto|00FFFF
+1102888800|teelmo|A|KIE/KIE-PORI/Ruotsin e-peruskurssi|FF0000
+1102975200|teelmo|A|SMG|FF0000
+1102975200|teelmo|A|SMG/SMG-PORI|FF0000
+1102975200|teelmo|A|SMG/SMG-PORI/Sahko- ja piiritekniikan perusteet|FF0000
+1103148000|teelmo|A|MAT/MAT-PORI/Algoritmimatematiikka|FFFF00
+1103493600|teelmo|A|SGN|FF0000
+1103493600|teelmo|A|SGN/SGN-PORI|FF0000
+1103493600|teelmo|A|SGN/SGN-PORI/Signaalinkasittelyn perusteet|FF0000
+1105653600|teelmo|A|TLT/TLT-PORI/Tietokoneverkot I|FF00FF
+1112302800|teelmo|A|KEM|FF0000
+1112302800|teelmo|A|KEM/KEM-PORI|FF0000
+1112302800|teelmo|A|KEM/KEM-PORI/Insinoorikemia|FF0000
+1113771600|teelmo|A|MAT/MAT-PORI/Insinoorimatematiikka 2|FFFF00
+1114981200|teelmo|A|OHJ/OHJ-PORI/Ohjelmiston maarittely|00FFFF
+1115154000|teelmo|A|KIE/KIE-PORI/Englannin peruskurssi|FF0000
+1117141200|teelmo|A|TLT/TLT-PORI/Tietokoneverkot II|FF00FF
+1119387600|teelmo|A|OHJ/OHJ-PORI/Ohjelmiston suunnittelu ja toteutus|00FFFF
+1119819600|teelmo|A|OHJ/OHJ-PORI/Ohjelmistoprojektin hallinta|00FFFF
+1124744400|teelmo|A|TLT/TLT-PORI/Dataverkkojen tyokurssi|FF00FF
+1127163600|teelmo|A|OHJ/OHJ-PORI/Ohjelmiston suunnittelu ja toteutus|00FFFF
+1133215200|teelmo|A|TITA|0000FF
+1133215200|teelmo|A|TITA/TITA-1xxx|0000FF
+1133215200|teelmo|A|TITA/TITA-1xxx/Tietojohtamisen peruskurssi|0000FF
+1133301600|teelmo|A|TETA|0000FF
+1133301600|teelmo|A|TETA/TETA-1xxx|0000FF
+1133301600|teelmo|A|TETA/TETA-1xxx/Teollisuustalouden perusteet|0000FF
+1136757600|teelmo|A|MAT/MAT-4xxx|FFFF00
+1136757600|teelmo|A|MAT/MAT-4xxx/Matemaattinen analyysi|FFFF00
+1137967200|teelmo|A|TLT/TLT-3xxx|FF00FF
+1137967200|teelmo|A|TLT/TLT-3xxx/Tietoturvallisuuden perusteet|FF00FF
+1138312800|teelmo|A|FYS|0000FF
+1138312800|teelmo|A|FYS/FYS-1xxx|0000FF
+1138312800|teelmo|A|FYS/FYS-1xxx/Insinoorifysiikka I|0000FF
+1138658400|teelmo|A|MAT/MAT-2xxx|FFFF00
+1138658400|teelmo|A|MAT/MAT-2xxx/Todennakoisyyslaskenta|FFFF00
+1140991200|teelmo|A|MATHM|0000FF
+1140991200|teelmo|A|MATHM/MATHM-3xxx|00FF00
+1140991200|teelmo|A|MATHM/MATHM-3xxx/Hypermedian perusteet|00FF00
+1142892000|teelmo|A|MAT/MAT-2xxx/Diskreetti matematiikka|FFFF00
+1143406800|teelmo|A|BIO|0000FF
+1143406800|teelmo|A|BIO/BIO-5xxx|0000FF
+1143406800|teelmo|A|BIO/BIO-5xxx/Kestava kehitys|0000FF
+1147381200|teelmo|A|FYS/FYS-1xxx/Insinoorifysiikka IIa|0000FF
+1147899600|teelmo|A|OHJ/OHJ-1xxx|00FFFF
+1147899600|teelmo|A|OHJ/OHJ-1xxx/Ohjelmointi I|00FFFF
+1148331600|teelmo|A|FYS/FYS-1xxx/Insinoorifysiikka IIa|0000FF
+1160686800|teelmo|A|FYS/FYS-1xxx/Insinoorifysiikka IIb|0000FF
+1160686800|teelmo|A|TUR|0000FF
+1160686800|teelmo|A|TUR/TUR-1xxx|0000FF
+1160686800|teelmo|A|TUR/TUR-1xxx/Turvallisuus ja terveys tyossa|0000FF
+1164837600|teelmo|A|SGN/SGN-1xxx|0000FF
+1164837600|teelmo|A|SGN/SGN-1xxx/Signaalinkasittelyn sovellukset|0000FF
+1164924000|teelmo|A|TKT|0000FF
+1164924000|teelmo|A|TKT/TKT-1xxx|0000FF
+1164924000|teelmo|A|TKT/TKT-1xxx/Digitaalitekniikan perusteet|0000FF
+1165183200|teelmo|A|TUR/TUR-1xxx/Turvallisuus ja terveys tyossa|0000FF
+1165269600|teelmo|A|TLT/TLT-3xxx/Tietoturva-arki|FF00FF
+1170367200|teelmo|A|OHJ/OHJ-1xxx/Varusohjelmat|00FFFF
+1173996000|teelmo|A|SMG/SMG-1xxx|0000FF
+1173996000|teelmo|A|SMG/SMG-1xxx/Piirianalyysi I|0000FF
+1174428000|teelmo|A|MIT|0000FF
+1174428000|teelmo|A|MIT/MIT-1xxx|0000FF
+1174428000|teelmo|A|MIT/MIT-1xxx/Mittaustekniikka|0000FF
+1174428000|teelmo|A|RTT|0000FF
+1174428000|teelmo|A|RTT/RTT-5xxx|0000FF
+1174428000|teelmo|A|RTT/RTT-5xxx/Tyomarkkinatietous|0000FF
+1175461200|teelmo|A|OHJ/OHJ-3xxx|00FFFF
+1175461200|teelmo|A|OHJ/OHJ-3xxx/Johdatus tietokantoihin|00FFFF
+1177016400|teelmo|A|MAT/MAT-4xxx/Johdatus teknilliseen laskentaan Matlabilla|FFFF00
+1179435600|teelmo|A|OHJ/OHJ-3xxx/Ohjelmistotuotannon menetelmat|00FFFF
+1179694800|teelmo|A|OHJ/OHJ-3xxx/Johdatus tietokantoihin|00FFFF
+1192136400|teelmo|A|SGN/SGN-3xxx|0000FF
+1192136400|teelmo|A|SGN/SGN-3xxx/Digitaalinen kuvankasittely I|0000FF
+1193000400|teelmo|A|TITA/TITA-5xxx|0000FF
+1193000400|teelmo|A|TITA/TITA-5xxx/Yrityksen tietojarjestelmat|0000FF
+1196028000|teelmo|A|MATHM/MATHM-4xxx|00FF00
+1196028000|teelmo|A|MATHM/MATHM-4xxx/Saavutettavuus|00FF00
+1196632800|teelmo|A|MATHM/MATHM-4xxx/Verkkopalvelun kayttokelpoisuus ja arviointi|00FF00
+1205445600|teelmo|A|ELE|0000FF
+1205445600|teelmo|A|ELE/ELE-1xxx|0000FF
+1205445600|teelmo|A|ELE/ELE-1xxx/Elektroniikan perusteet II|0000FF
+1205791200|teelmo|A|TITA/TITA-3xxx|0000FF
+1205791200|teelmo|A|TITA/TITA-3xxx/Ohjelmistoliiketoiminta|0000FF
+1205877600|teelmo|A|KIE/KIE-1xxx|0000FF
+1205877600|teelmo|A|KIE/KIE-1xxx/Tekstinhuollon ABC, verkkokurssi|0000FF
+1206910800|teelmo|A|SGN/SGN-4xxx|0000FF
+1206910800|teelmo|A|SGN/SGN-4xxx/Puheenkasittelyn menetelmat|0000FF
+1206997200|teelmo|A|MIT/MIT-1xxx/Mittaustekniikan matemaattiset menetelmat|0000FF
+1207515600|teelmo|A|MATHM/MATHM-4xxx/Verkkopalvelun sisallontuotanto|00FF00
+1207515600|teelmo|A|MATHM/MATHM-4xxx/Workshop of varied topics in hypermedia|00FF00
+1209330000|teelmo|A|SGN/SGN-4xxx/Digitaalinen audio|0000FF
+1209934800|teelmo|A|MAT/MAT-1xxx|FFFF00
+1209934800|teelmo|A|MAT/MAT-1xxx/Johdatus yliopistomatematiikkaan|FFFF00
+1210539600|teelmo|A|MATHM/MATHM-5xxx|00FF00
+1210539600|teelmo|A|MATHM/MATHM-5xxx/Hypermedian ohjelmointi|00FF00
+1210626000|teelmo|A|MATHM/MATHM-4xxx/Rakenteiset dokumentit|00FF00
+1210712400|teelmo|A|OHJ/OHJ-3xxx/Tietokantojen suunnittelu|00FFFF
+1214773200|teelmo|A|TETA/TETA-1xxx/Markkinointi|0000FF
+1219611600|teelmo|A|TKT/TKT-1xxx/Mikroprosessorit|0000FF
+1227477600|teelmo|A|IHTE|00FF00
+1227477600|teelmo|A|IHTE/IHTE-1xxx|00FF00
+1227477600|teelmo|A|IHTE/IHTE-1xxx/Kaytettavyyden perusteet|00FF00
+1227477600|teelmo|A|OHJ/OHJ-3xxx/Tietokantajarjestelmien suunnittelu ja toteutus|00FFFF
+1227564000|teelmo|A|MATHM/MATHM-3xxx/Hypermediajarjestelmat|00FF00
+1227736800|teelmo|A|MATHM/MATHM-5xxx/Hypermedian tuotantoprojektin hallinnan erityispiirteet|00FF00
+1227823200|teelmo|A|MATHM/MATHM-5xxx/Rakenteisten dokumenttien jatkokurssi|00FF00
+1232920800|teelmo|A|IHTE/IHTE-5xxx|00FF00
+1232920800|teelmo|A|IHTE/IHTE-5xxx/Ihminen kayttajana|00FF00
+1234648800|teelmo|A|MATHM/MATHM-4xxx/Hypermedian erikoistyo|00FF00
+1234735200|teelmo|A|IHTE/IHTE-2xxx|00FF00
+1234735200|teelmo|A|IHTE/IHTE-2xxx/Kayttoliittymasuunnittelun perusteet|00FF00
+1237932000|teelmo|A|TITA/TITA-5xxx/Tietoturvallisuuden johtaminen|0000FF
+1255294800|teelmo|A|IHTE/IHTE-3xxx|00FF00
+1255294800|teelmo|A|IHTE/IHTE-3xxx/Kayttajakeskeinen tuotekehitys|00FF00
+1257458400|teelmo|A|MATHM/MATHM-4xxx/Hypermedian projektityo|00FF00
+1265148000|teelmo|A|0000000|FF0000
+1265148000|teelmo|A|0000000/Harjoittelu|FF0000
+1270501200|teelmo|A|OHJ/OHJ-1xxx/Programming II|00FFFF
+1271365200|teelmo|A|MATHM/MATHM-5xxx/Hypermedian diplomityoseminaari|00FF00
+1274734800|teelmo|A|KIE/KIE-3xxx|0000FF
+1274734800|teelmo|A|KIE/KIE-3xxx/Advanced English for Engineers|0000FF
+1274821200|teelmo|A|7200000|FF0000
+1274821200|teelmo|A|7200000/Fysiikan tyot I|FF0000
+1277240400|teelmo|A|9000000|FF0000
+1277240400|teelmo|A|9000000/Diplomityo|FF0000

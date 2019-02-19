@@ -1,0 +1,64 @@
+h1 {
+  font-size: 70px;
+  font-style: italic;
+  font-weight: bold;
+  margin-bottom: 40px;
+}
+.slide {
+  font-size: 50px;
+  letter-spacing: 0.05em;
+  line-height: 70px;
+}
+.slide .small {
+  font-size: 40px;
+  line-height: 60px;
+}
+.slide footer {
+  letter-spacing: 0;
+  line-height: 40px;
+}
+.nogb {
+  background: #fff;
+}
+.square {
+  height: 700px;
+  width: 700px;
+}
+.logo {
+  background-position: right center; background-repeat: no-repeat;
+  background-image: url('../img/yle_logo_black_small.png');
+  height: 145px;
+  position: absolute;
+  right: 30px;
+  top: 30px;
+  width: 145px;
+}
+ul {
+  margin: 90px 0 0 0;
+}
+ul li {
+  list-style-type: disc;
+  margin: 0 0 0 40px;
+}
+a:hover,
+a {
+  -moz-transition: 0;
+  -ms-transition: 0;
+  -o-transition: 0;
+  border-radius: 0;
+  color: #00b4c8;
+  font-weight: bold;
+  text-shadow: 0 0 0;
+  transition: 0;
+  webkit-transition: 0;
+}
+footer {
+  bottom: 0; 
+  display: block;
+  font-size: 14px;
+  position: absolute; 
+  right: 12px;
+}
+footer img {
+  vertical-align: -7%;
+}

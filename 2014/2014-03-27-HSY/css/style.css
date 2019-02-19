@@ -1,0 +1,336 @@
+/*
+  COLORS
+ 
+  Dark Blue       #222438
+  Medium Blue      #959db5
+  Light Blue       #c9d5e1
+  Dark Blue Links    #1a4a6a
+  
+*/
+
+body {
+  font-family: Helvetica, "Helvetica Neue", Arial, sans-serif;
+  font-size: 50px;
+  font-size: 5rem;
+  color: #f1f1f1;
+  /*background-color: #c9d5e1;*/
+  background-color: rgb(34,36,37);
+}
+
+h1 {
+  font-size: 100px;
+  font-size: 10rem;
+  margin: 0;
+  text-align: center;
+  text-shadow: 0 2px 1px #fff;
+}
+
+ol li,
+ul li {
+	margin: 30px 0;
+}
+
+ol,
+ul,
+p {
+  width: 70%;
+  margin: 70px auto 0 auto;
+  margin: 7rem auto 0 auto;
+  text-shadow: 0 1px 1px #fff;
+  line-height: 1.2;
+}
+
+a, a:visited {
+  color: #00aabd;
+  text-decoration: none;
+  /*font-weight: bold;
+  font-style: italic;*/
+  text-shadow: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+
+.center {
+	text-align: center;
+	margin: auto auto;
+}
+.large {
+  line-height: 1;
+  font-size: 70px;
+  font-size: 7rem;
+  text-shadow: 0 1px 0 #000;
+  font-weight: bold;
+}
+.nowrap {
+	white-space: nowrap;
+}
+
+.small li {
+	margin: 5px 0;
+	font-size: 45px;
+	font-size: 4.5rem;
+}
+small {
+  line-height: 1;
+  font-style: italic;
+  font-size: 20px;
+  font-size: 2rem;
+  text-shadow: 0 1px 0 #000;
+}
+
+.download {
+  padding-left: 15px;
+  padding-left: 1.5rem;
+}
+
+.pro-tip {
+  display: block;
+  padding: 20px;
+  padding: 2rem;
+  text-shadow: 0 1px 0 #000;
+}
+
+pre {
+  font-size: 18px;
+  font-size: 1.8rem;
+}
+
+blockquote {
+  text-align: left;
+  width: 70%;
+  margin: 10px auto;
+  margin: 1rem auto;
+  background: #fff;
+  border: solid 3px #959db5;
+  padding: 0 40px;
+  padding: 0 4rem;
+  border-radius: 6px;
+  border-radius: .6rem;
+}
+
+code {
+  font-style: normal;
+  padding-left: 5px;
+  padding-left: .5rem;
+}
+
+/*----------------------------------------  HEADER  */
+
+#header {
+  background: #fff;
+  border-bottom: solid 3px #959db5;
+  left: 0;
+  opacity: .9;
+  padding: .5rem;
+  padding: 5px;
+  position: fixed;
+  text-align: center;
+  top: 0;
+  width: 100%;
+  z-index: 10;
+}
+#header a {
+  color: rgb(34,36,37);
+  text-shadow: 0 0 0;
+}
+
+#instructions {
+  background: #ccc;
+  border: solid 1px rgb(34,36,37);
+  color: rgb(34,36,37);
+  font-size: 14px;
+  font-weight: bold;
+  left: 20px;
+  padding: 5px 10px;
+  position: fixed;
+  text-transform: uppercase;
+  top: 20px;
+  width: 275px;
+  z-index: 99;
+}
+
+#powered {
+  font-weight: bold;
+  padding-bottom: 20px;
+}
+
+.nav-button {
+  color: #959db5;
+  font-size: 20px;
+  font-size: 2rem;
+  font-style: normal;
+  font-weight: bold;
+  padding: 10px;
+  padding: 1rem;
+  text-decoration: none;
+  text-shadow: 0 -1px 1px #000;
+  text-transform: uppercase;
+}
+
+#header a.current, a.nav-button:hover {
+  color: #00aabd;
+  text-shadow: 0 0 0 #ccc;
+}
+
+#resize-graphic {
+  bottom: 0;
+  opacity: .6;
+  position: fixed;
+  right: 0;
+}
+
+/*----------------------------------------  SLIDES  */
+
+.slide {
+  height: 150rem;
+  margin: 0 auto;
+  /*padding: 120px 0;*/
+  /*padding: 12rem 0;*/
+  position: relative;
+  width: 99%;
+}
+.stamp-click {
+  cursor: pointer;
+}
+h1 {
+  margin: 50px 0;
+  /*padding-top: 50px;*/
+}
+.marker {
+  display: block;
+  background: #e1005a;
+}
+.stamp {
+  display: none;
+  background: #89c500;
+}
+.marker,
+.stamp {
+  position: absolute;
+  padding: 20px;
+  border: 3px solid #333;
+  font-size: 120px;
+  border-radius: 20px;
+  transform:rotate(20deg);
+  -ms-transform:rotate(20deg); /* IE 9 */
+  -webkit-transform:rotate(-20deg); /* Opera, Chrome, and Safari */
+}
+.bigger {
+  font-size: 1.2em;
+}
+
+#title {
+  line-height: .8;
+}
+
+#author {
+  font-size: 20px;
+  font-size: 2rem;
+  font-style: italic;
+  margin: 0 auto;
+  padding-bottom: 20px;
+  padding-bottom: 2rem;
+  text-align: right;
+  width: 75%;
+}
+
+.twitter-follow-button {
+  left: 4px;
+  position: relative;
+  top: 8px;
+}
+
+#animations {
+  height: 480px;
+  height: 48rem;
+  padding-top: 70px;
+  padding-top: 7rem;
+}
+
+#examples h1 {
+  padding-bottom: 20px;
+  padding-bottom: 2rem;
+}
+
+#examples, #examples p, #credits {
+  line-height: .8;
+}
+
+#examples p {
+  padding-top: 20px;
+}
+
+#credits a {
+  padding-right: 3px;
+}
+
+/*------------------------  BASE-REM SIZING  */
+
+
+@media (min-width: 1401px) {
+  html {
+    font-size: 12px;
+  }
+}
+
+@media (max-width: 1400px) {
+  html {
+    font-size: 11px;
+  }
+}
+
+/* target screen width  */
+@media (max-width: 1280px) {
+  html {
+    font-size: 10px;
+  }
+}
+  
+@media (max-width: 1160px) {
+  html {
+    font-size: 9px;
+  }
+}
+  
+@media (max-width: 1040px) {
+  html {
+    font-size: 8px;
+  }
+}
+  
+@media (max-width: 920px) {
+  html {
+    font-size: 7px;
+  }
+}
+  
+@media (max-width: 800px) {
+  html {
+    font-size: 6px;
+  }
+}
+  
+@media (max-width: 680px) {
+  html {
+    font-size: 5px;
+  }
+}
+  
+@media (max-width: 560px) {
+  html {
+    font-size: 4px;
+  }
+}
+  
+@media (max-width: 440px) {
+  html {
+    font-size: 3px;
+  }
+}
+
+@media (max-width: 320px) {
+  html {
+    font-size: 3px;
+  }
+}

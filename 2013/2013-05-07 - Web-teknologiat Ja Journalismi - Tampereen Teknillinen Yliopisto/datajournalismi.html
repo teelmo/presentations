@@ -1,0 +1,303 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=1024" />
+    
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <title>Web-teknologiat journalimin välineenä | Tampereen teknillinen yliopisto | Teemo Tebest</title>
+    
+    <meta name="description" content="impress.js is a presentation tool based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com." />
+    <meta name="author" content="Bartek Szopka" />
+
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans:regular,semibold,italic,italicsemibold|PT+Sans:400,700,400italic,700italic|PT+Serif:400,700,400italic,700italic" rel="stylesheet" />
+
+    <link href="css/impress-demo.css" rel="stylesheet" />
+    <link href="css/styles.css" rel="stylesheet" />
+
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" href="favicon.ico" />
+    <script src="js/jquery.min.js"></script>
+    <script type="text/javascript">
+      $(document).ready(function() {
+        $('div.slide').each(function(index) {
+          $(this).prepend('<div class="logo"></div>');
+        });
+        $('div.slide').each(function(index) {
+          $(this).append('<footnote><a href="http://teelmo.info">Teemo Tebest</a>, <a href="http://http://twitter.com/teelmo">@teelmo</a> | 7.5.2013 | <a href="http://www.tut.fi">Tampereen teknillinen yliopisto</a> | <a href="https://twitter.com/search?q=%23datajournalismi&src=hash"><img src="img/twitter_logo.png" alt="" /> #datajournalismi</a> | <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a</footnote>');
+        });
+        $('a').each(function(index) {
+          $(this).attr('target', '_blank');
+        });
+      });
+    </script>
+  </head>
+
+  <body class="impress-not-supported">
+    <div class="fallback-message">
+      <p>Your browser <b>doesn't support the features required</b> by impress.js, so you are presented with a simplified version of this presentation.</p>
+      <p>For the best experience please use the latest <b>Chrome</b>, <b>Safari</b> or <b>Firefox</b> browser.</p>
+    </div>
+
+    <div id="impress">
+
+      <div class="step start" data-x="0" data-y="-10000" data-scale="4">
+        <center>
+          <h1>Moro, mitä kuuluu?</h1>
+        </center>
+      </div>
+
+      <div class="step title" data-x="0" data-y="-6500" data-scale="4">
+        <center>
+          <h1>Web-teknologiat Ja Journalismi</h1>
+        </center>
+      </div>
+
+      <div class="step slide" data-x="-1000" data-y="-1500">
+        <h1>Teemo Tebest</h1>
+        <q>
+          <img src="img/tebest.jpg" alt="" class="" style="float:right;" />
+          <ul>
+            <li><a href="http://teelmo.info">teelmo.info</a></li>
+            <li><a href="http://twitter.com/teelmo">@teelmo</a></li>
+            <li><a href="http://datajournalismi.blogspot.com">Blogi</a></li>
+            <li><a href="http://yle.fi/uutiset/plus">Plus-sivusto</a></li>
+          </ul>
+        </q>
+      </div>
+
+      <div class="step slide" data-x="0" data-y="-1500">
+        <h1>Tausta</h1>
+        <q>
+          <ul>
+            <li>Hervannan kouliinnuttama</li>
+            <li>Aikasemmin tutkijana <a href="http://www.tut.fi">TTY</a>:lla ja web-kehittänä, <a href="http://svenska.yle.fi">Svenska Yle</a>:llä</li>
+            <li>Datajournalisti, <a href="http://yle.fi">Yleisradio</a></li>
+          </ul>
+          <br />
+          <span class="smaller floatRight"><a href="http://www.iltalehti.fi/uutiset/2011091514392709_uu.shtml">Aloitin Yle:ssä joulukuussa 2011</a></span>
+        </q>
+      </div>
+
+      <div class="step slide" data-x="1000" data-y="-1500">
+        <h1>Miten?</h1>
+        <q>
+          <ul>
+            <li>Kiinnostus tiedon visualisointiin</li>
+            <li><a href="http://datajournalismi.fi/category/datajournalismin_paiva/">Ensimmäinen kosketus datajournalismiin</a></li>
+            <li><a href="http://datajournalismi.blogspot.com/">Blogin perustaminen</a></li>
+            <li><a href="http://svenska.yle.fi/artikel/2012/06/01/har-saljer-alkoholdrycker-bast">Sattumaa ja onnea</a></li>
+            <li>Sana leviää &rarr; PlusDesk</li>
+          </ul>
+        </q>
+      </div>
+      
+      <div class="step slide" data-x="1000" data-y="-500">
+        <h1>Miksi?</h1>
+        <q>
+          <ul>
+            <li><a href="http://yle.fi/uutiset/laske_uusi_painoindeksisi_taalta/6476582">Nopeatahtisuus</a></li>
+            <li><a href="http://yle.fi/uutiset/bostonin_poliisin_jattioperaatio__tapahtumat_kartalla/6587712">Vaikuttavuus</a></li>
+            <li><a href="http://yle.fi/urheilu/hurista_formuloiden_suomalaisvoitot_lapi_-_ohittaako_kimi_hakkisen/6550845">Mielenkiintoisuus</a></li>
+            <li><a href="http://yle.fi/uutiset/mista_sina_saastaisit_jos_olisit_ministeri_kokeile_laskurilla/6544401">Työn näkyvyys</a></li>
+          </ul>
+        </q>
+      </div>
+
+      <div class="step" data-x="2000" data-y="-500">
+        <img src="img/newsroom.jpg" alt="" />
+      </div>
+
+      <div class="step" data-x="3000" data-y="-500">
+        <img src="img/komentokeskus.jpg" alt="" />
+      </div>
+
+      <div class="step slide" data-x="0" data-y="-500">
+        <h1>Säästölaskuri</h1>
+        <q>
+          <ul>
+            <li><a href="http://yle.fi/uutiset/mista_sina_saastaisit_jos_olisit_ministeri_kokeile_laskurilla/6544401">Lähestyttävä esitystapa</a></li>
+            <li><a href="http://sharedcount.com/?url=http%3A%2F%2Fyle.fi%2Fuutiset%2Fmista_sina_saastaisit_jos_olisit_ministeri_kokeile_laskurilla%2F6544401">+3 500 Facebook-jakoa</a></li>
+            <li><a href="http://yle.fi/uutiset/mista_saastaisit_mita_korottaisit_kerro_meille/6547444">400 hyväksyttyä kommenttia</a></li>
+            <li>Päivän twiitatuin linkki Suomessa</li>
+            <li>Viikon luetuin uutinen Yle:llä</li>
+          </ul>
+        </q>
+      </div>
+
+      <div class="step slide" data-x="-1000" data-y="-500">
+        <h1>Säästölaskuri</h1>
+        <q>
+          <ul>
+            <li><a href="budget_puzzle.csv.txt">.csv-data</a>, 73 kohdetta</li>
+            <li>Toteutus ~250 riviä jQuery:llä höystettyä JavaScriptiä</li>
+            <li>Toimii ~kaikilla päätelaitteilla</li>
+            <li>Oleellista oli yksinkertaisuus ja käytettävyys</li>
+          </ul>
+        </q>
+      </div>
+
+      <div class="step slide" data-x="-1000" data-y="500">
+        <h1>Mikä on oleellista</h1>
+        <q>
+          <ul>
+            <li>Löydä oikea esitystapa</li>
+            <li>Älä tee yksinkertaisesta monimutkaista</li>
+            <li>Pyri toimivaan prototyyppiin mahdollisimman nopeasti</li>
+            <li>Jätä aikaa viimeistelyyn</li>
+          </ul>
+        </q>
+      </div>
+
+      <div class="step slide" data-x="0" data-y="500">
+        <h1>Kysymyksiä?</h1>
+        <br />
+        <q>
+          <img src="img/partylikeajournalist.jpg" alt="" />
+        </q>
+      </div>
+
+      <div class="step slide" data-x="1000" data-y="500">
+        <h1>Kaivoskartta</h1>
+        <q>
+          Seuraavaksi katsomme miten kaivoshankkeet ovat ristikkäin luonnonsuojelualueiden kanssa ja miten tämän näkeminen tehtiin mahdolliseksi. 
+        </q>
+      </div>
+
+      <div class="step" data-x="1100" data-y="1500">
+        <center>
+        <iframe src="http://yle.fi/uutiset/lukuisilla_suojelualueilla_kaivoshankkeita/6607227" width="1000" height="900"></iframe>
+      </center>
+      </div>
+
+      <div class="step slide" data-x="0" data-y="1500">
+        <h1>Kaivoskartta</h1>
+        <q>
+          <ul>
+            <li><a href="tukes.fi/fi/Toimialat/Kaivokset/Karttatiedostot/">Kaivosdata Tukesilta</a></li>
+            <li>Luonnonsuojeludata Metsähallitukselta</li>
+            <li>Natura 2000 -data Ympäristöministeriöltä</li>
+          </ul>
+        </q>
+      </div>
+
+      <div class="step slide" data-x="-1000" data-y="1500">
+        <h1>Kaivoskartta</h1>
+        <q>
+          <ul>
+            <li>Dataa eri lähteistä</li>
+            <li>Googlelle sopivassa formaatissa</li>
+            <li>Datat yhteen ja visualisointi <a href="https://www.google.com/fusiontables/DataSource?docid=1wA7ybHExepgqBIBWpR_JnoQseAJ_HqLsYvMvvNc#rows:id=1">Google Fusion Tables -työkalulla</a></li>
+          </ul>
+        </q>
+      </div>
+
+       <div class="step" data-x="-2000" data-y="1500">
+        <img src="img/kaivostoiminta_files.png" alt="" />
+      </div>
+
+      <div class="step" data-x="-3000" data-y="1500">
+        <img src="img/kaivostoiminta_csv.png" alt="" />
+      </div>
+
+      <div class="step slide" data-x="-1000" data-y="2500">
+        <h1>Kaivoskartta</h1>
+        <q>
+          <ul>
+            <li>12 000 riviä Excel-dataa, 400 megaa</li>
+            <li>Toi laajan datan ihmisen lähettyville, personointi</li>
+            <li>Näytti miten 13 % Suomesta on liitetty kaivostoimintaan</li>
+          </ul>
+        </q>
+      </div>
+
+      <div class="step slide" data-x="0" data-y="2500">
+        <h1>Kaivoskartta</h1>
+        <q>
+          <ul>
+            <li>Alueet pystyivät tekemään omia juttujaan aiheesta ja julkaistiin myös saameksi ja englanniksi</li>
+            <li>Kansainvälinen aihe jota ollaan laajentamassa pohjoismaisella näkökulmalla
+          </ul>
+        </q>
+      </div>
+
+      <div class="step slide" data-x="1000" data-y="2500">
+        <h1>Toteutustekniikat</h1>
+        <q>
+          <ul>
+            <li><a href="http://en.wikipedia.org/wiki/Responsive_web_design">Responsiivisuus</a></li>
+            <li><a href="http://en.wikipedia.org/wiki/Responsive_web_design#Mobile_first.2C_unobtrusive_JavaScript.2C_and_progressive_enhancement">Toteutusten paino</a></li>
+            <li>Toimivuus kaikilla selaimilla/laitteilla</li>
+            <li>Kosketuslaitteet</li>
+            <li>Elinkaaren huomioiminen</li>
+          </ul>
+        </q>
+      </div>
+
+      <div class="step slide" data-x="1000" data-y="3500">
+        <h1>Työkalut</h1>
+        <q>
+          <ul>
+            <li><a href="http://jquery.com/">jQuery</a>, <a href="http://raphaeljs.com/">Raphaël</a>, <a href="http://www.highcharts.com/">Highcharts</a></li>
+            <li>Excel, Libreoffice, Google Drive</li>
+            <li><a href="http://www.sublimetext.com/">Sublime Text</a>, regexp</li>
+            <li><a href="https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd">Scraper</a></li>
+            <li>Dataformaatit: .csv, .json, Pivot, .svg, .kml</li>
+          </ul>
+        </q>
+      </div>
+
+      <div class="step slide" data-x="0" data-y="3500">
+        <h1>Mitä muuta?</h1>
+        <q>
+          <li><a href="http://yle.fi/uutiset/tallainen_on_pohjois-korean_ydinase-_ja_ohjusuhka/6566423">Pohjois-Korean ohjusuhka</a></li>
+          <li><a href="http://yle.fi/urheilu/havuja_perkele_kirottu_sadasosasekunti_ja_muut_suomalaiset_mm-hiihtomitalit_-_nain_suomi_on_juhlinut/6500767">Hiihtomitalit</a></li>
+          <li><a href="http://yle.fi/uutiset/keskustele_ja_aanesta_kuka_voittaa_vaittelyn/6490997">Kuka voitti väittelyn</a></li>
+          <li><a href="http://yle.fi/uutiset/lakkautustahti_on_raju_-_taalta_koulut_katoavat/6526709">Täältä koulut katoavat</a></li>
+          <li><a href="http://yle.fi/uutiset/pantasuden_elama_ja_kuolema_taalla_auli_liikkui_ja_metsasti/6573454">Täällä Auli liikkui ja metsästi</a></li>
+          <li><a href="http://yle.fi/uutiset/talta_nayttaa_euroopan_talouden_saaennuste/6612478">Euroopan talouden sääennuste</a></li>
+        </q>
+      </div>
+
+      <div class="step slide" data-x="-1000" data-y="3500">
+        <h1>Kiitos!</h1>
+        <br />
+        <q>
+          Kysymyksiä?
+          <br />
+          <img src="img/fb_thumbs_up.jpg" alt="" style="width: 300px; float:right;"/>
+        </q>
+      </div>
+
+      <div id="linkkeja" class="step" data-x="0" data-y="7500">
+        <h1>Linkkilista</h1>
+        <br />
+        <div class="smaller">
+          &nbsp;&bull; <a href="http://selection.datavisualization.ch/">Datavisualization.ch</a><br />
+          &nbsp;&bull; <a href="http://visual.ly/">Visual.ly</a><br />
+          &nbsp;&bull; <a href="http://www.guardian.co.uk/news/datablog">Guardian</a><br />
+          &nbsp;&bull; <a href="http://www.datajournalismblog.com/tag/new-york-times/">Ny Times</a><br />
+          &nbsp;&bull; <a href="http://yle.fi/uutiset/plus">Yle Plus</a><br />
+          &nbsp;&bull; <a href="http://www.hs.fi/kotimaa/aihe/datajournalismi/">Helsingin Sanomat</a><br />
+          &nbsp;&bull; <a href="http://suomenkuvalehti.fi/teemat/datajournalismi/jutut">Suomen Kuvalehti</a><br />
+          &nbsp;&bull; <a href="http://datajournalismhandbook.org/">Datajournalismin käsikirja</a><br />
+          &nbsp;&bull; <a href="http://datajournalismi.blogspot.com/">Datajournalismi / Teemo Tebest</a><br />
+          &nbsp;&bull; <a href="http://dataist.wordpress.com/">Jens Finnäs / Dataist</a><br />
+          &nbsp;&bull; <a href="http://informaatiomuotoilu.fi/">Informaatiomuotoilu</a>
+        </div>
+      </div>
+    </div>
+    <div class="hint">
+      <p>Use a spacebar or arrow keys to navigate</p>
+    </div>
+
+    <script>
+      if ("ontouchstart" in document.documentElement) { 
+        document.querySelector(".hint").innerHTML = "<p>Tap on the left or right to navigate</p>";
+      }
+    </script>
+    <script src="js/impress.js"></script>
+    <script>impress().init();</script>
+  </body>
+</html>

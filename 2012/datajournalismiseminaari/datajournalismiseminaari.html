@@ -1,0 +1,159 @@
+<!doctype html>
+<html lang="fi">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=1024" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <title>MOT: Yritystuet | Yle | impress.js</title>
+  
+  <meta name="description" content="impress.js is a presentation tool based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com." />
+  <meta name="author" content="Bartek Szopka" />
+
+  <link href="http://fonts.googleapis.com/css?family=Open+Sans:regular,semibold,italic,italicsemibold|PT+Sans:400,700,400italic,700italic|PT+Serif:400,700,400italic,700italic" rel="stylesheet" />
+  <link href="css/impress-demo.css" rel="stylesheet" />
+  <link href="css/template.css" rel="stylesheet" />
+  <link href="css/style.css" rel="stylesheet" />
+  
+  <link rel="shortcut icon" href="favicon.png" />
+  <link rel="apple-touch-icon" href="apple-touch-icon.png" />
+  <style type="text/css">
+    
+  </style>
+  <script src="js/jquery.min.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      $('div.slide').each(function(index) {
+        $(this).prepend('<img src="img/yle_logo_black.png" alt="" class="yleLogo" />');
+      });
+      $('div.normalslide').each(function(index) {
+        $(this).append('<footnote><a href="http://teelmo.info" target="_blank">Teemo Tebest</a>, <a href="http://http://twitter.com/teelmo" target="_blank">@teelmo</a> | 14.12.2012 | <a href="https://www.yle.fi" target="_blank">Yleisradio</a> | <a href="https://twitter.com/search?q=%23tutkiva&src=hash"><img src="img/twitter_logo.png" style="vertical-align: -7%;" alt="" /> #tutkiva</a> | <a href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank">CC BY-SA</a</footnote>');
+      });
+    });
+  </script>
+</head>
+
+<body class="impress-not-supported">
+
+  <div class="fallback-message">
+    <p>Your browser <b>doesn't support the features required</b> by impress.js, so you are presented with a simplified version of this presentation.</p>
+    <p>For the best experience please use the latest <b>Chrome</b>, <b>Safari</b> or <b>Firefox</b> browser.</p>
+  </div>
+
+  <div id="impress">
+    <div id="datajournalismi" class="step" data-x="0" data-y="-2500">
+      <img src="img/yle_logo.png" alt="" />
+      <h1 class="first">MOT: Yritystuet</h1>
+      <br />
+      <p class="verysmall" style="margin-left: 250px;">
+        <!--Käytä nuolinäppäimiä navigoidaksesi.-->
+      </p>
+    </div>
+
+    <div class="step slide normalslide" data-x="-1000" data-y="-1500">
+      <h1>Mitä teimme</h1>
+      <q>
+        <ol>
+          <li>Julkaisimme keräämämme aineiston avoimena datana.</li>
+          <li>Teimme dataan perustuvia visualisointeja MOT:n sivuille.</li>
+        </ol>
+      </q>
+    </div>
+
+    <div class="step slide normalslide" data-x="0" data-y="-1500">
+      <h1>Datan avaaminen</h1>
+      <q>
+        Julkaisimme keräämämme aineiston sellaisena kuin olimme sitä käyttäneet sivuillamme avoimesti lisensoituna.
+      </q>
+    </div>
+
+    <div class="step slide normalslide" data-x="1000" data-y="-1500">
+      <h1>Mitä hyötyä?</h1>
+      <q class="small">
+        Yritystuet ovat kansallisesti kiinnostava ja keskustelua herättävä aihe ja nyt data on käytettävissä.
+        <br />
+        <br />
+        Suuri panostus ja Yle:n tehtävä tuottaa kansallista hyvää.
+      </q>
+    </div>
+
+    <div class="step slide normalslide" data-x="1000" data-y="-500">
+      <h1>Datan visualisoinnit</h1>
+      <q>
+        Toteutimme toteuttamaamme dataan perustuen erilaisia visualisointeja joiden avulla lukijan oli mahdollista syventyä kerättyyn dataan.
+      </q>
+    </div>
+
+    <div class="step" data-x="0" data-y="-500">
+      <iframe width="480" scrolling="no" height="660" frameborder="0" style="overflow:hidden;" src="http://yle.fi/fst/mot-2012-yritystuet/visualisoinnit/suurimmat_tuen_saajat/suurimmat_tuen_saajat.html"></iframe>
+    </div>
+
+    <div class="step" data-x="-1000" data-y="-500">
+      <strong style="font-size: 26px;">Tuen jakautuminen maakunnittain</strong>
+      <iframe width="480" scrolling="no" height="600" frameborder="no" src="https://www.google.com/fusiontables/embedviz?viz=MAP&amp;q=select+col9+from+1iPV1Pfofs2tf7TCbtYdglSkTe-vOJ_oICcWzvsU&amp;h=false&amp;lat=65.45&amp;lng=25.5&amp;z=5&amp;t=1&amp;l=col9"></iframe>
+    </div>
+
+    <div class="step" data-x="-1000" data-y="500">
+      <iframe width="480" scrolling="no" height="610" frameborder="0" style="overflow:hidden;" src="http://yle.fi/fst/mot-2012-yritystuet/visualisoinnit/tuet_tukityypeittain_per_vuosi/tuet_tukityypeittain.html"></iframe>
+    </div>
+
+    <div class="step" data-x="0" data-y="500">
+      <iframe width="480" scrolling="no" height="350" frameborder="0" style="overflow:hidden;" src="http://yle.fi/fst/mot-2012-yritystuet/visualisoinnit/yritystuen_jakautuminen_suurille/yritystuen_jakautuminen_suurille.html"></iframe>
+        
+    </div>
+
+    <div class="step" data-x="1000" data-y="500">
+      <iframe width="480" scrolling="no" height="660" frameborder="0" style="overflow:hidden;" src="http://yle.fi/fst/mot-2012-yritystuet/visualisoinnit/useimmin_tukea_saaneet/useimmin_tukea_saaneet.html"></iframe>
+    </div>
+
+    <div class="step slide normalslide" data-x="1000" data-y="1500">
+      <h1>Tiedon välitys MOT:n sivujen kautta</h1>
+      <q>
+        <br />
+        <a href="http://ohjelmat.yle.fi/mot/10_9">http://yle.fi/mot</a>
+      </q>
+    </div>
+
+    <div class="step slide normalslide" data-x="0" data-y="1500">
+      <h1>Haasteet</h1>
+      <q>
+        <ul>
+          <li>Projektin laajuus ja datan määrä yllätti.</li>
+          <li>Ensimmäinen tämänkaltainen projekti kaikille.</li>
+          <li>Kiire lopussa ja ongelmat eri laitteiden kanssa.</li>
+        </ul>
+      </q>
+    </div>
+
+    <div class="step slide normalslide" data-x="-1000" data-y="1500">
+      <h1>Ruusut</h1>
+      <q>
+        <ul>
+          <li>Apps4Finland-kilpailun datan avaus -sarjan finaalisija.</li>
+          <li>Sysäys ja näyte verovaroin kerätyn datan avaamiseksi.</li>
+          <li>Kerätystä aineistosta useampia MOT-ohjelmia.</li>
+        </ul>
+      </q>
+    </div>
+
+    <div id="loppu" class="step" data-x="0000" data-y="2500">
+      <img src="img/yle_logo.png" alt="" />
+      <div style="margin: auto auto; text-align: center;">
+        Creative Commons Nimeä-Tarttuva (<a href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank">CC BY-SA</a>)
+      </div>
+    </div>
+
+  </div>
+
+  <div class="hint">
+    <p>Use a spacebar or arrow keys to navigate</p>
+  </div>
+
+  <script>
+    if ("ontouchstart" in document.documentElement) { 
+        document.querySelector(".hint").innerHTML = "<p>Tap on the left or right to navigate</p>";
+    }
+  </script>
+  <script src="js/impress.js"></script>
+  <script>impress().init();</script>
+</body>
+</html>

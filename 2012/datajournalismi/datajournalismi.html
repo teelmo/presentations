@@ -1,0 +1,608 @@
+<!doctype html>
+<html lang="fi">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=1024" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <title>Datajournalismi | Yle | impress.js</title>
+  
+  <meta name="description" content="impress.js is a presentation tool based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com." />
+  <meta name="author" content="Bartek Szopka" />
+
+  <link href="http://fonts.googleapis.com/css?family=Open+Sans:regular,semibold,italic,italicsemibold|PT+Sans:400,700,400italic,700italic|PT+Serif:400,700,400italic,700italic" rel="stylesheet" />
+  <link href="css/impress-demo.css" rel="stylesheet" />
+  <link href="css/style.css" rel="stylesheet" />
+  
+  <link rel="shortcut icon" href="favicon.png" />
+  <link rel="apple-touch-icon" href="apple-touch-icon.png" />
+  <style type="text/css">
+    
+  </style>
+  <script src="js/jquery.min.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      $('div.slide').each(function(index) {
+        $(this).prepend('<img src="img/yle_logo_black.png" alt="" class="yleLogo" />');
+      });
+      $('div.normalslide').each(function(index) {
+        $(this).append('<footnote><a href="http://teelmo.info" target="_blank">Teemo Tebest</a>, <a href="http://http://twitter.com/teelmo" target="_blank">@teelmo</a> | 24.10.2012 | <a href="https://www.yle.fi" target="_blank">Yleisradio</a> | <a href="https://twitter.com/search?q=%23ddjyle&src=hash"><img src="img/twitter_logo.png" style="vertical-align: -7%;" alt="" /> #ddjyle</a> | <a href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank">CC BY-SA</a</footnote>');
+      });/*
+      $('div.semantic-web').each(function(index) {
+        $(this).append('<img src="drupalcamp.fi-onki/semantic_web-logo.png" alt="" class="bottomImage" />');
+      });
+      $('div.onki').each(function(index) {
+        $(this).append('<img src="drupalcamp.fi-onki/onki-logo.png" alt="" class="bottomImage" />');
+      }); 
+      $('div.normalslide').each(function() {
+        var idx = $('div.normalslide').index($(this));
+        idx = idx + 1
+        $(this).append('<div class="page">' + idx + '</div>')
+      });*/
+    });
+  </script>
+</head>
+
+<body class="impress-not-supported">
+
+  <div class="fallback-message">
+    <p>Your browser <b>doesn't support the features required</b> by impress.js, so you are presented with a simplified version of this presentation.</p>
+    <p>For the best experience please use the latest <b>Chrome</b>, <b>Safari</b> or <b>Firefox</b> browser.</p>
+  </div>
+
+  <div id="impress">
+
+    <div id="datajournalismi" class="step" data-x="0" data-y="-2500">
+      <img src="img/yle_logo.png" alt="" style="margin-left: 200px; margin-top: 00px; margin-bottom: 20px;" />
+      <br />
+      <h1 style="margin-left: 110px;">Datajournalismi</h1>
+      <br />
+      <br />
+      <br />
+      <p class="verysmall" style="margin-left: 170px;">
+        Käytä nuolinäppäimiä "eteen" ja "taakse" navigoidaksesi.
+      </p>
+    </div>
+
+    <div class="step slide" data-x="-1000" data-y="-1500">
+      <h1>Datajournalismi</h1>
+      <br />
+      <q>
+        <strong><i><a href="http://teelmo.info" target="_blank">Teemo Tebest</a></i></strong>
+        <br />
+         &nbsp;&nbsp;&bull;&nbsp; <a href="http://teelmo.info" class="small" target="_blank">Kotisivu</a><br />
+         &nbsp;&nbsp;&bull;&nbsp; <a href="http://datajournalismi.blogspot.com" class="small" target="_blank">Blogi</a><br />
+         &nbsp;&nbsp;&bull;&nbsp; <a href="http://twitter.com/teelmo" class="small" target="_blank">@teelmo</a><br />
+      </q>
+      <q class="right small">
+        <a href="http://yle.fi/" target="_blank">Yleisradio</a>| 24.10.2012
+      </q>
+    </div>
+
+    <div class="step slide normalslide" data-x="0" data-y="-1500">
+      <h1>Teemo Tebest</h1>
+      <q>
+        <img src="img/tebest.jpg" alt="" class="profileImg" />
+      </q>
+    </div>
+
+    <div class="step slide normalslide" data-x="1000" data-y="-1500">
+      <h1>Teemo Tebest</h1>
+      <q class="small">
+        &bull;&nbsp; Web-suunnittelija, <a href="http://svenska.yle.fi" target="_blank">Svenska Yle</a>.<br />
+        &bull;&nbsp; Aikaisemmin tutkijana <a href="http://www.tut.fi" target="_blank">TTY</a>:llä.<br />
+        &bull;&nbsp; Tietotekniikan diplomi-insinööri.<br />
+        <br />
+        Yleen joulukuussa 2011 <a href="http://www.iltalehti.fi/uutiset/2011091514392709_uu.shtml" target="_blank">parrakkaana</a> Web-kehittäjänä.
+      </q>
+    </div>
+
+    <div class="step slide normalslide" data-x="1000" data-y="-500">
+      <h1>Kuka Kukin On?</h1>
+      <br />
+      <br />
+      <q>
+        Kuvaile <strong>yhdellä kahdella lauseella</strong> kuka sinä olet ja miksi olet täällä.
+      </q>
+    </div>
+
+    <div class="step slide normalslide" data-x="0" data-y="-500">
+      <h1>Entä Miksi Minä Olen Täällä?</h1>
+      <q>
+        Haluan kertoa teille <a href="http://jensfinnas.com/dataist/taxtop/" target="_blank">visuaalisesta tarinan kerronnasta</a>, <a href="http://www.hs.fi/politiikka/HSn+kuntakoneessa+voit+suunnitella+kotikuntasi+liitoksen+/a1305559983006" target="_blank">käyttäjävuorovaikutuksesta</a> ja <a href="http://mbostock.github.com/d3/talk/20111018/choropleth.html" target="_blank">datan visualisoinnista</a>...<br />
+        <strong>&nbsp;&rarr; Datajournalismista.</strong>
+      </q>
+    </div>
+
+    <div class="step slide normalslide" data-x="-1000" data-y="-500">
+      <h1>Lyhyt Historia</h1>
+      <q>
+        &bull; <span class="small">Datajournalismin katsotaan &nbsp;&nbsp;&nbsp;syntyneen 1950 &ndash; 1960-luvuilla.</span><br />
+        &bull; <span class="small">Aikaisemmin on puhuttu mm. &nbsp;&nbsp;&nbsp;tietokoneavusteisesta journalismista &nbsp;&nbsp;&nbsp;ja tietokantajournalismista.</span><br />
+        &bull; <span class="small">Kyse ei ole siis uudesta ilmiöstä</span><br />
+      </q>
+    </div>
+
+    <div class="step slide normalslide" data-x="-1000" data-y="500">
+      <h1>Lyhyt Historia</h1>
+      <q>
+        &bull; <span class="small">Aikaisimmat esimerkit keskittyvät &nbsp;&nbsp;&nbsp;mm. vaalidatan käsittelemiseen.</span><br />
+        &bull; <span class="small">Nykyinen aalto kumpuaa avoimesta &nbsp;&nbsp;&nbsp;tiedosta, paremmista työkaluista ja &nbsp;&nbsp;&nbsp;yleisestä media-alan murroksesta.</span>
+        <span class="floatRight">&nbsp;&rarr;<a href="http://datajournalismi.blogspot.fi/2012/06/nakokulma-datajournalismi-ennen-nyt-ja.html" target="_blank">Lue lisää</a></span>
+      </q>
+    </div>
+
+    <div class="step slide normalslide" data-x="0" data-y="500">
+      <h1>Mutta nyt asiaan!</h1>
+      <br />
+      <br />
+      <q>
+        Esimerkkejä, esimerkkejä ja vielä kerran esimerkkejä!
+      </q>
+    </div>
+
+    <div class="step slide normalslide" data-x="1000" data-y="500">
+      <h1>Esimerkkejä</h1>
+      <q>
+        Kartoista, tiedon ryömimisestä, tiedon raapimisesta, aikajanoista, Twitteristä, Facebookista, verkostoista, videoista, kuvista, piirakoista, pylväistä.
+      </q>
+    </div>
+
+    <div class="step slide normalslide" data-x="1000" data-y="1500">
+      <h1>Ensin Kuitenkin...</h1>
+      <q>
+        <img src="img/but_first.jpeg" alt="" style="width: 70%;"/>
+      </q>
+      <credits>src: http://www.condenaststore.com/-sp/But-first-a-distraction-New-Yorker-Cartoon-Prints_i8479863_.htm</credits>
+    </div>
+
+    <div class="step" data-x="3000" data-y="1500" data-z="0" data-rotate-x="10" data-rotate-y="90" data-scale="2">
+      <credits>src: http://www.infovis.net/printMag.php?lang=2&amp;num=186</credits>
+      <img src="img/data_life_cycle.gif" alt="" style="height: 800px;"/>
+    </div>
+
+    <div class="step" data-x="2500" data-y="3000" data-z="0" data-rotate-x="10" data-rotate-y="90" data-scale="2">
+      <credits>src: http://www.infovis.net/printMag.php?lang=2&amp;num=186</credits>
+      <img src="img/infovis.jpeg" alt="" style="margin-left: -60px;"/>
+    </div>
+
+    <div class="step slide normalslide" data-x="0" data-y="1500">
+      <h1>Noniin, voimme katsoa videoita</h1>
+      <br />
+      <q>
+        <span class="verysmall" style="line-height: 20px; display: inline-block;">
+          <del>&gt;&gt; cd /Users/teelmo/Documents/Projects/Datavis/gource/gource-0.37.win32<br />
+          >> gource vpkk2011_2011-11-04.txt -r 30 -s 5 -i 0 --title VPKK2011 --key --user-image-dir avatar --hide usernames,bloom --disable-auto-rotate --background-colour 000000 -f</del>
+        </span>
+        <br />
+        <br />
+        Esimerkit kumpuavat etenkin aikaisemmalta tutkijan uraltani.
+      </q>
+    </div>
+
+    <div class="step" data-x="-1000" data-y="1500">
+      <q>
+        <iframe width="960" height="720" src="http://www.youtube.com/embed/uElz3xn-GAU?rel=0" frameborder="0" allowfullscreen style="margin-left: -100px;"></iframe>
+      </q>
+    </div>
+
+    <div class="step slide normalslide" data-x="-2000" data-y="1500">
+      <h1>Mitä siis näimme?</h1>
+      <q>
+        <del>Ensimmäinen video</del> kertoi etenkin datan visualisoinnista ja toinen oli visuaalisen tarinan kerrontaa.
+      </q>
+    </div>
+
+    <div class="step slide normalslide" data-x="-1000" data-y="2500">
+      <h1>Karttaesimerkkejä</h1>
+      <q>
+        <strong>Toteutustekniikka:</strong><br />
+        &nbsp;&nbsp;&bull; <span class="small"><a href="https://maps.google.fi/" target="_blank">Google Maps</a> ja <a href="http://www.google.com/fusiontables/Home/" target="_blank">Fusion Tables</a> sekä &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JavaScript-pohjaiset räätälöinnit.</span><br />
+        <strong>Piirtotekniikka:</strong><br />
+        &nbsp;&nbsp;&bull; <span class="small">Pinta-alaa ja pisteitä kuvaavat &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;kartat sekä niiden yhdistelmät.
+      </q>
+    </div>
+
+    <div class="step" data-x="0" data-y="2500">
+      <credits>src: http://www.taloussanomat.fi/autot/2012/09/24/kartta-nayttaa-euroopan-bensahinnat-uudella-tavalla/201238464/304</credits>
+      <iframe width="700" height="730" src="http://77.37.18.167/case-2012-polttoaineenhinnan_muutos_e27/map.html" style="margin-top: -50px;" scrolling="no"></iframe>
+    </div>
+
+    <div class="step" data-x="1000" data-y="2500">
+     <iframe width="460" height="620" scrolling="no" frameborder="no" src="https://www.google.com/fusiontables/embedviz?viz=MAP&amp;q=select+col9%3E%3E0+from+1nTEk3aRIQWgQru4LJ2xljKkUOT1Pm9a9FV-wQAc&amp;h=false&amp;lat=65.17540768946219&amp;lng=25.40956053125001&amp;z=5&amp;t=1&amp;l=col9%3E%3E0&amp;y=4&amp;tmplt=2" style="margin-left: 80px;"></iframe>
+    </div>
+
+    <div class="step" data-x="1000" data-y="3500" data-scale="1">
+      <credits>http://datajournalismi.blogspot.com/2012/09/naistutka-2000-minne-naiset-menneet-on.html</credits>
+      <iframe width="800" height="730" src="http://teelmo.info/teelmo/app/case-2012-naistensuhteellinen_osuus/map/map.html" style="margin-top: 150px; margin-left: 200px;" scrolling="no"></iframe>    
+    </div>
+
+    <div class="step" data-x="0" data-y="3500" data-scale="1">
+      <credits>src: http://www.kuntavaalit.fi/ehdokas/kuntanavigaattori/Sivut/default.aspx</credits>
+      <iframe width="800" height="730" src="http://www.kuntavaalit.fi/ehdokas/kuntanavigaattori/Sivut/default.aspx" style="" scrolling="yes"></iframe>    
+    </div>
+
+    <div class="step" data-x="-1000" data-y="3500" data-scale="1">
+      <credits>src: http://svenska.yle.fi/artikel/2012/09/04/har-kanner-sig-folk-otrygga-i-svenskfinland-se-kartan</credits>
+      <iframe width="800" height="730" src="http://svenska.yle.fi/misc/529300" style="" scrolling="no"></iframe>    
+    </div>
+
+    <div class="step" data-x="4000" data-y="13500" data-rotate-x="10" data-rotate-y="90" data-scale="12">
+      <h1 style="margin-left: 80px;">Svenska Yle förevisar:<br />Alkoholkartan</h1>
+      <q>
+        
+      </q>
+    </div>
+
+    <div class="step" data-x="2500" data-y="12500" data-rotate-x="10" data-rotate-y="90" data-scale="1">
+      <q>
+        Svenska Yle:n ajankohtaisradio-ohjelma <a href="http://svenska.yle.fi/radar" target="_blank">Radar</a> teki keväällä ohjelmasarjaa alkoholinkäytöstä Suomessa.
+      </q>
+    </div>
+
+    <div class="step" data-x="2500" data-y="13800" data-rotate-x="10" data-rotate-y="90" data-scale="1">
+      <q>
+        <a href="http://svenska.yle.fi/profiler/eva-koskinen" target="_blank">Eva Koskinen</a> otti minuun yhteyttä ja kysyi olisiko mahdollista kuvata alkoholin käyttöä kunnittain. Samoihin aikoihin <a href="http://www.thl.fi/" target="_blank">THL</a> julkisti vuosittaiset alkoholinmyyntitilastot, joita se kerää.
+      </q>
+    </div>
+
+    <div class="step" data-x="6000" data-y="13500" data-rotate-x="10" data-scale="3" data-rotate-y="180">
+      <q>
+        <iframe src="http://yle.fi/fst/radar-2011-alkoholforsaljning/alkoholinkulutus_2011.html?area=1&amp;language=se" width="330" height="600" frameborder="0" scrolling="no" style="overflow:hidden;" class="radar"></iframe>
+        <span style="position: absolute; bottom: -20px; right: 200px;">&rarr; <a href="http://svenska.yle.fi/artikel/2012/06/01/har-saljer-alkoholdrycker-bast" target="_blank">Katso artikkeli</a></span>
+      </q>
+    </div>
+
+    <div class="step slide normalslide" data-x="-1000" data-y="4500">
+      <h1>Alkoholikartta</h1>
+      <q class="small">
+        <strong>Hyvää:</strong><br />
+        &nbsp;&bull; Kartta toi lisäarvoa radiojutulle.<br />
+        &nbsp;&bull; Julkaistiin oikea-aikaisesti.<br />
+        <strong>Huonoa:</strong><br />
+        &nbsp;&bull; Siuntion kuntaliitos Lohjaan.<br />
+        &nbsp;&bull; Alkoholin kulutus vrt. -myynti.<br />
+      </q>
+    </div>
+
+    <div class="step slide normalslide" data-x="0" data-y="4500">
+      <h1>Ai niin!</h1>
+      <q>
+        Ja kun kartta oli toteutettu ottaen huomioon molemmat kieliryhmät oli mahdollista tehdä:
+        <br />
+        <br />
+        &bull; <a href="http://yle.fi/uutiset/nain_viina_kay_kaupaksi_-_katso_oman_kuntasi_myynti/6161245" target="_blank">Näin viina käy kaupaksi - katso &nbsp;&nbsp;&nbsp;oman kuntasi myynti</a>
+      </q>
+    </div>
+
+    <div class="step slide normalslide" data-x="1000" data-y="4500">
+      <h1>Ja Yksityiskohdat</h1>
+      <q class="small">
+        &nbsp;&bull; Kartta perustuu <a href="http://blogit.hs.fi/hsnext/hs-julkaisee-kuntakoneen-lahdekoodin" target="_blank">HS:n &nbsp;&nbsp;&nbsp;kuntakoneeseen</a>.<br />
+        &nbsp;&bull; Toteutettu koodilla, joka pohjautuu &nbsp;&nbsp;&nbsp;<a href="http://raphaeljs.com/" target="_blank">Raphaël</a>-JavaScript -kirjastoon.<br />
+        &nbsp;&bull; Upotus uutisivuille <strong>&lt;iframe&gt;</strong>:lla.<br />
+        &nbsp;&bull; ... ja katsotaanpa vielä koodia hetki!
+      </q>
+    </div>
+    <div class="step slide normalslide" data-x="-1000" data-y="5500">
+      <h1>Alkoholikartan tiedostot</h1>
+      <q>
+        <img src="img/alkoholikartta_koodi.png" alt="" />
+        Data, esityskerros ja JavaScript-koodit. <strong class="floatRight">Next: Spotlight &rarr;</strong>
+      </q>
+    </div>
+    
+    <div class="step slide normalslide" data-x="0" data-y="5500">
+      <h1>Case: Spotlight ja PerusS</h1>
+      <q>
+        &nbsp;&bull; Facebook-raavintaa<br />
+        &nbsp;&bull; Verkostoanalyysiä<br />
+        <br />
+        &nbsp;&rarr; Enpäs tehnyt, no teithän!
+      </q>
+    </div>
+
+    <div class="step slide normalslide" data-x="1000" data-y="5500">
+      <h1>PerusS ja Islamofobia</h1>
+      <q class="small">
+        <del><a href="http://yle.fi/mot" target="_blank">MOT</a></del><ins><a href="http://atuubi.yle.fi/ohjelmat/silminnakija_avaa_silmasi" target="_blank">Silminnäkijä</ins> ja <a href="http://svenska.yle.fi/spotlight" target="_blank">Spotlight</a> tekivät useamman ohjelman juttusarjan FDL:n toiminnasta Suomessa. Spotlight keskittyi etenkin Perussuomalaisten kytköksiin FDL:ssä.
+      </q>
+    </div>
+
+    <div class="step slide normalslide" data-x="-1000" data-y="6500">
+      <h1>Mitä tehtiin?!</h1>
+      <q class="small">
+        <strong>Ensinnäkin:</strong><br />
+        <a href="http://svenska.yle.fi/profiler/marko-hietikko" target="_blank">Marko Hietikko</a> oli kerännyt listan kiinnostavista PS:n poliitikkojen Facebook-profiileista sekä pääasiallisista FDL-vaikuttajista.
+      </q>
+    </div>
+
+    <div class="step slide normalslide" data-x="0" data-y="6500">
+      <h1>Tietokone avuksi</h1>
+      <q class="small">
+        <strong>Toiseksi:</strong><br />
+        Marko tuli juttelemaan minulle josko olisi mahdollista tutkia miten nämä kerätyt ihmiset ovat vaikuttaneet keskenään Facebookissa.
+      </q>
+    </div>
+
+    <div class="step slide normalslide" data-x="1000" data-y="6500">
+      <h1>Lopputulos</h1>
+      <q class="small">
+        <strong>Kolmanneksi:</strong><br />
+        Facebook-profiililistan avulla on Facebookista mahdollista kysyä ketkä ovat keskenään kavereita.
+        <br />
+        <br />
+        &rarr; Hyvin tiivis verkosto ihmisistä.
+      </q>
+    </div>
+
+    <div class="step slide normalslide" data-x="-1000" data-y="7500">
+      <h1>Mikä hyöty?</h1>
+      <q class="small">
+        Tuloksia voitiin käyttää apuna argumentoinneissa ja haastatteluissa.<br />
+        Yksityiskohdat olivat lähinnä toimittajan työkalu, mutta analyysiä voitiin käyttää taustakuvituksena myös itse jutussa.
+      </q>
+    </div>
+
+    <div class="step" data-x="0" data-y="7500">
+      <img src="img/spotlight_data_anonyymi.png" alt="" />
+    </div>
+
+    <div class="step" data-x="1000" data-y="7500">
+      <img src="img/teemo_facebook_kaverit.png" alt="" />
+    </div>
+
+    <div class="step slide normalslide" data-x="-1000" data-y="8500">
+      <h1>TV:ssä grafiikkana</h1>
+      <q class="small">
+        Ehdottomasti monimutkaiset verkostoanalyysit ovat liian vaikeita yksityiskohtaisesti läpikäytäviksi televisiojulkaisuna, mutta niillä voitiin antaa merkitystä ja taustaa sille miten journalistinen työ oli tehty.
+      </q>
+    </div>
+
+    <div class="step slide normalslide" data-x="0" data-y="8500">
+      <h1>Ohjelma löytyy Youtubesta</h1>
+      <br />
+      <br />
+      <a href="http://www.youtube.com/watch?v=2p0itkrVfC0&amp;t=6m" target="_blank"><img src="img/spotlight_verkosto_tv.png" alt="" /></a>
+    </div>
+
+    <div class="step slide normalslide" data-x="1000" data-y="8500">
+      <h1>Yksityiskohdat</h1>
+      <q>
+        1) Data Facebookista käsin 2) keskenäisten kaverisuhteiden kaivaminen Python-scriptillä 3) Verkoston visualisoiminen <a href="http://gexf.net/format/" target="_blank">.gexf-muodossa</a> <a href="https://gephi.org/" target="_blank">Gephi</a>-ohjelmassa.
+        <span class="floatRight">&nbsp;&rarr; Lue lisää <a href="http://datajournalismi.blogspot.fi/2012/05/verkostoanalyysia-televisiossa.html" target="_blank">1</a>, <a href="http://www.journalistiliitto.fi/journalisti/lehti/2012/18/artikkelit/tehkaa-perassa/" target="_blank">2</a></span>
+      </q>
+    </div>
+
+    <div class="step slide normalslide" data-x="-1000" data-y="9500">
+      <h1>Aika katsoa kelloa</h1>
+      <br />
+      <img src="img/clock.jpeg" alt="" />
+    </div>
+
+    <div class="step slide normalslide" data-x="0" data-y="9500">
+      <h1>Joukkoistaminen sitouttaa</h1>
+      <q class="small">
+        &nbsp;&bull; Joukkoistaminen on ihmisten &nbsp;&nbsp;&nbsp;mukaan ottamista.<br />
+        &nbsp;&bull; Maailmalla paljon esimerkkejä.<br />
+        &nbsp;&bull; Aina uniikkia dataa.<br />
+        &nbsp;&bull; <strong>Motivaatio:</strong> helppous, hyöty, pakko<br />
+      </q>
+    </div>
+
+    <div class="step slide normalslide" data-x="1000" data-y="9500">
+      <h1>Esimerkkejä</h1>
+      <q class="small">
+        &nbsp;&bull; Valvontakamerat Tanskassa<br />
+        &nbsp;&bull; <a href="http://www.hs.fi/talous/Osallistu+HSn+selvitykseen+kerro+asuntolainasi+korko/a1305560793396" target="_blank">Asuntolainan korot <del>Ruot..</del> Suomessa</a><br />
+        &nbsp;&bull; <a href="http://www.guardian.co.uk/politics/mps-expenses" target="_blank">Edustajien kulut Britanniassa</a><br />
+        &nbsp;&bull; <a href="http://kuningaskuluttaja.yle.fi/node/3157" target="_blank">Kallein kahvikuppi Suomessa</a><br />
+        &nbsp;&bull; <a href="http://svenska.yle.fi/artikel/2012/09/04/har-kanner-sig-folk-otrygga-i-svenskfinland-se-kartan" target="_blank">Turvattomuus Suomessa</a><br />
+        &nbsp;&bull; <a href="http://en.wikipedia.org/wiki/ReCAPTCHA" target="_blank">reCAPTCHA</a>
+      </q>
+    </div>
+
+    <div class="step slide normalslide" data-x="-1000" data-y="10500">
+      <h1>Miten tehdään?</h1>
+      <q>
+        &nbsp;&bull; Yksinkertaisinta tehdä esim. &nbsp;&nbsp;&nbsp;<a href="www.google.com/google-d-s/forms/" target="_blank">Google-lomake</a>.<br />
+        &nbsp;&bull; Monipuolisemmat esim. &nbsp;&nbsp;&nbsp;<a href="http://w3.webropol.com/finland" target="_blank">Webropol</a>-työkalulla.<br />
+        &nbsp;&bull; Suurin työ liittyy kerätyn &nbsp;&nbsp;&nbsp;tiedon käsittelyyn
+      </q>
+    </div>
+
+    <div class="step" data-x="-5000" data-y="-10500" data-rotate-x="10" data-scale="2" data-rotate-y="90">
+      <h1>Kädet rasvaan!</h1>
+      <br />
+      Katsotaan lyhyesti miltä näyttää joukkoistamisprojekti "<a href="http://svenska.yle.fi/artikel/2012/07/06/hjalp-calle" target="_blank">Hjälp Calle!</a>" kulissien takana.<br />
+      <br />
+      Toteutuksessa mukana Google Form -työkalu ja vastausten visualisoinnit.
+    </div>
+
+    <div class="step" data-x="-5000" data-y="-10500" data-scale="1">
+      Lomake oli sisällytetty uutiseen, jossa kehotettiin auttamaan uutta puolustusministeriämme ja se sisälsi <strong>viisi</strong> yksinkertaista <strong>Kyllä/Ei</strong> kysymystä.
+    </div>
+
+    <div class="step" data-x="-5000" data-y="-11500" data-rotate-y="">
+      <iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dE9ETTB4a25yMndGTjVpX2ozejRQUlE6MQ" width="760" height="732" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+    </div>
+
+    <div class="step" data-x="-3500" data-y="-11500" data-rotate-y="">
+      Lomake upotettiin jälleen <strong>&lt;iframe&gt;</strong>:lla uutisivulle:<br />
+      &nbsp;&rarr; <a href="http://svenska.yle.fi/artikel/2012/07/06/hjalp-calle" target="_blank">Hjälp Calle</a>
+    </div>
+
+    <div class="step" data-x="-2200" data-y="-9500" data-rotate-y="" data-scale="3">
+      <img src="img/hjalp_calle.png" alt="" class="floatRight" style="margin-top: -40px; margin-left: 30px; "/>
+      Jutun yhteyteen liitetyt piirakkadiagrammit päivittyivät reaaliaikaisesti vastauksien keräytymisen mukana.
+    </div>
+
+    <div class="step" data-x="-2500" data-y="-5000" data-rotate-y="" data-scale="1">
+      Kysely keräsi muutamassa päivässä <strong>600</strong> vastausta, jonka jälkeen tuloksista kirjoitettiin vielä toinen uutinen:<br />
+      &nbsp;&bull; <a href="http://svenska.yle.fi/artikel/2012/07/10/populart-att-hjalpa-calle" target="_blank">Populärt att hjälpa Calle</a><br />
+      <br />
+      Jossa vastausten jakautumisen merkitystä ja tarkoitusta vielä analysoitiin/pohdittiin kysymys kerrallaan.
+    </div>
+
+    <div class="step" data-x="-1500" data-y="-4000" data-rotate-y="" data-scale="1">
+      Kysely toteutettiin siis Google Form -työkalulla, jonka avulla on mahdollista tehdä kyselylomakkeita. Google Form kerää vastaukset Google Spreadsheet (vrt. Excel) -työkaluun, jossa vastausdataa on mahdollista jatkokäsitellä ja visualisoida:<br />
+      &nbsp;&bull; <a href="
+      https://docs.google.com/spreadsheet/ccc?key=0AtSvRKpOIo3OdE9ETTB4a25yMndGTjVpX2ozejRQUlE#gid=0" target="_blank">Linkki toteutukseen</a><br />
+      &nbsp;&bull; <a href="
+      http://datajournalismi.blogspot.fi/2012/07/hjalp-calle.html" target="_blank">Lue lisää</a>
+    </div>
+
+    <div class="step" data-x="5000" data-y="5000" data-rotate-y="45" data-scale="2">
+      <timeout>
+        <img src="img/pullaa.png" alt="" style="position: absolute; right: -50px; top: 0px; opacity: 50%;" />
+        TIMEOUT!
+        <br />
+        <br />
+        kahvia ja <br /><del>pullaa</del>
+      </timeout>
+    </div>
+
+    <div id="puoliaika" class="step slide normalslide" data-x="-1000" data-y="11500" data-scale="1">
+      <h1>Mitä seuraavaksi?</h1>
+      <q class="small">
+        &nbsp;&bull; Käydään läpi vielä lyhyesti &nbsp;&nbsp;&nbsp;muutama esimerkki kuten Twitter- &nbsp;&nbsp;&nbsp;analyysi ja Aikajana.<br />
+        &nbsp;&bull; Sitten kokeillaan tehdä alusta &nbsp;&nbsp;&nbsp;loppuun yksinkertainen &nbsp;&nbsp;&nbsp;karttavisualisointi raavitulla datalla.
+      </q>
+    </div>
+
+    <div class="step slide normalslide" data-x="0" data-y="11500" data-scale="1">
+      <h1>#SuomiTop100</h1>
+      <q class="small">
+        <a href="http://yle.fi/uutiset/tutustu_heihin__100_kiinnostavaa_suomalaista_twitterissa/6190961" target="_blank">#SuomiTop100</a> oli Niku Hoolin ja Antti Hirvosen keksimä idea, jossa joukkoistettiin Twitter-käyttäjiä kertomaan ketkä heidän mielestään olivat 100 vaikutusvaltaisinta suomalaista Twitter-käyttäjää.
+      </q>
+    </div>
+
+    <div class="step slide normalslide" data-x="1000" data-y="11500" data-scale="1">
+      <h1>Mitä sitten...</h1>
+      <q class="small">
+        Kiinnostuin ilmiöstä ja tutkin sitä tarkemmin.<br />
+        <br />
+        Katsotaan ihan lyhyesti läpi minkälaisia juttuja ilmiöstä oli mm. mahdollista nähdä:
+        <a href="http://datajournalismi.blogspot.fi/2012/06/suomitop100-ilmio.html" target="_blank">#SuomiTop100-ilmiö</a>
+      </q>
+    </div>
+
+    <div class="step slide normalslide" data-x="1000" data-y="12500" data-scale="1">
+      <h1>Ja vielä aikajana</h1>
+      <q>
+        Aikajana on visualisointi-komponentti, joka on mahdollistaa kronologisesti toisiinsa liittyvien tapahtumien esittämisen käyttäjälle.  
+      </q>
+    </div>
+    
+    <div class="step slide normalslide" data-x="0" data-y="12500" data-scale="1">
+      <h1>Esimerkkejä</h1>
+      <q class="smaller">
+        &nbsp;&bull; <a href="http://yle.fi/uutiset/nokian_ihme_-_takana_loistaa_tulevaisuus/6182773" target="_blank">Nokian ihme - takana loistava tulevaisuus</a><br />
+        &nbsp;&bull; <a href="http://www.hs.fi/talous/Aikajana+n%C3%A4ytt%C3%A4%C3%A4+yt-neuvotteluiden+suman+syksyll%C3%A4/a1305601430191" target="_blank">Aikajana näyttää yt-neuvotteluiden suman &nbsp;&nbsp;&nbsp;syksyllä</a><br />
+        &nbsp;&bull; <a href="http://www.hs.fi/kotimaa/Rakennusvirasto+on+kielt%C3%A4nyt+Helsingiss%C3%A4+paljon+-+HSfi+kokosi+aikajanan+kiistoista/a1305601979045 " target="_blank">Rakennusvirasto on kieltänyt Helsingissä &nbsp;&nbsp;&nbsp;paljon – HS.fi kokosi aikajanan kiistoista</a><br />
+        &nbsp;&bull; <a href="http://www.floapps.com/lab/tekes/" target="_blank">Tekes Innovation interstate</a>
+      </q>
+    </div>
+
+    <div class="step" data-x="0" data-y="14500" data-scale="1">
+      <h1>Vielä kolme nopeaa ajatusta, jotka haluan teidän ottavan täältä mukaanne ennen kuin kokeilemme toteuttaa esimerkin.</h1>
+    </div>
+
+    <div class="step" data-x="1000" data-y="15500" data-scale="1">
+      <h1>1) Datajournalismi on journalismin työkalu joka mahdollistaa juttujen tekemisen ja rikastaa olemassa olevia ja muutenkin tehtäviä juttuja.</h1>
+    </div>
+
+    <div class="step" data-x="2000" data-y="16500" data-scale="1">
+      <h1>2) Datajournalismin etu on kuitenkin, ettei sisältö ole kopioitavissa.</h1>
+    </div>
+
+    <div class="step" data-x="3000" data-y="17500" data-scale="1">
+      <h1>3) Datajournalismin avulla voidaan uutisesta tehdä lukijalleen persoonallinen.</h1>
+    </div>
+
+    <div class="step" data-x="4000" data-y="18500" data-scale="1">
+      <h1>Ja bonuksena vielä huomio, että datan putsaukseen menee usein jopa 80%:a projektista.</h1>
+    </div>
+
+    <div class="step" data-x="2000" data-y="18500" data-scale="1">
+      <h1>Kiitos!</h1>
+      <br />
+      Tässä olivat kaikki <strong>esimerkit</strong>, jotka halusin tuoda esille. Kyse ei ole kattavasta esimerkkien kirjoista edes niistä joita minä ole tehnyt saatikaan siitä mitä kaikkea Yle:ssä, Suomessa ja maailmalla on tehty.
+    </div>
+
+    <div id="loppu" class="step" data-x="4000" data-y="19500">
+      <img src="img/yle_logo.png" alt="" style="margin-left: 200px; margin-top: 00px; margin-bottom: 20px;" />
+      <br />
+      <h1 style="margin-left: 280px;">Jatkuu...</h1>
+    </div>
+
+    <div id="kokeilu" class="step" data-x="4000" data-y="20500">
+      <h1>Seuraavaksi</h1>
+      <br />
+      Kokeilemme ottaa Wikipediasta dataa (ryömiä), viedä datan taulukko-laskentaohjelmaan, tallentaa data Google Fusion Table -työkaluun ja visualisoida keräämämme datan eri tavoin. <br />
+      &bull; Pylväsdiagrammi, kartta, mitä &nbsp;&nbsp;&nbsp;keksimmekään....
+    </div>
+
+    <div class="step" data-x="4000" data-y="21500">
+      <a href="http://fi.wikipedia.org/wiki/Luettelo_Suomen_kunnista_v%C3%A4kiluvun_mukaan" target="_blank">Luettelo Suomen kunnista väkiluvun mukaan</a><br />
+      <br />
+      &rarr; <a href="http://dataist.wordpress.com/2012/10/12/get-started-with-screenscraping-using-google-chromes-scraper-extension/" target="_blank">Scraper</a> &rarr; Google Spreadsheed
+      <br />
+      <br />
+      1) Järjestäminen<br />
+      2) Visualisointi (pylväs)<br />
+      3) <a href="https://www.google.com/fusiontables/DataSource?docid=1l2RGKiUhtCwlfbPDjFtTxZahkIa6olbhfAgp9c8" target="_blank">Yhdistäminen</a><br />
+      4) Visualisointi (kartta)<br />
+    </div>
+
+    <div id="theend" class="step" data-x="4000" data-y="22500">
+      <img src="img/yle_logo.png" alt="" style="margin-left: 200px; margin-top: 00px; margin-bottom: 20px;" />
+      <br />
+      <h1 style="margin-left: 290px;">Kiitos!</h1>
+      <br />
+      <q>
+        Creative Commons Nimeä-Tarttuva (<a href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank">CC BY-SA</a>)
+      </q>
+
+    </div>
+
+    <div id="linkkeja" class="step" data-x="4000" data-y="23500">
+      <h1>Muutamia linkkejä</h1>
+      <br />
+      &nbsp;&bull; <a href="http://selection.datavisualization.ch/" target="_blank">Datavisualization.ch</a><br />
+      &nbsp;&bull; <a href="http://visual.ly/" target="_blank">Visual.ly</a><br />
+      &nbsp;&bull; <a href="http://www.guardian.co.uk/news/datablog" target="_blank">Guardian</a><br />
+      &nbsp;&bull; <a href="http://www.hs.fi/kotimaa/aihe/datajournalismi/" target="_blank">Helsingin Sanomat</a><br />
+      &nbsp;&bull; <a href="http://suomenkuvalehti.fi/teemat/datajournalismi/jutut" target="_blank">Suomen Kuvalehti</a><br />
+      &nbsp;&bull; <a href="http://www.datajournalismblog.com/tag/new-york-times/" target="_blank">Ny Times</a><br />
+      &nbsp;&bull; <a href="http://datajournalismhandbook.org/" target="_blank">Datajournalismin käsikirja</a><br />
+      &nbsp;&bull; <a href="http://datajournalismi.blogspot.com/" target="_blank">Datajournalismi / Teemo Tebest</a><br />
+      &nbsp;&bull; <a href="http://dataist.wordpress.com/" target="_blank">Jens Finnäs / Dataist</a>
+    </div>
+
+    <div id="theend" class="step" data-x="4000" data-y="24500">
+      <img src="img/yle_logo.png" alt="" style="margin-left: 200px; margin-top: 00px; margin-bottom: 20px;" />
+      <br />
+      <h1 style="margin-left: 290px;">Loppu</h1>
+      <br />
+      <q>
+        Creative Commons Nimeä-Tarttuva (<a href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank">CC BY-SA</a>)
+      </q>
+
+    </div>
+  </div>
+
+  <div class="hint">
+    <p>Use a spacebar or arrow keys to navigate</p>
+  </div>
+  <script>
+  if ("ontouchstart" in document.documentElement) { 
+      document.querySelector(".hint").innerHTML = "<p>Tap on the left or right to navigate</p>";
+  }
+  </script>
+
+
+  <script src="js/impress.js"></script>
+  <script>impress().init();</script>
+
+</body>
+</html>

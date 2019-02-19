@@ -1,0 +1,293 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=1024" />
+    
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <title>Plus Desk | Data Harvest | Teemo Tebest</title>
+    
+    <meta name="description" content="impress.js is a presentation tool based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com." />
+    <meta name="author" content="Bartek Szopka" />
+
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans:regular,semibold,italic,italicsemibold|PT+Sans:400,700,400italic,700italic|PT+Serif:400,700,400italic,700italic" rel="stylesheet" />
+
+    <link href="css/impress-demo.css" rel="stylesheet" />
+    <link href="css/styles.css" rel="stylesheet" />
+
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" href="favicon.ico" />
+    <script src="js/jquery.min.js"></script>
+    <script type="text/javascript">
+      $(document).ready(function() {
+        $('div.slide').each(function(index) {
+          $(this).prepend('<div class="logo"></div>');
+        });
+        $('div.slide').each(function(index) {
+          $(this).append('<footnote>Juha Rissanen &amp; <a href="http://teelmo.info">Teemo Tebest</a><a href="http://http://twitter.com/teelmo">@teelmo</a> | 04-05-2013 | <a href="http://www.dataharvest.eu">Data Harvest</a> | <a href="https://twitter.com/search?q=%23dataharvest13&src=hash"><img src="img/twitter_logo.png" alt="" /> #dataharvest13</a> | <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a</footnote>');
+        });
+        $('a').each(function(index) {
+          $(this).attr('target', '_blank');
+        });
+      });
+    </script>
+  </head>
+
+  <body class="impress-not-supported">
+    <div class="fallback-message">
+      <p>Your browser <b>doesn't support the features required</b> by impress.js, so you are presented with a simplified version of this presentation.</p>
+      <p>For the best experience please use the latest <b>Chrome</b>, <b>Safari</b> or <b>Firefox</b> browser.</p>
+    </div>
+
+    <div id="impress">
+
+      <div id="alku" class="step" data-x="0" data-y="-10000" data-scale="4">
+        <center>
+          Hi, how are you?
+        </center>
+      </div>
+
+      <div id="title" class="step" data-x="0" data-y="-6500" data-scale="4">
+        <center>
+          <h1>
+            Speed visualization <br />
+            &amp;&amp;<br />
+            Creating web-like news stories
+          </h1>
+        </center>
+      </div>
+
+      <div class="step slide" data-x="-1000" data-y="-3500">
+        <h1>Who are we?</h1>
+        <q>
+          <br />
+          &bull;&nbsp;&nbsp;Juha Rissanen<br />
+          &bull;&nbsp;&nbsp;Teemo Tebest
+          <br />
+          <br />
+          <ul>
+            <li><a href="http://yle.fi/uutiset/plus">Yleisradio | Yle Plus</a></li>
+          </ul>
+        </q>
+      </div>
+
+      <div class="step slide" data-x="0" data-y="-3500">
+        <h1>Plus Desk</h1>
+        <q>
+          <ul>
+            <li>Started yearly 2013.</li>
+            <li>2 producers, 2 graphic designers, 1 nerd.</li>
+            <li>We make stories with other news desks.</li>
+          </ul>
+        </q>
+      </div>
+
+      <div class="step slide" data-x="1000" data-y="-3500">
+        <h1>Workflow</h1>
+        <q>
+          <ul>
+            <li>Fast-paced news organization.</li>
+            <li>From idea to story in 1–2 days.</li>
+            <li>We use existing tools or create our own.</li>
+          </ul>
+        </q>
+      </div>
+      
+      <div class="step slide" data-x="1000" data-y="-2500">
+        <h1>Today</h1>
+        <q>
+          <ul>
+            <li>Share our work processes and methods.</li>
+            <li>Guide you through our cases.</li>
+            <li>You can do this too!</li>
+          </ul>
+        </q>
+      </div>
+
+      <div class="step slide" data-x="0" data-y="-2500">
+        <h1>The Plus Desk process</h1>
+        <q>
+          <ul>
+            <li>Journalist has an idea for a story</li>
+            <li>Together we come up with a solution on how to create the story online</li>
+          </ul>
+        </q>
+      </div>
+
+      <div class="step slide" data-x="-1000" data-y="-2500">
+        <h1>Budged Puzzle</h1>
+        <q>
+          <ul>
+            <li>Federal budget negotiations</li>
+            <li>We had data of various cut targets.</li>
+            <li>We knew about <a href="http://www.nytimes.com/interactive/2010/11/13/weekinreview/deficits-graphic.html" target="_blank">NY Times' Budget Puzzle</a>.</li>
+            <li>We created our own version.</li>
+          </ul>
+        </q>
+      </div>
+
+      <div class="step" data-x="-1200" data-y="500">
+        <iframe src="http://yle.fi/uutiset/mista_sina_saastaisit_jos_olisit_ministeri_kokeile_laskurilla/6544401" width="1000" height="800"></iframe>
+      </div>
+
+      <div class="step slide" data-x="0" data-y="500">
+        <h1>Budget Puzzle</h1>
+        <q>
+          The data behind this.
+          <br />
+          <br />
+          <img src="img/budget_puzzle_csv.png" alt="" />
+        </q>
+      </div>
+
+      <div class="step slide" data-x="1000" data-y="500">
+        <h1>Budget Puzzle</h1>
+        <q>
+          Rather boring data which was shown in an interesting way:
+          <ul>
+            <li>Gamification</li>
+            <li>Setting up goals</li>
+            <li>Sharing</li>
+            <li>Perspective for big numbers</li>
+          </ul>
+        </q>
+      </div>
+
+      <div class="step slide" data-x="1000" data-y="1500">
+        <h1>Budget Puzzle</h1>
+        <q>
+          <ul>
+            <li>2 days work</li>
+            <li>Most tweeted link of the day</li>
+            <li>Most read article of the week</li>
+            <li>400 reader comments</li>
+            <li><a href="http://sharedcount.com/?url=http%3A%2F%2Fyle.fi%2Fuutiset%2Fmista_sina_saastaisit_jos_olisit_ministeri_kokeile_laskurilla%2F6544401">Over 3,500 Facebook actions</a></li>
+            <li>Repeatability</li>
+          </ul>
+        </q>
+      </div>
+
+      <div class="step slide" data-x="0" data-y="1500">
+        <h1>Budget Puzzle</h1>
+        <q>
+          We put the data in a web-like format which was approachable to our readers. It was a success.
+          <br />
+          <br />
+          Any questions?
+        </q>
+      </div>
+
+      <div class="step slide" data-x="-1000" data-y="1500">
+        <h1>Mining vs. Nature</h1>
+        <q>
+          <ul>
+            <li>There is a mining boom in Finland.</li>
+            <li>Environmental issues have been a hot topic with mining.</li>
+            <li>We wanted to see how does the future look like.</li>
+          </ul>
+        </q>
+      </div>
+
+      <div class="step slide" data-x="-1000" data-y="2500">
+        <h1>Mining vs. Nature</h1>
+        <q>
+          Data:
+          <ul>
+            <li>Mining venture areas</li>
+            <li>Nature conservation areas</li>
+            <li><a href="http://en.wikipedia.org/wiki/Natura_2000" target="_blank">Natura 2000</a> areas</li>
+          </ul>
+        </q>
+      </div>
+
+      <div class="step" data-x="0" data-y="2500">
+        <iframe src="http://yle.fi/uutiset/many_mining_claims_in_nature_conservation_areas/6615273" width="1000" height="800"></iframe>
+      </div>
+
+      <div class="step slide" data-x="1200" data-y="2500">
+        <h1>Mining vs. Nature</h1>
+        <q>
+          <ul>
+            <li>Different organizations were holding the data.</li>
+            <li>Data was in different formats.</li>
+            <li>Finally we were managed to gather 0.4 gigabytes of .kml-formatted data</li>
+          </ul>
+        </q>
+      </div>
+
+      <div class="step slide" data-x="0" data-y="3500">
+        <h1>Mining vs. Nature</h1>
+        <q>
+          Lets take a look at the data.
+          <br />
+          <br />
+          <img src="img/mining_nature_data.png" alt="" />
+        </q>
+      </div>
+
+      <div class="step slide" data-x="-1000" data-y="4500">
+        <h1>Mining vs. Nature</h1>
+        <q>
+          Google's Tools:
+          <ul>
+            <li><a href="https://www.google.com/fusiontables/DataSource?docid=1wA7ybHExepgqBIBWpR_JnoQseAJ_HqLsYvMvvNc" target="_blank">Google Fusion Tables</a> was used to visualize the data.</li>
+            <li>Google Maps API was used to get a desired interface.</li>
+          </ul>
+        </q>
+      </div>
+
+      <div class="step slide" data-x="0" data-y="4500">
+        <h1>Mining vs. Nature</h1>
+        <q>
+          <ul>
+            <li>Large data (12,000 rows) which allowed users to check their point of intrests.</li>
+            <li>Showed that over 13% of Finland is somehow connected with mining.</li>
+          </ul>
+        </q>
+      </div>
+
+      <div class="step slide" data-x="1000" data-y="4500">
+        <h1>Fusion Tables</h1>
+        <q>
+          <ul>
+            <li>Fusion Tables is a great tool for showing complex map data but it can also be used to show much simpler datasets.
+          </ul>
+        </q>
+      </div>
+
+      <div class="step slide" data-x="0" data-y="5500">
+        <h1>The Boston Case</h1>
+        <q>
+          <a href="https://www.google.com/fusiontables/DataSource?docid=1wetyV5W2lqYTtRD9jYkcRF0ZVmiXJbiHUcoLw-o" target="_blank">Boston events on a map</a>
+          <img src="img/boston.png" alt="" />
+        </q>
+      </div>
+
+
+      <div class="step slide" data-x="0" data-y="6500">
+        <h1>Thank you!</h1>
+        <br />
+        <br />
+        <br />
+        <q>
+          Any questions?
+          <br />
+          <img src="img/fb_thumbs_up.jpg" alt="" style="width: 300px; float:right;"/>
+        </q>
+      </div>
+
+    </div>
+    <div class="hint">
+      <p>Use a spacebar or arrow keys to navigate</p>
+    </div>
+
+    <script>
+      if ("ontouchstart" in document.documentElement) { 
+        document.querySelector(".hint").innerHTML = "<p>Tap on the left or right to navigate</p>";
+      }
+    </script>
+    <script src="js/impress.js"></script>
+    <script>impress().init();</script>
+  </body>
+</html>

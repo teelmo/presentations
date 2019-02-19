@@ -1,0 +1,16 @@
+Miten Hervannan kasvastista tuli toimittaja?
+
+Prototyypeistä Journalismiksi
+
+- Oma tausta alkoi opiskelujen suhteen vuonna 2004 ja valmistuin 2010. Vuosina 2009 ja 2011 sain kolmen vuoden kunnian olla osa Hypermedialabraa missä opin erittäin paljon ja se oli hyvä koulu. Paljon vapauksia mutta myös samalla vastuu niillä vapauksilla tehtyihin päätöksiin.
+- Teknisesti olen aina ollut kiinnostunut asioiden visualisoimisesta. Miten näyttää asioita kiinnostavalla tavalla.
+- Journalismi kuten monet "teollisuuden" alat tarvitsevat tekniikkaa
+- Vähitellen hivuttautuen kohti päämäärää. Omalla ajalla omasta kiinnostuksesta.
+- Tilaisuuden tullen päätin olla rohkea.
+- Nykyisin opetan ja kerron journalisteille miten heidän pitäisi tehdä työtä, joka on toki hassua koska minulla ei ole päivääkään journalismin koulutusta.
+- Mutta näin se menee kun tehdään journalismia joissa tekniikka on keskeisessä osassa. Jutuissa joissa tekniikalla mahdollisestaan jutun tekeminen. Tekniikkahan itsessään ei koskaan ole kiinnostavaa.
+
+- Tärkeää on tuoda opitut tiedot web-teknologioista mukaan toteutuksiin kuten standardit ja esimerkiksi responsiivisuus.
+- Myös muun muassa tilastojen oikeellisuus ja se että ne antavat oikean kuvan on sinun tehtävänäsi katsoa.
+- Testaus. Eri laitteilla, eri käyttötilanteissa, kannattaa yrittää rikkoa.
+

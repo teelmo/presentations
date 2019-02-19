@@ -1,0 +1,42 @@
+body {
+  background-image: url('../img/bg_body.jpeg');
+  font-family: "Helvetica Neue" !important;
+}
+div#intermission img,
+div#theend img,
+div#therealend img,
+div#datajournalism img {
+  margin: 40px 0 50px 320px;
+}
+/* Top right logo */
+div.logo {
+  background-position: right center; background-repeat: no-repeat;
+  background-image: url('../img/otavanopisto.gif');
+  height: 75px;
+  position: absolute;
+  right: 4px;
+  top: 4px;
+  width: 56px;
+}
+div.slide q {
+  font-size: 50px;
+  margin-left: 50px;
+}
+footnote {
+  display: block;
+  position: absolute; 
+  bottom: 0; 
+  right: 12px;
+  font-size: 14px;
+}
+footnote a:hover,
+footnote a {
+  font-weight: bold;
+}
+footnote a {
+  text-decoration: none;
+  color: #666;
+}
+footnote img {
+  vertical-align: -7%;
+}

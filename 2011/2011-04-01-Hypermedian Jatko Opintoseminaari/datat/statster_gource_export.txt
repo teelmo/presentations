@@ -1,0 +1,1529 @@
+1243890000|admin|A|Deviniance/Tempora Mutantur, Nos Et Mutamus In Illis/Sweden|FF00FF
+1243890000|teelmo|A|Deviniance/Tempora Mutantur, Nos Et Mutamus In Illis|0000FF
+1243890000|teelmo|A|Deviniance|FF0000
+1243976400|Xzar|A|Satariel/Chifra|0000FF
+1243976400|Xzar|A|Satariel/Hydra|0000FF
+1243976400|Xzar|A|Satariel|FF0000
+1243976400|admin|A|Satariel/Chifra/Sweden|FF00FF
+1243976400|admin|A|Satariel/Hydra/Sweden|FF00FF
+1244062800|Xzar|A|SaraLee/Damnation To Salvation|0000FF
+1244062800|Xzar|A|SaraLee|FF0000
+1244062800|Xzar|A|Saturnus/For The Loveless Lonely Nights|0000FF
+1244062800|Xzar|A|Saturnus|FF0000
+1244062800|admin|A|Faithless/No Roots/United Kingdom|FF00FF
+1244062800|admin|A|SaraLee/Damnation To Salvation/Finland|FF00FF
+1244062800|admin|A|Saturnus/For The Loveless Lonely Nights/Denmark|FF00FF
+1244062800|janne|A|Faithless/No Roots|0000FF
+1244062800|janne|A|Faithless|FF0000
+1244149200|Xzar|A|Bane/Give Blood|0000FF
+1244149200|Xzar|A|Bane|FF0000
+1244149200|admin|A|Bane/Give Blood/United States|FF00FF
+1244235600|admin|A|Dubmood/The (Mighty) Pirate Sessions Volume 1/Sweden|FF00FF
+1244235600|admin|A|Tides From Nebula/Aura/Poland|FF00FF
+1244235600|janne|A|Dubmood/The (Mighty) Pirate Sessions Volume 1|0000FF
+1244235600|janne|A|Dubmood|FF0000
+1244235600|teelmo|A|Tides From Nebula/Aura|0000FF
+1244235600|teelmo|A|Tides From Nebula|FF0000
+1244322000|admin|A|Above And Beyond/Tri-State/Finland|FF00FF
+1244322000|admin|A|Above And Beyond/Tri-State/United Kingdom|FF00FF
+1244322000|admin|A|Armin Van Buuren/Imagine/Netherlands|FF00FF
+1244322000|admin|A|Cosmic Gate/Sign Of The Times/Germany|FF00FF
+1244322000|admin|A|Joose KeskitaloMuuan Mies/Split EP/Finland|FF00FF
+1244322000|admin|A|Oceanlab/Sirens Of The Sea/United Kingdom|FF00FF
+1244322000|admin|A|Stratovarius/Infinite/Finland|FF00FF
+1244322000|admin|A|The Samuel Jackson Five/Goodbye Melody Mountain/Norway|FF00FF
+1244322000|janne|A|Above And Beyond/Tri-State|0000FF
+1244322000|janne|A|Above And Beyond|FF0000
+1244322000|janne|A|Armin Van Buuren/Imagine|0000FF
+1244322000|janne|A|Armin Van Buuren|FF0000
+1244322000|janne|A|Cosmic Gate/Sign Of The Times|0000FF
+1244322000|janne|A|Cosmic Gate|FF0000
+1244322000|janne|A|Oceanlab/Sirens Of The Sea|0000FF
+1244322000|janne|A|Oceanlab|FF0000
+1244322000|tatu|A|Stratovarius/Infinite|0000FF
+1244322000|tatu|A|Stratovarius|FF0000
+1244322000|teelmo|A|The Samuel Jackson Five/Goodbye Melody Mountain|0000FF
+1244322000|teelmo|A|The Samuel Jackson Five|FF0000
+1244322000|teijjjo|A|Joose KeskitaloMuuan Mies/Split EP|0000FF
+1244322000|teijjjo|A|Joose KeskitaloMuuan Mies|FF0000
+1244408400|admin|A|22-Pistepirkko/Eleven/Finland|FF00FF
+1244408400|admin|A|BT/This Binary Universe/United States|FF00FF
+1244408400|admin|A|Ferry Corsten/Twice In A Blue Moon/Netherlands|FF00FF
+1244408400|admin|A|Sunlounger/Sunny Tales/Germany|FF00FF
+1244408400|janne|A|BT/This Binary Universe|0000FF
+1244408400|janne|A|BT|FF0000
+1244408400|janne|A|Ferry Corsten/Twice In A Blue Moon|0000FF
+1244408400|janne|A|Ferry Corsten|FF0000
+1244408400|janne|A|Sunlounger/Sunny Tales|0000FF
+1244408400|janne|A|Sunlounger|FF0000
+1244408400|teelmo|A|22-Pistepirkko/Eleven|0000FF
+1244408400|teelmo|A|22-Pistepirkko|FF0000
+1244494800|admin|A|Tiësto/Elements Of Life/Netherlands|FF00FF
+1244494800|janne|A|Tiësto/Elements Of Life|0000FF
+1244494800|janne|A|Tiësto|FF0000
+1244581200|admin|A|Armin Van Buuren/10 Years/Netherlands|FF00FF
+1244581200|janne|A|Armin Van Buuren/10 Years|0000FF
+1244667600|admin|A|4 Strings/Mainline/Netherlands|FF00FF
+1244667600|admin|A|Deadstar Assembly/Unsaved/United States|FF00FF
+1244667600|admin|A|Joose Keskitalo/Tule Minun Luokseni, Kulta/Finland|FF00FF
+1244667600|admin|A|PJ Harvey/Uh Huh Her/United Kingdom|FF00FF
+1244667600|janne|A|4 Strings/Mainline|0000FF
+1244667600|janne|A|4 Strings|FF0000
+1244667600|janne|A|Deadstar Assembly/Unsaved|0000FF
+1244667600|janne|A|Deadstar Assembly|FF0000
+1244667600|teelmo|A|PJ Harvey/Uh Huh Her|0000FF
+1244667600|teelmo|A|PJ Harvey|FF0000
+1244667600|teijjjo|A|Joose Keskitalo/Tule Minun Luokseni, Kulta|0000FF
+1244667600|teijjjo|A|Joose Keskitalo|FF0000
+1244754000|admin|A|Armin Van Buuren/A State Of Trance 2009/Netherlands|FF00FF
+1244754000|admin|A|Boy Hits Car/The Passage/United States|FF00FF
+1244754000|admin|A|Mnemic/Passenger/Denmark|FF00FF
+1244754000|admin|A|Unearthly Trance/Electrocution/United States|FF00FF
+1244754000|janne|A|Armin Van Buuren/A State Of Trance 2009|0000FF
+1244754000|janne|A|Boy Hits Car/The Passage|0000FF
+1244754000|janne|A|Boy Hits Car|FF0000
+1244754000|janne|A|Mnemic/Passenger|0000FF
+1244754000|janne|A|Mnemic|FF0000
+1244754000|teelmo|A|Unearthly Trance/Electrocution|0000FF
+1244754000|teelmo|A|Unearthly Trance|FF0000
+1244840400|admin|A|Mychildren Mybride/Unbreakable/United States|FF00FF
+1244840400|admin|A|Nightrage/A New Disease Is Born/Greece|FF00FF
+1244840400|admin|A|Nightrage/A New Disease Is Born/Sweden|FF00FF
+1244840400|admin|A|Reino And The Rhinos/Tähän Tyyliin/Finland|FF00FF
+1244840400|admin|A|September Malevolence/After This Darkness, There's A Next/Sweden|FF00FF
+1244840400|admin|A|Serpentcult/Trident Nor Fire/Belgium|FF00FF
+1244840400|admin|A|Upcdowncleftcrightcabc+start/Embers/United Kingdom|FF00FF
+1244840400|janne|A|Nightrage/A New Disease Is Born|0000FF
+1244840400|janne|A|Nightrage|FF0000
+1244840400|kimdracula|A|Reino And The Rhinos/Tähän Tyyliin|0000FF
+1244840400|kimdracula|A|Reino And The Rhinos|FF0000
+1244840400|teelmo|A|Mychildren Mybride/Unbreakable|0000FF
+1244840400|teelmo|A|Mychildren Mybride|FF0000
+1244840400|teelmo|A|September Malevolence/After This Darkness, There's A Next|0000FF
+1244840400|teelmo|A|September Malevolence|FF0000
+1244840400|teelmo|A|Serpentcult/Trident Nor Fire|0000FF
+1244840400|teelmo|A|Serpentcult|FF0000
+1244840400|teelmo|A|Upcdowncleftcrightcabc+start/Embers|0000FF
+1244840400|teelmo|A|Upcdowncleftcrightcabc+start|FF0000
+1244926800|Xzar|A|Caspa And Rusko/Fabriclive 37|0000FF
+1244926800|Xzar|A|Caspa And Rusko|FF0000
+1244926800|admin|A|Caspa And Rusko/Fabriclive 37/United Kingdom|FF00FF
+1244926800|admin|A|Coalesce/Ox/United States|FF00FF
+1244926800|admin|A|Endwell/Consequences/United States|FF00FF
+1244926800|admin|A|Jakob/Dominion/New Zealand|FF00FF
+1244926800|admin|A|Laura/Radio Swan Is Down/Australia|FF00FF
+1244926800|janne|A|Coalesce/Ox|0000FF
+1244926800|janne|A|Coalesce|FF0000
+1244926800|janne|A|Endwell/Consequences|0000FF
+1244926800|janne|A|Endwell|FF0000
+1244926800|teelmo|A|Jakob/Dominion|0000FF
+1244926800|teelmo|A|Jakob|FF0000
+1244926800|teelmo|A|Laura/Radio Swan Is Down|0000FF
+1244926800|teelmo|A|Laura|FF0000
+1245013200|admin|A|Markus Schulz/Progression/Germany|FF00FF
+1245013200|admin|A|Negative/Sweet And Deceitful/Finland|FF00FF
+1245013200|admin|A|Sonny Boy Williamson And The Yardbirds/Live At The Crawdaddy Club/United Kingdom|FF00FF
+1245013200|janne|A|Markus Schulz/Progression|0000FF
+1245013200|janne|A|Markus Schulz|FF0000
+1245013200|tatu|A|Negative/Sweet And Deceitful|0000FF
+1245013200|tatu|A|Negative|FF0000
+1245013200|tatu|A|Sonny Boy Williamson And The Yardbirds/Live At The Crawdaddy Club|0000FF
+1245013200|tatu|A|Sonny Boy Williamson And The Yardbirds|FF0000
+1245099600|admin|A|Agalloch/The Mantle/United States|FF00FF
+1245099600|admin|A|Glass Casket/We Are Gathered Here Today/United States|FF00FF
+1245099600|admin|A|The Human Abstract/Midheaven/United States|FF00FF
+1245099600|teelmo|A|Agalloch/The Mantle|0000FF
+1245099600|teelmo|A|Agalloch|FF0000
+1245099600|teelmo|A|Glass Casket/We Are Gathered Here Today|0000FF
+1245099600|teelmo|A|Glass Casket|FF0000
+1245099600|teelmo|A|The Human Abstract/Midheaven|0000FF
+1245099600|teelmo|A|The Human Abstract|FF0000
+1245618000|admin|A|Widespread Panic/Free Somehow/United States|FF00FF
+1245618000|teelmo|A|Widespread Panic/Free Somehow|0000FF
+1245618000|teelmo|A|Widespread Panic|FF0000
+1245704400|admin|A|Animals As Leaders/Animals As Leaders/United States|FF00FF
+1245704400|admin|A|Born Of Osiris/The New Reign/United States|FF00FF
+1245704400|admin|A|Burning The Masses/Mind Control/United States|FF00FF
+1245704400|admin|A|Dope/No Regrets/United States|FF00FF
+1245704400|admin|A|Richard Durand/Always The Sun/Netherlands|FF00FF
+1245704400|admin|A|Veil Of Maya/All Things Set Aside/United States|FF00FF
+1245704400|admin|A|Veil Of Maya/The Common Man's Collapse/United States|FF00FF
+1245704400|admin|A|Whitechapel/This Is Exile/United States|FF00FF
+1245704400|janne|A|Dope/No Regrets|0000FF
+1245704400|janne|A|Dope|FF0000
+1245704400|janne|A|Richard Durand/Always The Sun|0000FF
+1245704400|janne|A|Richard Durand|FF0000
+1245704400|teelmo|A|Animals As Leaders/Animals As Leaders|0000FF
+1245704400|teelmo|A|Animals As Leaders|FF0000
+1245704400|teelmo|A|Born Of Osiris/The New Reign|0000FF
+1245704400|teelmo|A|Born Of Osiris|FF0000
+1245704400|teelmo|A|Burning The Masses/Mind Control|0000FF
+1245704400|teelmo|A|Burning The Masses|FF0000
+1245704400|teelmo|A|Veil Of Maya/All Things Set Aside|0000FF
+1245704400|teelmo|A|Veil Of Maya/The Common Man's Collapse|0000FF
+1245704400|teelmo|A|Veil Of Maya|FF0000
+1245704400|teelmo|A|Whitechapel/This Is Exile|0000FF
+1245704400|teelmo|A|Whitechapel|FF0000
+1245790800|admin|A|Devin Townsend Project/Ki/Canada|FF00FF
+1245790800|janne|A|Devin Townsend Project/Ki|0000FF
+1245790800|janne|A|Devin Townsend Project|FF0000
+1245877200|admin|A|Killing Joke/What's THIS For...!/United Kingdom|FF00FF
+1245877200|tatu|A|Killing Joke/What's THIS For...!|0000FF
+1245877200|tatu|A|Killing Joke|FF0000
+1246050000|admin|A|Akon/Freedom/United States|FF00FF
+1246050000|admin|A|Milow/Milow/Belgium|FF00FF
+1246050000|kimdracula|A|Akon/Freedom|0000FF
+1246050000|kimdracula|A|Akon|FF0000
+1246050000|kimdracula|A|Milow/Milow|0000FF
+1246050000|kimdracula|A|Milow|FF0000
+1246222800|admin|A|Sander Van Doorn/Supernaturalistic/Netherlands|FF00FF
+1246222800|janne|A|Sander Van Doorn/Supernaturalistic|0000FF
+1246222800|janne|A|Sander Van Doorn|FF0000
+1246309200|admin|A|Alter Bridge/Blackbird/United States|FF00FF
+1246309200|admin|A|Cloudkicker/The Discovery/United States|FF00FF
+1246309200|admin|A|Satchel/EDC/United States|FF00FF
+1246309200|admin|A|Scale The Summit/Carving Desert Canyons/United States|FF00FF
+1246309200|admin|A|TesseracT/Demo/United Kingdom|FF00FF
+1246309200|janne|A|Alter Bridge/Blackbird|0000FF
+1246309200|janne|A|Alter Bridge|FF0000
+1246309200|teelmo|A|Cloudkicker/The Discovery|0000FF
+1246309200|teelmo|A|Cloudkicker|FF0000
+1246309200|teelmo|A|Satchel/EDC|0000FF
+1246309200|teelmo|A|Satchel|FF0000
+1246309200|teelmo|A|Scale The Summit/Carving Desert Canyons|0000FF
+1246309200|teelmo|A|Scale The Summit|FF0000
+1246309200|teelmo|A|TesseracT/Demo|0000FF
+1246309200|teelmo|A|TesseracT|FF0000
+1246395600|admin|A|Fellsilent/The Hidden Words/United Kingdom|FF00FF
+1246395600|teelmo|A|Fellsilent/The Hidden Words|0000FF
+1246395600|teelmo|A|Fellsilent|FF0000
+1246482000|admin|A|Bloodpit/Mental Circus/Finland|FF00FF
+1246482000|admin|A|Deep Insight/One Minute Too Late/Finland|FF00FF
+1246482000|admin|A|Deep Insight/Sucker For Love/Finland|FF00FF
+1246482000|admin|A|Jukka Poika/Äänipää/Finland|FF00FF
+1246482000|admin|A|Raappana/Päivä On Nuori/Finland|FF00FF
+1246482000|admin|A|Soul Captain Band/Tanssijan Valinta/Finland|FF00FF
+1246482000|teelmo|A|Bloodpit/Mental Circus|0000FF
+1246482000|teelmo|A|Bloodpit|FF0000
+1246482000|teelmo|A|Deep Insight/One Minute Too Late|0000FF
+1246482000|teelmo|A|Deep Insight/Sucker For Love|0000FF
+1246482000|teelmo|A|Deep Insight|FF0000
+1246482000|teelmo|A|Jukka Poika/Äänipää|0000FF
+1246482000|teelmo|A|Jukka Poika|FF0000
+1246482000|teelmo|A|Raappana/Päivä On Nuori|0000FF
+1246482000|teelmo|A|Raappana|FF0000
+1246482000|teelmo|A|Soul Captain Band/Tanssijan Valinta|0000FF
+1246482000|teelmo|A|Soul Captain Band|FF0000
+1246568400|admin|A|DJ Starscream/The New Leader/United States|FF00FF
+1246568400|admin|A|Glasvegas/Glasvegas/United Kingdom|FF00FF
+1246568400|admin|A|Killing Joke/Killing Joke/United Kingdom|FF00FF
+1246568400|admin|A|The Wildhearts/The Wildhearts/United Kingdom|FF00FF
+1246568400|anu|A|Killing Joke/Killing Joke|0000FF
+1246568400|janne|A|DJ Starscream/The New Leader|0000FF
+1246568400|janne|A|DJ Starscream|FF0000
+1246568400|janne|A|Glasvegas/Glasvegas|0000FF
+1246568400|janne|A|Glasvegas|FF0000
+1246568400|janne|A|The Wildhearts/The Wildhearts|0000FF
+1246568400|janne|A|The Wildhearts|FF0000
+1246654800|admin|A|Jaakko And Jay/Jaakko And Jay/Finland|FF00FF
+1246654800|admin|A|Killing Joke/Pandemonium/United Kingdom|FF00FF
+1246654800|teelmo|A|Killing Joke/Pandemonium|0000FF
+1246654800|teijjjo|A|Jaakko And Jay/Jaakko And Jay|0000FF
+1246654800|teijjjo|A|Jaakko And Jay|FF0000
+1246741200|admin|A|Ace Of Base/The Sign/Sweden|FF00FF
+1246741200|admin|A|Gastr Del Sol/Upgrade And Afterlife/United States|FF00FF
+1246741200|admin|A|Technicolour/Way Out/Finland|FF00FF
+1246741200|tatu|A|Ace Of Base/The Sign|0000FF
+1246741200|tatu|A|Ace Of Base|FF0000
+1246741200|teelmo|A|Gastr Del Sol/Upgrade And Afterlife|0000FF
+1246741200|teelmo|A|Gastr Del Sol|FF0000
+1246741200|teelmo|A|Technicolour/Way Out|0000FF
+1246741200|teelmo|A|Technicolour|FF0000
+1246827600|admin|A|Smile Empty Soul/Anxiety/United States|FF00FF
+1246827600|teelmo|A|Smile Empty Soul/Anxiety|0000FF
+1246827600|teelmo|A|Smile Empty Soul|FF0000
+1246914000|admin|A|Private Line/21st Century Pirates!/Finland|FF00FF
+1246914000|admin|A|Suicide Silence/No Time To Bleed/United States|FF00FF
+1246914000|janne|A|Suicide Silence/No Time To Bleed|0000FF
+1246914000|janne|A|Suicide Silence|FF0000
+1246914000|teelmo|A|Private Line/21st Century Pirates!|0000FF
+1246914000|teelmo|A|Private Line|FF0000
+1247000400|admin|A|Michael Jackson/King Of Pop/United States|FF00FF
+1247000400|kimdracula|A|Michael Jackson/King Of Pop|0000FF
+1247000400|kimdracula|A|Michael Jackson|FF0000
+1247086800|admin|A|A Swarm Of The Sun/The King Of Everything/Sweden|FF00FF
+1247086800|admin|A|Passion Pit/Manners/United States|FF00FF
+1247086800|janne|A|Passion Pit/Manners|0000FF
+1247086800|janne|A|Passion Pit|FF0000
+1247086800|teelmo|A|A Swarm Of The Sun/The King Of Everything|0000FF
+1247086800|teelmo|A|A Swarm Of The Sun|FF0000
+1247173200|admin|A|Deströyer 666/Defiance/Australia|FF00FF
+1247173200|admin|A|Mike Patton/Adult Themes For Voice/United States|FF00FF
+1247173200|admin|A|The Crystal Method/Divided By Night/United States|FF00FF
+1247173200|janne|A|Deströyer 666/Defiance|0000FF
+1247173200|janne|A|Deströyer 666|FF0000
+1247173200|janne|A|The Crystal Method/Divided By Night|0000FF
+1247173200|janne|A|The Crystal Method|FF0000
+1247173200|teelmo|A|Mike Patton/Adult Themes For Voice|0000FF
+1247173200|teelmo|A|Mike Patton|FF0000
+1247346000|admin|A|Front 242/Catch The Men/Belgium|FF00FF
+1247346000|admin|A|Lostalone/Say No To The World/United Kingdom|FF00FF
+1247346000|inkivaeaeri|A|Lostalone/Say No To The World|0000FF
+1247346000|inkivaeaeri|A|Lostalone|FF0000
+1247346000|teelmo|A|Front 242/Catch The Men|0000FF
+1247346000|teelmo|A|Front 242|FF0000
+1247432400|admin|A|Stella/Kuuntelija/Finland|FF00FF
+1247432400|admin|A|Stella/Pelkääjän Paikalla/Finland|FF00FF
+1247432400|inkivaeaeri|A|Stella/Kuuntelija|0000FF
+1247432400|inkivaeaeri|A|Stella/Pelkääjän Paikalla|0000FF
+1247432400|inkivaeaeri|A|Stella|FF0000
+1247518800|Xzar|A|Skymning/Machina Genova|0000FF
+1247518800|Xzar|A|Skymning|FF0000
+1247518800|admin|A|Skymning/Machina Genova/Sweden|FF00FF
+1247518800|admin|A|Squarepusher/Music Is Rotted One Note/United Kingdom|FF00FF
+1247518800|janne|A|Squarepusher/Music Is Rotted One Note|0000FF
+1247518800|janne|A|Squarepusher|FF0000
+1247605200|admin|A|Killing Joke/Hosannas From The Basements Of Hell/United Kingdom|FF00FF
+1247605200|admin|A|Lines Of Leaving/Battle For Humanity/Finland|FF00FF
+1247605200|admin|A|Skunk Anansie/Stoosh/United Kingdom|FF00FF
+1247605200|inkivaeaeri|A|Skunk Anansie/Stoosh|0000FF
+1247605200|inkivaeaeri|A|Skunk Anansie|FF0000
+1247605200|janne|A|Lines Of Leaving/Battle For Humanity|0000FF
+1247605200|janne|A|Lines Of Leaving|FF0000
+1247605200|teelmo|A|Killing Joke/Hosannas From The Basements Of Hell|0000FF
+1247691600|admin|A|Efterklang/Under Giant Trees/Denmark|FF00FF
+1247691600|admin|A|Stratovarius/Polaris/Finland|FF00FF
+1247691600|inkivaeaeri|A|Efterklang/Under Giant Trees|0000FF
+1247691600|inkivaeaeri|A|Efterklang|FF0000
+1247691600|teelmo|A|Stratovarius/Polaris|0000FF
+1247864400|admin|A|Chicane/Somersault/United Kingdom|FF00FF
+1247864400|admin|A|Vibrasphere/Lungs Of Life/Sweden|FF00FF
+1247864400|janne|A|Chicane/Somersault|0000FF
+1247864400|janne|A|Chicane|FF0000
+1247864400|janne|A|Vibrasphere/Lungs Of Life|0000FF
+1247864400|janne|A|Vibrasphere|FF0000
+1247950800|admin|A|Skalpel/Skalpel/Poland|FF00FF
+1247950800|inkivaeaeri|A|Skalpel/Skalpel|0000FF
+1247950800|inkivaeaeri|A|Skalpel|FF0000
+1248037200|admin|A|Gossip/Music For Men/United States|FF00FF
+1248037200|teelmo|A|Gossip/Music For Men|0000FF
+1248037200|teelmo|A|Gossip|FF0000
+1248123600|admin|A|Mnemic/The Audio Injected Soul/Denmark|FF00FF
+1248123600|janne|A|Mnemic/The Audio Injected Soul|0000FF
+1248210000|admin|A|Daniel Lindström/D-Day/Sweden|FF00FF
+1248210000|teelmo|A|Daniel Lindström/D-Day|0000FF
+1248210000|teelmo|A|Daniel Lindström|FF0000
+1248296400|admin|A|Seether/Disclaimer II/South Africa|FF00FF
+1248296400|admin|A|Teeth Of The Sea/Orphaned By The Ocean/Australia|FF00FF
+1248296400|admin|A|Teeth Of The Sea/Orphaned By The Ocean/United Kingdom|FF00FF
+1248296400|admin|A|Torche/Meanderthal/United States|FF00FF
+1248296400|teelmo|A|Seether/Disclaimer II|0000FF
+1248296400|teelmo|A|Seether|FF0000
+1248296400|teelmo|A|Teeth Of The Sea/Orphaned By The Ocean|0000FF
+1248296400|teelmo|A|Teeth Of The Sea|FF0000
+1248296400|teelmo|A|Torche/Meanderthal|0000FF
+1248296400|teelmo|A|Torche|FF0000
+1248555600|admin|A|Teardrop/Time Spent With Antique Mirrors/United Kingdom|FF00FF
+1248555600|teelmo|A|Teardrop/Time Spent With Antique Mirrors|0000FF
+1248555600|teelmo|A|Teardrop|FF0000
+1248642000|admin|A|Arktika/Heartwrencher/Germany|FF00FF
+1248642000|admin|A|Evans Blue/The Melody And The Energetic Nature Of Volume/Canada|FF00FF
+1248642000|admin|A|Evans Blue/The Pursuit Begins When This Portrayal Of Life Ends/Canada|FF00FF
+1248642000|admin|A|Pensées Nocturnes/Vacuum/France|FF00FF
+1248642000|admin|A|Premonitions Of War/Left In Kowloon/United States|FF00FF
+1248642000|teelmo|A|Arktika/Heartwrencher|0000FF
+1248642000|teelmo|A|Arktika|FF0000
+1248642000|teelmo|A|Evans Blue/The Melody And The Energetic Nature Of Volume|0000FF
+1248642000|teelmo|A|Evans Blue/The Pursuit Begins When This Portrayal Of Life Ends|0000FF
+1248642000|teelmo|A|Evans Blue|FF0000
+1248642000|teelmo|A|Pensées Nocturnes/Vacuum|0000FF
+1248642000|teelmo|A|Pensées Nocturnes|FF0000
+1248642000|teelmo|A|Premonitions Of War/Left In Kowloon|0000FF
+1248642000|teelmo|A|Premonitions Of War|FF0000
+1248728400|admin|A|Edgewater/We're Not Robots.../United States|FF00FF
+1248728400|teelmo|A|Edgewater/We're Not Robots...|0000FF
+1248728400|teelmo|A|Edgewater|FF0000
+1248814800|admin|A|John Lee Hooker/John Lee Hooker Anthology: 50 Years/United States|FF00FF
+1248814800|tatu|A|John Lee Hooker/John Lee Hooker Anthology: 50 Years|0000FF
+1248814800|tatu|A|John Lee Hooker|FF0000
+1248901200|admin|A|Eläkeläiset/Humppasirkus/Finland|FF00FF
+1248901200|admin|A|Mendeed/Shadows. War. Love. - The Very Best Of Mendeed/United Kingdom|FF00FF
+1248901200|admin|A|Mudy On The Sakuban/VOI/Japan|FF00FF
+1248901200|admin|A|Télépopmusik/Angel Milk/France|FF00FF
+1248901200|tatu|A|Eläkeläiset/Humppasirkus|0000FF
+1248901200|tatu|A|Eläkeläiset|FF0000
+1248901200|teelmo|A|Mendeed/Shadows. War. Love. - The Very Best Of Mendeed|0000FF
+1248901200|teelmo|A|Mendeed|FF0000
+1248901200|teelmo|A|Mudy On The Sakuban/VOI|0000FF
+1248901200|teelmo|A|Mudy On The Sakuban|FF0000
+1248901200|teelmo|A|Télépopmusik/Angel Milk|0000FF
+1248901200|teelmo|A|Télépopmusik|FF0000
+1248987600|admin|A|Collapse Under The Empire/Systembreakdown/Germany|FF00FF
+1248987600|teelmo|A|Collapse Under The Empire/Systembreakdown|0000FF
+1248987600|teelmo|A|Collapse Under The Empire|FF0000
+1249074000|admin|A|Five Pointe O/Untitled/United States|FF00FF
+1249074000|teelmo|A|Five Pointe O/Untitled|0000FF
+1249074000|teelmo|A|Five Pointe O|FF0000
+1249246800|Xzar|A|Michael Andrews/Donnie Darko (Soundtrack And Score)|0000FF
+1249246800|Xzar|A|Michael Andrews|FF0000
+1249246800|admin|A|Michael Andrews/Donnie Darko (Soundtrack And Score)/United States|FF00FF
+1249246800|admin|A|Motograter/Indy/United States|FF00FF
+1249246800|admin|A|Slaves On Dope/Inches From The Mainline/Canada|FF00FF
+1249246800|admin|A|Sweek/The Shooting Star's Sigh.../Belgium|FF00FF
+1249246800|admin|A|Switched/Subject To Change/United States|FF00FF
+1249246800|teelmo|A|Motograter/Indy|0000FF
+1249246800|teelmo|A|Motograter|FF0000
+1249246800|teelmo|A|Slaves On Dope/Inches From The Mainline|0000FF
+1249246800|teelmo|A|Slaves On Dope|FF0000
+1249246800|teelmo|A|Sweek/The Shooting Star's Sigh...|0000FF
+1249246800|teelmo|A|Sweek|FF0000
+1249246800|teelmo|A|Switched/Subject To Change|0000FF
+1249246800|teelmo|A|Switched|FF0000
+1249333200|admin|A|At The Gates/Terminal Spirit Disease/Sweden|FF00FF
+1249333200|admin|A|Dope/Life/United States|FF00FF
+1249333200|admin|A|Lo-Pro/Lo-Pro/United States|FF00FF
+1249333200|admin|A|My Vitriol/Finelines/United Kingdom|FF00FF
+1249333200|tatu|A|At The Gates/Terminal Spirit Disease|0000FF
+1249333200|tatu|A|At The Gates|FF0000
+1249333200|teelmo|A|Dope/Life|0000FF
+1249333200|teelmo|A|Lo-Pro/Lo-Pro|0000FF
+1249333200|teelmo|A|Lo-Pro|FF0000
+1249333200|teelmo|A|My Vitriol/Finelines|0000FF
+1249333200|teelmo|A|My Vitriol|FF0000
+1249419600|Xzar|A|Arkaea/Years In The Darkness|0000FF
+1249419600|Xzar|A|Arkaea|FF0000
+1249419600|admin|A|Arkaea/Years In The Darkness/United States|FF00FF
+1249419600|admin|A|Hjaltalín/Sleepdrunk Season/Iceland|FF00FF
+1249419600|admin|A|Primer 55/The New Release/United States|FF00FF
+1249419600|admin|A|Seal/Soul/United Kingdom|FF00FF
+1249419600|kimdracula|A|Seal/Soul|0000FF
+1249419600|kimdracula|A|Seal|FF0000
+1249419600|teelmo|A|Hjaltalín/Sleepdrunk Season|0000FF
+1249419600|teelmo|A|Hjaltalín|FF0000
+1249419600|teelmo|A|Primer 55/The New Release|0000FF
+1249419600|teelmo|A|Primer 55|FF0000
+1249506000|admin|A|God Lives Underwater/Up Off The Floor/United States|FF00FF
+1249506000|admin|A|In Case Of Fire/Align The Planets/United Kingdom|FF00FF
+1249506000|admin|A|Primer 55/Introduction To Mayhem/United States|FF00FF
+1249506000|admin|A|Sucioperro/Random Acts Of Intimacy/United Kingdom|FF00FF
+1249506000|teelmo|A|God Lives Underwater/Up Off The Floor|0000FF
+1249506000|teelmo|A|God Lives Underwater|FF0000
+1249506000|teelmo|A|In Case Of Fire/Align The Planets|0000FF
+1249506000|teelmo|A|In Case Of Fire|FF0000
+1249506000|teelmo|A|Primer 55/Introduction To Mayhem|0000FF
+1249506000|teelmo|A|Sucioperro/Random Acts Of Intimacy|0000FF
+1249506000|teelmo|A|Sucioperro|FF0000
+1249592400|admin|A|Days In Grief/Portrait Of Beauty/Germany|FF00FF
+1249592400|teelmo|A|Days In Grief/Portrait Of Beauty|0000FF
+1249592400|teelmo|A|Days In Grief|FF0000
+1249678800|admin|A|Cloudkicker/The Map Is Not The Territory/United States|FF00FF
+1249678800|admin|A|Exivious/Exivious/Netherlands|FF00FF
+1249678800|admin|A|Exivious/Exivious/United States|FF00FF
+1249678800|teelmo|A|Cloudkicker/The Map Is Not The Territory|0000FF
+1249678800|teelmo|A|Exivious/Exivious|0000FF
+1249678800|teelmo|A|Exivious|FF0000
+1249851600|admin|A|Crass/Penis Envy/United Kingdom|FF00FF
+1249851600|teelmo|A|Crass/Penis Envy|0000FF
+1249851600|teelmo|A|Crass|FF0000
+1249938000|admin|A|Electric Light Orchestra/Eldorado, A Symphony/United Kingdom|FF00FF
+1249938000|teelmo|A|Electric Light Orchestra/Eldorado, A Symphony|0000FF
+1249938000|teelmo|A|Electric Light Orchestra|FF0000
+1250024400|Xzar|A|Periphery/Periphery|0000FF
+1250024400|Xzar|A|Periphery|FF0000
+1250024400|admin|A|Electric Light Orchestra/Secret Messages/United Kingdom|FF00FF
+1250024400|admin|A|Ozzy Osbourne/Blizzard Of Ozz/United Kingdom|FF00FF
+1250024400|admin|A|Periphery/Periphery/United States|FF00FF
+1250024400|teelmo|A|Electric Light Orchestra/Secret Messages|0000FF
+1250024400|teelmo|A|Ozzy Osbourne/Blizzard Of Ozz|0000FF
+1250024400|teelmo|A|Ozzy Osbourne|FF0000
+1250110800|Xzar|A|From Forgotten Being/Black Cataclysm|0000FF
+1250110800|Xzar|A|From Forgotten Being|FF0000
+1250110800|Xzar|A|Front Line Assembly/Saw|0000FF
+1250110800|Xzar|A|Front Line Assembly|FF0000
+1250110800|Xzar|A|Fuck I'm Dead.../Bring On The Dead|0000FF
+1250110800|Xzar|A|Fuck I'm Dead...|FF0000
+1250110800|admin|A|From Forgotten Being/Black Cataclysm/Mexico|FF00FF
+1250110800|admin|A|Front Line Assembly/Saw/Canada|FF00FF
+1250110800|admin|A|Fuck I'm Dead.../Bring On The Dead/Australia|FF00FF
+1250110800|admin|A|Roger Waters And Ron Geesin/Music From The Body/United Kingdom|FF00FF
+1250110800|admin|A|The Mahavishnu Orchestra/The Lost Trident Sessions/United States|FF00FF
+1250110800|admin|A|The Three Degrees/The Three Degrees/United States|FF00FF
+1250110800|teelmo|A|Roger Waters And Ron Geesin/Music From The Body|0000FF
+1250110800|teelmo|A|Roger Waters And Ron Geesin|FF0000
+1250110800|teelmo|A|The Mahavishnu Orchestra/The Lost Trident Sessions|0000FF
+1250110800|teelmo|A|The Mahavishnu Orchestra|FF0000
+1250110800|teelmo|A|The Three Degrees/The Three Degrees|0000FF
+1250110800|teelmo|A|The Three Degrees|FF0000
+1250197200|admin|A|Dire Straits/Sultans Of Swing: The Very Best Of Dire Straits/United Kingdom|FF00FF
+1250197200|admin|A|Ozzy Osbourne/No More Tears/United Kingdom|FF00FF
+1250197200|admin|A|Suede/Suede/United Kingdom|FF00FF
+1250197200|tatu|A|Dire Straits/Sultans Of Swing: The Very Best Of Dire Straits|0000FF
+1250197200|tatu|A|Dire Straits|FF0000
+1250197200|tatu|A|Jeff Beck/Blow By Blow|0000FF
+1250197200|tatu|A|Jeff Beck|FF0000
+1250197200|teelmo|A|Ozzy Osbourne/No More Tears|0000FF
+1250197200|teelmo|A|Suede/Suede|0000FF
+1250197200|teelmo|A|Suede|FF0000
+1250456400|admin|A|Black Sun Aeon/Darkness Walks Beside Me/Finland|FF00FF
+1250456400|teelmo|A|Black Sun Aeon/Darkness Walks Beside Me|0000FF
+1250456400|teelmo|A|Black Sun Aeon|FF0000
+1250542800|Xzar|A|Remembering Never/God Save Us|0000FF
+1250542800|Xzar|A|Remembering Never|FF0000
+1250542800|Xzar|A|Ribspreader/Bolted To The Cross|0000FF
+1250542800|Xzar|A|Ribspreader|FF0000
+1250542800|admin|A|Eths/Autopsie/France|FF00FF
+1250542800|admin|A|Eths/Tératologie/France|FF00FF
+1250542800|teelmo|A|Eths/Autopsie|0000FF
+1250542800|teelmo|A|Eths/Tératologie|0000FF
+1250542800|teelmo|A|Eths|FF0000
+1250715600|admin|A|A New Silent Corporation/Everything Is Exactly As It Seems/Italy|FF00FF
+1250715600|admin|A|Stafrænn Hákon/Gummi/Iceland|FF00FF
+1250715600|teelmo|A|A New Silent Corporation/Everything Is Exactly As It Seems|0000FF
+1250715600|teelmo|A|A New Silent Corporation|FF0000
+1250715600|teelmo|A|Stafrænn Hákon/Gummi|0000FF
+1250715600|teelmo|A|Stafrænn Hákon|FF0000
+1250802000|Xzar|A|St.Hood/For The Dead|0000FF
+1250802000|Xzar|A|St.Hood|FF0000
+1250888400|Xzar|A|Rock Kills Kid/Are You Nervous?|0000FF
+1250888400|Xzar|A|Rock Kills Kid|FF0000
+1250888400|admin|A|She Wants Revenge/This Is Forever/United States|FF00FF
+1250888400|admin|A|Sheavy/Republic?/Canada|FF00FF
+1250888400|teelmo|A|She Said Destroy/This City Speaks In Tongues|0000FF
+1250888400|teelmo|A|She Said Destroy|FF0000
+1250888400|teelmo|A|She Wants Revenge/This Is Forever|0000FF
+1250888400|teelmo|A|She Wants Revenge|FF0000
+1250888400|teelmo|A|Sheavy/Republic?|0000FF
+1250888400|teelmo|A|Sheavy|FF0000
+1251061200|admin|A|Saving Abel/Saving Abel/United States|FF00FF
+1251061200|admin|A|Shinedown/Leave A Whisper/United States|FF00FF
+1251061200|admin|A|Theory Of A Deadman/Theory Of A Deadman/Canada|FF00FF
+1251061200|teelmo|A|Saving Abel/Saving Abel|0000FF
+1251061200|teelmo|A|Saving Abel|FF0000
+1251061200|teelmo|A|Shinedown/Leave A Whisper|0000FF
+1251061200|teelmo|A|Shinedown|FF0000
+1251061200|teelmo|A|Theory Of A Deadman/Theory Of A Deadman|0000FF
+1251061200|teelmo|A|Theory Of A Deadman|FF0000
+1251147600|admin|A|Funeral/As The Light Does The Shadow/Norway|FF00FF
+1251147600|teelmo|A|Funeral/As The Light Does The Shadow|0000FF
+1251147600|teelmo|A|Funeral|FF0000
+1251234000|admin|A|Orange Sunshine/Love=Acid, Space=Hell/Netherlands|FF00FF
+1251234000|teelmo|A|Orange Sunshine/Love=Acid, Space=Hell|0000FF
+1251234000|teelmo|A|Orange Sunshine|FF0000
+1251320400|admin|A|Vesterinen Yhtyeineen/Jönköping/Finland|FF00FF
+1251320400|teelmo|A|PJ Harvey/Dry|0000FF
+1251320400|teelmo|A|Vesterinen Yhtyeineen/Jönköping|0000FF
+1251320400|teelmo|A|Vesterinen Yhtyeineen|FF0000
+1251406800|Xzar|A|Skinny Puppy/The Greater Wrong Of The Right|0000FF
+1251406800|Xzar|A|Skinny Puppy|FF0000
+1251406800|Xzar|A|Solar Fields/Mirror's Edge Original Videogame Score|0000FF
+1251406800|Xzar|A|Solar Fields|FF0000
+1251406800|Xzar|A|Worriedaboutsatan/Arrivals|0000FF
+1251406800|Xzar|A|Worriedaboutsatan|FF0000
+1251406800|Xzar|A|Yuko/For Times When Ears Are Sore|0000FF
+1251406800|Xzar|A|Yuko|FF0000
+1251406800|admin|A|Villieläin/Julma Satu/Finland|FF00FF
+1251406800|admin|A|Worriedaboutsatan/Arrivals/United Kingdom|FF00FF
+1251406800|inkivaeaeri|A|Anna Puu/Anna Puu|0000FF
+1251406800|inkivaeaeri|A|Anna Puu|FF0000
+1251406800|teelmo|A|Anna Puu/Anna Puu/Finland|FF00FF
+1251406800|teelmo|A|St.Hood/For The Dead/Finland|FF00FF
+1251406800|teelmo|A|Villieläin/Julma Satu|0000FF
+1251406800|teelmo|A|Villieläin|FF0000
+1251493200|Xzar|A|Carbon Based Lifeforms And Solar Fields/TSR/Psychill|00FF00
+1251493200|Xzar|A|Carbon Based Lifeforms And Solar Fields/TSR|0000FF
+1251493200|Xzar|A|Carbon Based Lifeforms And Solar Fields|FF0000
+1251493200|Xzar|A|Epic45/In All The Empty Houses/Post-Rock|00FF00
+1251493200|Xzar|A|Epic45/In All The Empty Houses|0000FF
+1251493200|Xzar|A|Epic45|FF0000
+1251493200|Xzar|A|Leandra/Metamorphine/Gothic|00FF00
+1251493200|Xzar|A|Leandra/Metamorphine|0000FF
+1251493200|Xzar|A|Leandra|FF0000
+1251493200|Xzar|A|Slaughter Mob/Walk Of The Wicked  Treachery  Jab Jab/Bass|00FF00
+1251493200|Xzar|A|Slaughter Mob/Walk Of The Wicked  Treachery  Jab Jab|0000FF
+1251493200|Xzar|A|Slaughter Mob|FF0000
+1251493200|admin|A|Carbon Based Lifeforms And Solar Fields/TSR/2000's|FFFF00
+1251493200|admin|A|Epic45/In All The Empty Houses/2000's|FFFF00
+1251493200|admin|A|Leandra/Metamorphine/2000's|FFFF00
+1251493200|admin|A|Matthew Robert Cooper/Miniatures/2000's|FFFF00
+1251493200|admin|A|Saga/Trust/2000's|FFFF00
+1251493200|admin|A|Slaughter Mob/Walk Of The Wicked  Treachery  Jab Jab/2000's|FFFF00
+1251493200|teelmo|A|Epic45/In All The Empty Houses/United Kingdom|FF00FF
+1251493200|teelmo|A|Matthew Robert Cooper/Miniatures/Post-Rock|00FF00
+1251493200|teelmo|A|Matthew Robert Cooper/Miniatures/United States|FF00FF
+1251493200|teelmo|A|Matthew Robert Cooper/Miniatures|0000FF
+1251493200|teelmo|A|Matthew Robert Cooper|FF0000
+1251493200|teelmo|A|Saga/Trust/Canada|FF00FF
+1251493200|teelmo|A|Saga/Trust/Progressive Rock|00FF00
+1251493200|teelmo|A|Saga/Trust|0000FF
+1251493200|teelmo|A|Saga|FF0000
+1251579600|teelmo|A|She Said Destroy/This City Speaks In Tongues/Norway|FF00FF
+1251579600|teelmo|A|Solar Fields/Mirror's Edge Original Videogame Score/Sweden|FF00FF
+1251666000|admin|A|PJ Harvey/Dry/1990's|FFFF00
+1251666000|admin|A|PJ Harvey/Is This Desire?/1990's|FFFF00
+1251666000|admin|A|PJ Harvey/Stories From The City, Stories From The Sea/2000's|FFFF00
+1251666000|teelmo|A|PJ Harvey/Dry/United Kingdom|FF00FF
+1251666000|teelmo|A|PJ Harvey/Is This Desire?/United Kingdom|FF00FF
+1251666000|teelmo|A|PJ Harvey/Is This Desire?|0000FF
+1251666000|teelmo|A|PJ Harvey/Stories From The City, Stories From The Sea/United Kingdom|FF00FF
+1251666000|teelmo|A|PJ Harvey/Stories From The City, Stories From The Sea|0000FF
+1251752400|Xzar|A|HateFrame/Sign Of Demise|0000FF
+1251752400|Xzar|A|HateFrame|FF0000
+1251752400|teelmo|A|HateFrame/Sign Of Demise/Finland|FF00FF
+1251752400|teelmo|A|HateFrame/Sign Of Demise/Thrash Metal|00FF00
+1251838800|admin|A|Agalloch/Ashes Against The Grain/2000's|FFFF00
+1251838800|admin|A|If Hope Dies/Life In Ruin/2000's|FFFF00
+1251838800|teelmo|A|Agalloch/Ashes Against The Grain/Post-Metal|00FF00
+1251838800|teelmo|A|Agalloch/Ashes Against The Grain/United States|FF00FF
+1251838800|teelmo|A|Agalloch/Ashes Against The Grain|0000FF
+1251838800|teelmo|A|If Hope Dies/Life In Ruin/Metalcore|00FF00
+1251838800|teelmo|A|If Hope Dies/Life In Ruin|0000FF
+1251838800|teelmo|A|If Hope Dies|FF0000
+1251925200|admin|A|As Hope Dies/Legions Bow To A Faceless God/2000's|FFFF00
+1251925200|admin|A|Empirion/Advanced Technology/1990's|FFFF00
+1251925200|admin|A|Hardfloor/4 Out Of 5 Aliens Recommend This/2000's|FFFF00
+1251925200|admin|A|The Almost/Southern Weather/2000's|FFFF00
+1251925200|tatu|A|If Hope Dies/Life In Ruin/United States|FF00FF
+1251925200|teelmo|A|As Hope Dies/Legions Bow To A Faceless God/Hardcore Punk|00FF00
+1251925200|teelmo|A|As Hope Dies/Legions Bow To A Faceless God/United States|FF00FF
+1251925200|teelmo|A|As Hope Dies/Legions Bow To A Faceless God|0000FF
+1251925200|teelmo|A|As Hope Dies|FF0000
+1251925200|teelmo|A|Empirion/Advanced Technology/Electronica|00FF00
+1251925200|teelmo|A|Empirion/Advanced Technology/Trance|00FF00
+1251925200|teelmo|A|Empirion/Advanced Technology/United Kingdom|FF00FF
+1251925200|teelmo|A|Empirion/Advanced Technology|0000FF
+1251925200|teelmo|A|Empirion|FF0000
+1251925200|teelmo|A|Hardfloor/4 Out Of 5 Aliens Recommend This/Germany|FF00FF
+1251925200|teelmo|A|Hardfloor/4 Out Of 5 Aliens Recommend This/Techno|00FF00
+1251925200|teelmo|A|Hardfloor/4 Out Of 5 Aliens Recommend This/Trance|00FF00
+1251925200|teelmo|A|Hardfloor/4 Out Of 5 Aliens Recommend This|0000FF
+1251925200|teelmo|A|Hardfloor|FF0000
+1251925200|teelmo|A|The Almost/Southern Weather/Alternative Rock|00FF00
+1251925200|teelmo|A|The Almost/Southern Weather|0000FF
+1251925200|teelmo|A|The Almost|FF0000
+1252011600|admin|A|22-Pistepirkko/Rumble City, LaLa Land/1990's|FFFF00
+1252011600|admin|A|Gwen Stacy/The Life I Know/2000's|FFFF00
+1252011600|admin|A|Oh, Sleeper/When I Am God/2000's|FFFF00
+1252011600|admin|A|The New Pornographers/Challengers/2000's|FFFF00
+1252011600|admin|A|The New Pornographers/Electric Version/2000's|FFFF00
+1252011600|admin|A|The New Pornographers/Twin Cinema/2000's|FFFF00
+1252011600|teelmo|A|22-Pistepirkko/Rumble City, LaLa Land/Alternative Rock|00FF00
+1252011600|teelmo|A|22-Pistepirkko/Rumble City, LaLa Land/Finland|FF00FF
+1252011600|teelmo|A|22-Pistepirkko/Rumble City, LaLa Land|0000FF
+1252011600|teelmo|A|Gwen Stacy/The Life I Know/Metalcore|00FF00
+1252011600|teelmo|A|Gwen Stacy/The Life I Know/Post-Hardcore|00FF00
+1252011600|teelmo|A|Gwen Stacy/The Life I Know/United States|FF00FF
+1252011600|teelmo|A|Gwen Stacy/The Life I Know|0000FF
+1252011600|teelmo|A|Gwen Stacy|FF0000
+1252011600|teelmo|A|Oh, Sleeper/When I Am God/Metalcore|00FF00
+1252011600|teelmo|A|Oh, Sleeper/When I Am God/United States|FF00FF
+1252011600|teelmo|A|Oh, Sleeper/When I Am God|0000FF
+1252011600|teelmo|A|Oh, Sleeper|FF0000
+1252011600|teelmo|A|The Almost/Southern Weather/United States|FF00FF
+1252011600|teelmo|A|The New Pornographers/Challengers/Canada|FF00FF
+1252011600|teelmo|A|The New Pornographers/Challengers/Indie Rock|00FF00
+1252011600|teelmo|A|The New Pornographers/Challengers|0000FF
+1252011600|teelmo|A|The New Pornographers/Electric Version/Canada|FF00FF
+1252011600|teelmo|A|The New Pornographers/Electric Version/Indie Rock|00FF00
+1252011600|teelmo|A|The New Pornographers/Electric Version|0000FF
+1252011600|teelmo|A|The New Pornographers/Twin Cinema/Canada|FF00FF
+1252011600|teelmo|A|The New Pornographers/Twin Cinema/Indie Rock|00FF00
+1252011600|teelmo|A|The New Pornographers/Twin Cinema|0000FF
+1252011600|teelmo|A|The New Pornographers|FF0000
+1252098000|admin|A|Beware Of Safety/Dogs/2000's|FFFF00
+1252098000|admin|A|The Ascent Of Everest/How Lonely Sits The City/2000's|FFFF00
+1252098000|teelmo|A|Beware Of Safety/Dogs/Post-Rock|00FF00
+1252098000|teelmo|A|Beware Of Safety/Dogs/United States|FF00FF
+1252098000|teelmo|A|Beware Of Safety/Dogs|0000FF
+1252098000|teelmo|A|Beware Of Safety|FF0000
+1252098000|teelmo|A|The Ascent Of Everest/How Lonely Sits The City/Post-Rock|00FF00
+1252098000|teelmo|A|The Ascent Of Everest/How Lonely Sits The City/United States|FF00FF
+1252098000|teelmo|A|The Ascent Of Everest/How Lonely Sits The City|0000FF
+1252098000|teelmo|A|The Ascent Of Everest|FF0000
+1252270800|admin|A|7 Angels 7 Plagues/Jhazmyne's Lullaby/2000's|FFFF00
+1252270800|teelmo|A|7 Angels 7 Plagues/Jhazmyne's Lullaby/Metalcore|00FF00
+1252270800|teelmo|A|7 Angels 7 Plagues/Jhazmyne's Lullaby|0000FF
+1252270800|teelmo|A|7 Angels 7 Plagues|FF0000
+1252357200|admin|A|Green Eyed Stare/Sight To Behold/2000's|FFFF00
+1252357200|admin|A|The Exies/A Modern Way Of Living With The Truth/2000's|FFFF00
+1252357200|teelmo|A|Green Eyed Stare/Sight To Behold/Alternative Rock|00FF00
+1252357200|teelmo|A|Green Eyed Stare/Sight To Behold/Post-Grunge|00FF00
+1252357200|teelmo|A|Green Eyed Stare/Sight To Behold/United States|FF00FF
+1252357200|teelmo|A|Green Eyed Stare/Sight To Behold|0000FF
+1252357200|teelmo|A|Green Eyed Stare|FF0000
+1252357200|teelmo|A|The Exies/A Modern Way Of Living With The Truth/Alternative Rock|00FF00
+1252357200|teelmo|A|The Exies/A Modern Way Of Living With The Truth/Post-Grunge|00FF00
+1252357200|teelmo|A|The Exies/A Modern Way Of Living With The Truth/United States|FF00FF
+1252357200|teelmo|A|The Exies/A Modern Way Of Living With The Truth|0000FF
+1252357200|teelmo|A|The Exies|FF0000
+1252443600|admin|A|DÅÅTH/The Concealers/2000's|FFFF00
+1252443600|teelmo|A|7 Angels 7 Plagues/Jhazmyne's Lullaby/United States|FF00FF
+1252443600|teelmo|A|DÅÅTH/The Concealers/Metalcore|00FF00
+1252443600|teelmo|A|DÅÅTH/The Concealers/United States|FF00FF
+1252443600|teelmo|A|DÅÅTH/The Concealers|0000FF
+1252443600|teelmo|A|DÅÅTH|FF0000
+1252962000|Xzar|A|Speak No Evil/Welcome To The Downside/Rock|00FF00
+1252962000|Xzar|A|Speak No Evil/Welcome To The Downside|0000FF
+1252962000|Xzar|A|Speak No Evil|FF0000
+1253048400|admin|A|Beware Of Safety/It Is Curtains/2000's|FFFF00
+1253048400|admin|A|Solar Fields/Blue Moon Station/2000's|FFFF00
+1253048400|admin|A|Solar Fields/Leaving Home/2000's|FFFF00
+1253048400|admin|A|Solar Fields/Reflective Frequencies/2000's|FFFF00
+1253048400|teelmo|A|Beware Of Safety/It Is Curtains/Post-Rock|00FF00
+1253048400|teelmo|A|Beware Of Safety/It Is Curtains/United States|FF00FF
+1253048400|teelmo|A|Beware Of Safety/It Is Curtains|0000FF
+1253048400|teelmo|A|Solar Fields/Blue Moon Station/Electronica|00FF00
+1253048400|teelmo|A|Solar Fields/Blue Moon Station/Sweden|FF00FF
+1253048400|teelmo|A|Solar Fields/Blue Moon Station|0000FF
+1253048400|teelmo|A|Solar Fields/Leaving Home/Electronica|00FF00
+1253048400|teelmo|A|Solar Fields/Leaving Home/Sweden|FF00FF
+1253048400|teelmo|A|Solar Fields/Leaving Home|0000FF
+1253048400|teelmo|A|Solar Fields/Reflective Frequencies/Electronica|00FF00
+1253048400|teelmo|A|Solar Fields/Reflective Frequencies/Sweden|FF00FF
+1253048400|teelmo|A|Solar Fields/Reflective Frequencies|0000FF
+1253134800|admin|A|Solar Fields/EarthShine/2000's|FFFF00
+1253134800|admin|A|Solar Fields/Movements/2000's|FFFF00
+1253134800|teelmo|A|Solar Fields/EarthShine/Electronica|00FF00
+1253134800|teelmo|A|Solar Fields/EarthShine/Sweden|FF00FF
+1253134800|teelmo|A|Solar Fields/EarthShine/Trance|00FF00
+1253134800|teelmo|A|Solar Fields/EarthShine|0000FF
+1253134800|teelmo|A|Solar Fields/Movements/Electronica|00FF00
+1253134800|teelmo|A|Solar Fields/Movements/Sweden|FF00FF
+1253134800|teelmo|A|Solar Fields/Movements|0000FF
+1253221200|admin|A|Cassius/Au Rêve/2000's|FFFF00
+1253221200|teelmo|A|Cassius/Au Rêve/Electronica|00FF00
+1253221200|teelmo|A|Cassius/Au Rêve/France|FF00FF
+1253221200|teelmo|A|Cassius/Au Rêve/Hip Hop|00FF00
+1253221200|teelmo|A|Cassius/Au Rêve|0000FF
+1253221200|teelmo|A|Cassius|FF0000
+1253307600|admin|A|DÅÅTH/The Hinderers/2000's|FFFF00
+1253307600|teelmo|A|DÅÅTH/The Hinderers/Death Metal|00FF00
+1253307600|teelmo|A|DÅÅTH/The Hinderers/Progressive Death Metal|00FF00
+1253307600|teelmo|A|DÅÅTH/The Hinderers/United States|FF00FF
+1253307600|teelmo|A|DÅÅTH/The Hinderers|0000FF
+1253394000|admin|A|Emptyself/Emptyself/2000's|FFFF00
+1253394000|admin|A|In Slumber/Scars: Incomplete/2000's|FFFF00
+1253394000|admin|A|October Tide/Grey Dawn/1990's|FFFF00
+1253394000|admin|A|Suede/Coming Up/1990's|FFFF00
+1253394000|admin|A|Tesa/Heartbeats From The Sky/2000's|FFFF00
+1253394000|admin|A|Yuko/Another Planet/2000's|FFFF00
+1253394000|teelmo|A|Emptyself/Emptyself/Acoustic|00FF00
+1253394000|teelmo|A|Emptyself/Emptyself/Ambient Industrial|00FF00
+1253394000|teelmo|A|Emptyself/Emptyself/Trip Hop|00FF00
+1253394000|teelmo|A|Emptyself/Emptyself/United States|FF00FF
+1253394000|teelmo|A|Emptyself/Emptyself|0000FF
+1253394000|teelmo|A|Emptyself|FF0000
+1253394000|teelmo|A|In Slumber/Scars: Incomplete/Austria|FF00FF
+1253394000|teelmo|A|In Slumber/Scars: Incomplete/Melodic Death Metal|00FF00
+1253394000|teelmo|A|In Slumber/Scars: Incomplete|0000FF
+1253394000|teelmo|A|In Slumber|FF0000
+1253394000|teelmo|A|October Tide/Grey Dawn/Doom Metal|00FF00
+1253394000|teelmo|A|October Tide/Grey Dawn/Sweden|FF00FF
+1253394000|teelmo|A|October Tide/Grey Dawn|0000FF
+1253394000|teelmo|A|October Tide|FF0000
+1253394000|teelmo|A|Suede/Coming Up/Alternative Rock|00FF00
+1253394000|teelmo|A|Suede/Coming Up/Britpop|00FF00
+1253394000|teelmo|A|Suede/Coming Up/United Kingdom|FF00FF
+1253394000|teelmo|A|Suede/Coming Up|0000FF
+1253394000|teelmo|A|Tesa/Heartbeats From The Sky/Latvia|FF00FF
+1253394000|teelmo|A|Tesa/Heartbeats From The Sky/Post-Metal|00FF00
+1253394000|teelmo|A|Tesa/Heartbeats From The Sky/Sludge Metal|00FF00
+1253394000|teelmo|A|Tesa/Heartbeats From The Sky|0000FF
+1253394000|teelmo|A|Tesa|FF0000
+1253394000|teelmo|A|Yuko/Another Planet/Piano|00FF00
+1253394000|teelmo|A|Yuko/Another Planet/United States|FF00FF
+1253394000|teelmo|A|Yuko/Another Planet|0000FF
+1253394000|teelmo|A|Yuko/For Times When Ears Are Sore/United States|FF00FF
+1253480400|Xzar|A|Blue Stahli/Antisleep Vol. 01/Electronica|00FF00
+1253480400|Xzar|A|Blue Stahli/Antisleep Vol. 01|0000FF
+1253480400|Xzar|A|Blue Stahli|FF0000
+1253480400|admin|A|Blue Stahli/Antisleep Vol. 01/2000's|FFFF00
+1253480400|admin|A|Blur/13/1990's|FFFF00
+1253480400|teelmo|A|Blur/13/Britpop|00FF00
+1253480400|teelmo|A|Blur/13/United Kingdom|FF00FF
+1253480400|teelmo|A|Blur/13|0000FF
+1253480400|teelmo|A|Blur|FF0000
+1253480400|teelmo|A|DÅÅTH/The Concealers/Progressive Death Metal|00FF00
+1253480400|teelmo|A|DÅÅTH/The Concealers/Seen Live|FFFF00
+1253480400|teelmo|A|DÅÅTH/The Hinderers/Seen Live|FFFF00
+1253480400|teelmo|A|Speak No Evil/Welcome To The Downside/Post-Grunge|00FF00
+1253566800|admin|A|DÅÅTH/Futility/2000's|FFFF00
+1253566800|admin|A|Mustasch/Latest Version Of The Truth/2000's|FFFF00
+1253566800|admin|A|New Trolls Atomic System/Tempi Dispari/1970's|FFFF00
+1253566800|anu|A|Mustasch/Latest Version Of The Truth|0000FF
+1253566800|anu|A|Mustasch|FF0000
+1253566800|tatu|A|Mustasch/Latest Version Of The Truth/Sweden|FF00FF
+1253566800|tatu|A|New Trolls Atomic System/Tempi Dispari/Italian Prog-rock|FFFF00
+1253566800|tatu|A|New Trolls Atomic System/Tempi Dispari/Italy|FF00FF
+1253566800|tatu|A|New Trolls Atomic System/Tempi Dispari/Progressive Rock|00FF00
+1253566800|tatu|A|New Trolls Atomic System/Tempi Dispari/Symphonic Prog|00FF00
+1253566800|tatu|A|New Trolls Atomic System/Tempi Dispari|0000FF
+1253566800|tatu|A|New Trolls Atomic System|FF0000
+1253566800|teelmo|A|DÅÅTH/Futility/Death Metal|00FF00
+1253566800|teelmo|A|DÅÅTH/Futility/Industrial Metal|00FF00
+1253566800|teelmo|A|DÅÅTH/Futility/United States|FF00FF
+1253566800|teelmo|A|DÅÅTH/Futility|0000FF
+1253653200|admin|A|Negative/War Of Love/2000's|FFFF00
+1253653200|tatu|A|Negative/War Of Love/Finland|FF00FF
+1253653200|tatu|A|Negative/War Of Love/Finnish|FFFF00
+1253653200|tatu|A|Negative/War Of Love/Rock|00FF00
+1253653200|tatu|A|Negative/War Of Love|0000FF
+1253826000|admin|A|Cire/Wholesale Buyout/2000's|FFFF00
+1253826000|teelmo|A|Cire/Wholesale Buyout/Progressive Rock|00FF00
+1253826000|teelmo|A|Cire/Wholesale Buyout/United States|FF00FF
+1253826000|teelmo|A|Cire/Wholesale Buyout|0000FF
+1253826000|teelmo|A|Cire|FF0000
+1253912400|admin|A|Pintandwefall/Wow! What Was That, Baby?/2000's|FFFF00
+1253912400|admin|A|Sans Seraph/After The Rain/2000's|FFFF00
+1253912400|anu|A|Pintandwefall/Wow! What Was That, Baby?/Pop Rock|00FF00
+1253912400|teelmo|A|Pintandwefall/Wow! What Was That, Baby?/Finland|FF00FF
+1253912400|teelmo|A|Pintandwefall/Wow! What Was That, Baby?/Garage Rock|00FF00
+1253912400|teelmo|A|Pintandwefall/Wow! What Was That, Baby?/Pop Rock|00FF00
+1253912400|teelmo|A|Pintandwefall/Wow! What Was That, Baby?|0000FF
+1253912400|teelmo|A|Pintandwefall|FF0000
+1253912400|teelmo|A|Sans Seraph/After The Rain/New Prog|00FF00
+1253912400|teelmo|A|Sans Seraph/After The Rain/United States|FF00FF
+1253912400|teelmo|A|Sans Seraph/After The Rain|0000FF
+1253912400|teelmo|A|Sans Seraph|FF0000
+1253998800|admin|A|Aurore Rien/Telesthesia/2000's|FFFF00
+1253998800|admin|A|Escape The Day/Ghostless/2000's|FFFF00
+1253998800|admin|A|Escape The Fate/Dying Is Your Latest Fashion/2000's|FFFF00
+1253998800|admin|A|LoveHateHero/White Lies/2000's|FFFF00
+1253998800|teelmo|A|Aurore Rien/Telesthesia/Post-Rock|00FF00
+1253998800|teelmo|A|Aurore Rien/Telesthesia/United States|FF00FF
+1253998800|teelmo|A|Aurore Rien/Telesthesia|0000FF
+1253998800|teelmo|A|Aurore Rien|FF0000
+1253998800|teelmo|A|Escape The Day/Ghostless/Ambient|00FF00
+1253998800|teelmo|A|Escape The Day/Ghostless/Germany|FF00FF
+1253998800|teelmo|A|Escape The Day/Ghostless/Post-Rock|00FF00
+1253998800|teelmo|A|Escape The Day/Ghostless|0000FF
+1253998800|teelmo|A|Escape The Day|FF0000
+1253998800|teelmo|A|Escape The Fate/Dying Is Your Latest Fashion/Post-Hardcore|00FF00
+1253998800|teelmo|A|Escape The Fate/Dying Is Your Latest Fashion/United States|FF00FF
+1253998800|teelmo|A|Escape The Fate/Dying Is Your Latest Fashion|0000FF
+1253998800|teelmo|A|Escape The Fate|FF0000
+1253998800|teelmo|A|LoveHateHero/White Lies/Post-Hardcore|00FF00
+1253998800|teelmo|A|LoveHateHero/White Lies/United States|FF00FF
+1253998800|teelmo|A|LoveHateHero/White Lies|0000FF
+1253998800|teelmo|A|LoveHateHero|FF0000
+1254085200|Xzar|A|D.A.D./No Fuel Left For The Pilgrims/Rock|00FF00
+1254085200|Xzar|A|D.A.D./No Fuel Left For The Pilgrims|0000FF
+1254085200|Xzar|A|D.A.D.|FF0000
+1254085200|admin|A|D.A.D./No Fuel Left For The Pilgrims/1980's|FFFF00
+1254085200|admin|A|Pillowdiver/Sleeping Pills/2000's|FFFF00
+1254085200|tatu|A|D.A.D./No Fuel Left For The Pilgrims/Denmark|FF00FF
+1254085200|teelmo|A|Pillowdiver/Sleeping Pills/Germany|FF00FF
+1254085200|teelmo|A|Pillowdiver/Sleeping Pills/Post-Rock|00FF00
+1254085200|teelmo|A|Pillowdiver/Sleeping Pills|0000FF
+1254085200|teelmo|A|Pillowdiver|FF0000
+1254171600|Xzar|A|Ed Solo And Skool Of Thought/Breakspoll Presents: Volume3/Breakbeat|00FF00
+1254171600|Xzar|A|Ed Solo And Skool Of Thought/Breakspoll Presents: Volume3|0000FF
+1254171600|Xzar|A|Ed Solo And Skool Of Thought|FF0000
+1254171600|Xzar|A|Ed Solo/Age Of Dub|0000FF
+1254171600|Xzar|A|Ed Solo|FF0000
+1254171600|admin|A|Ed Solo And Skool Of Thought/Breakspoll Presents: Volume3/2000's|FFFF00
+1254171600|admin|A|Ed Solo/Age Of Dub/2000's|FFFF00
+1254171600|admin|A|Masteroid/Masteroid/2000's|FFFF00
+1254171600|tatu|A|Masteroid/Masteroid/EP|FFFF00
+1254171600|tatu|A|Masteroid/Masteroid/Finland|FF00FF
+1254171600|tatu|A|Masteroid/Masteroid/Stoner Rock|00FF00
+1254171600|tatu|A|Masteroid/Masteroid|0000FF
+1254171600|tatu|A|Masteroid|FF0000
+1254258000|tatu|A|Masteroid/Masteroid/Thrash Metal|00FF00
+1254344400|Xzar|A|Body Count/Murder 4 Hire/Metal|00FF00
+1254344400|Xzar|A|Body Count/Murder 4 Hire|0000FF
+1254344400|Xzar|A|Body Count|FF0000
+1254344400|admin|A|Body Count/Murder 4 Hire/2000's|FFFF00
+1254344400|admin|A|Caïna/I, Mountain/2000's|FFFF00
+1254344400|admin|A|Dob Russkin/Muse/1990's|FFFF00
+1254344400|teelmo|A|Caïna/I, Mountain/EP|FFFF00
+1254344400|teelmo|A|Caïna/I, Mountain/Post-Rock|00FF00
+1254344400|teelmo|A|Caïna/I, Mountain/United Kingdom|FF00FF
+1254344400|teelmo|A|Caïna/I, Mountain|0000FF
+1254344400|teelmo|A|Caïna|FF0000
+1254344400|teelmo|A|Dob Russkin/Muse/Germany|FF00FF
+1254344400|teelmo|A|Dob Russkin/Muse/Pop|00FF00
+1254344400|teelmo|A|Dob Russkin/Muse|0000FF
+1254344400|teelmo|A|Dob Russkin|FF0000
+1254517200|Xzar|A|Aphotic/To Find New Darkness  The Slumber/Death Metal|00FF00
+1254517200|Xzar|A|Aphotic/To Find New Darkness  The Slumber|0000FF
+1254517200|Xzar|A|Aphotic|FF0000
+1254517200|admin|A|Aphotic/To Find New Darkness  The Slumber/2000's|FFFF00
+1254517200|admin|A|Order! Order!/Out Of The Blue They Paint You Red/2000's|FFFF00
+1254517200|admin|A|Saron Gas/Fragile/2000's|FFFF00
+1254517200|anu|A|Order! Order!/Out Of The Blue They Paint You Red/Pop Punk|00FF00
+1254517200|teelmo|A|Aphotic/To Find New Darkness  The Slumber/United States|FF00FF
+1254517200|teelmo|A|Order! Order!/Out Of The Blue They Paint You Red/Finland|FF00FF
+1254517200|teelmo|A|Order! Order!/Out Of The Blue They Paint You Red/Nakkila|FFFF00
+1254517200|teelmo|A|Order! Order!/Out Of The Blue They Paint You Red/Pop Punk|00FF00
+1254517200|teelmo|A|Order! Order!/Out Of The Blue They Paint You Red|0000FF
+1254517200|teelmo|A|Order! Order!|FF0000
+1254517200|teelmo|A|Saron Gas/Fragile/Post-Grunge|00FF00
+1254517200|teelmo|A|Saron Gas/Fragile/South Africa|FF00FF
+1254517200|teelmo|A|Saron Gas/Fragile|0000FF
+1254517200|teelmo|A|Saron Gas|FF0000
+1254517200|teelmo|A|Shinedown/Leave A Whisper/Southern Rock|00FF00
+1254603600|admin|A|Followed By Ghosts/Dear Monsters, Be Patient/2000's|FFFF00
+1254603600|admin|A|General Lee/Hannibal Ad Portas/2000's|FFFF00
+1254603600|admin|A|Into The Moat/The Campaign/2000's|FFFF00
+1254603600|admin|A|Johnnytwentythree/JXXIII/2000's|FFFF00
+1254603600|admin|A|Mahumodo/*Waves/2000's|FFFF00
+1254603600|admin|A|The Flaming Lips/Transmissions From The Satellite Heart/1990's|FFFF00
+1254603600|tatu|A|The Flaming Lips/Transmissions From The Satellite Heart/Alternative Rock|00FF00
+1254603600|tatu|A|The Flaming Lips/Transmissions From The Satellite Heart|0000FF
+1254603600|tatu|A|The Flaming Lips|FF0000
+1254603600|teelmo|A|Followed By Ghosts/Dear Monsters, Be Patient/Post-Rock|00FF00
+1254603600|teelmo|A|Followed By Ghosts/Dear Monsters, Be Patient/United States|FF00FF
+1254603600|teelmo|A|Followed By Ghosts/Dear Monsters, Be Patient|0000FF
+1254603600|teelmo|A|Followed By Ghosts|FF0000
+1254603600|teelmo|A|General Lee/Hannibal Ad Portas/France|FF00FF
+1254603600|teelmo|A|General Lee/Hannibal Ad Portas/Post-Metal|00FF00
+1254603600|teelmo|A|General Lee/Hannibal Ad Portas/Sludge Metal|00FF00
+1254603600|teelmo|A|General Lee/Hannibal Ad Portas|0000FF
+1254603600|teelmo|A|General Lee|FF0000
+1254603600|teelmo|A|Into The Moat/The Campaign/Mathcore|00FF00
+1254603600|teelmo|A|Into The Moat/The Campaign/Technical Death Metal|00FF00
+1254603600|teelmo|A|Into The Moat/The Campaign/United States|FF00FF
+1254603600|teelmo|A|Into The Moat/The Campaign|0000FF
+1254603600|teelmo|A|Into The Moat|FF0000
+1254603600|teelmo|A|Johnnytwentythree/JXXIII/Post-Rock|00FF00
+1254603600|teelmo|A|Johnnytwentythree/JXXIII/United States|FF00FF
+1254603600|teelmo|A|Johnnytwentythree/JXXIII|0000FF
+1254603600|teelmo|A|Johnnytwentythree|FF0000
+1254603600|teelmo|A|Mahumodo/*Waves/Post-Hardcore|00FF00
+1254603600|teelmo|A|Mahumodo/*Waves/United Kingdom|FF00FF
+1254603600|teelmo|A|Mahumodo/*Waves|0000FF
+1254603600|teelmo|A|Mahumodo|FF0000
+1254690000|admin|A|Lifehouse/No Name Face/2000's|FFFF00
+1254690000|teelmo|A|Blue Stahli/Antisleep Vol. 01/United States|FF00FF
+1254690000|teelmo|A|Body Count/Murder 4 Hire/United States|FF00FF
+1254690000|teelmo|A|Ed Solo And Skool Of Thought/Breakspoll Presents: Volume3/United Kingdom|FF00FF
+1254690000|teelmo|A|Ed Solo/Age Of Dub/United Kingdom|FF00FF
+1254690000|teelmo|A|Lifehouse/No Name Face/Alternative Rock|00FF00
+1254690000|teelmo|A|Lifehouse/No Name Face/United States|FF00FF
+1254690000|teelmo|A|Lifehouse/No Name Face|0000FF
+1254690000|teelmo|A|Lifehouse|FF0000
+1254690000|teelmo|A|Speak No Evil/Welcome To The Downside/United States|FF00FF
+1254690000|teelmo|A|The Flaming Lips/Transmissions From The Satellite Heart/United States|FF00FF
+1254776400|admin|A|Manntis/Sleep In Your Grave/2000's|FFFF00
+1254776400|teelmo|A|Manntis/Sleep In Your Grave/Hardcore Punk|00FF00
+1254776400|teelmo|A|Manntis/Sleep In Your Grave/Metalcore|00FF00
+1254776400|teelmo|A|Manntis/Sleep In Your Grave/United States|FF00FF
+1254776400|teelmo|A|Manntis/Sleep In Your Grave|0000FF
+1254776400|teelmo|A|Manntis|FF0000
+1254862800|admin|A|Oh, Sleeper/Son Of The Morning/2000's|FFFF00
+1254862800|teelmo|A|Oh, Sleeper/Son Of The Morning/Metalcore|00FF00
+1254862800|teelmo|A|Oh, Sleeper/Son Of The Morning/United States|FF00FF
+1254862800|teelmo|A|Oh, Sleeper/Son Of The Morning|0000FF
+1255208400|admin|A|Destroy The Runner/I, Lucifer/2000's|FFFF00
+1255208400|teelmo|A|Destroy The Runner/I, Lucifer/Metalcore|00FF00
+1255208400|teelmo|A|Destroy The Runner/I, Lucifer/United States|FF00FF
+1255208400|teelmo|A|Destroy The Runner/I, Lucifer|0000FF
+1255208400|teelmo|A|Destroy The Runner|FF0000
+1255381200|Xzar|A|Tactical Sekt/Geneticide/Electronica|00FF00
+1255381200|Xzar|A|Tactical Sekt/Geneticide|0000FF
+1255381200|Xzar|A|Tactical Sekt/Syncope/Electronica|00FF00
+1255381200|Xzar|A|Tactical Sekt/Syncope|0000FF
+1255381200|Xzar|A|Tactical Sekt|FF0000
+1255381200|admin|A|Tactical Sekt/Geneticide/2000's|FFFF00
+1255381200|admin|A|Tactical Sekt/Syncope/2000's|FFFF00
+1255381200|tatu|A|Manntis/Sleep In Your Grave/Metalcore|00FF00
+1255467600|admin|A|Today Is The Day/Supernova/1990's|FFFF00
+1255467600|teelmo|A|Today Is The Day/Supernova/Experimental Metal|00FF00
+1255467600|teelmo|A|Today Is The Day/Supernova|0000FF
+1255467600|teelmo|A|Today Is The Day|FF0000
+1255554000|admin|A|The Receiving End Of Sirens/The Earth Sings Mi Fa Mi/2000's|FFFF00
+1255554000|teelmo|A|The Receiving End Of Sirens/The Earth Sings Mi Fa Mi/Electronica|00FF00
+1255554000|teelmo|A|The Receiving End Of Sirens/The Earth Sings Mi Fa Mi/Experimental Rock|00FF00
+1255554000|teelmo|A|The Receiving End Of Sirens/The Earth Sings Mi Fa Mi/Post-Rock|00FF00
+1255554000|teelmo|A|The Receiving End Of Sirens/The Earth Sings Mi Fa Mi/United States|FF00FF
+1255554000|teelmo|A|The Receiving End Of Sirens/The Earth Sings Mi Fa Mi|0000FF
+1255554000|teelmo|A|The Receiving End Of Sirens|FF0000
+1255640400|Xzar|A|Headplate/Bullsized/Metal|00FF00
+1255640400|Xzar|A|Headplate/Bullsized|0000FF
+1255640400|Xzar|A|Headplate|FF0000
+1255640400|admin|A|Headplate/Bullsized/2000's|FFFF00
+1255640400|teelmo|A|Carbon Based Lifeforms And Solar Fields/TSR/Sweden|FF00FF
+1255640400|teelmo|A|Headplate/Bullsized/Nu Metal|00FF00
+1255640400|teelmo|A|Headplate/Bullsized/Sweden|FF00FF
+1255640400|teelmo|A|Jeff Beck/Blow By Blow/United Kingdom|FF00FF
+1255640400|teelmo|A|Leandra/Metamorphine/Germany|FF00FF
+1255640400|teelmo|A|Remembering Never/God Save Us/United States|FF00FF
+1255640400|teelmo|A|Ribspreader/Bolted To The Cross/Sweden|FF00FF
+1255640400|teelmo|A|Rock Kills Kid/Are You Nervous?/United States|FF00FF
+1255640400|teelmo|A|Skinny Puppy/The Greater Wrong Of The Right/Canada|FF00FF
+1255640400|teelmo|A|Slaughter Mob/Walk Of The Wicked  Treachery  Jab Jab/United Kingdom|FF00FF
+1255640400|teelmo|A|Tactical Sekt/Geneticide/United States|FF00FF
+1255640400|teelmo|A|Tactical Sekt/Syncope/United States|FF00FF
+1255726800|Xzar|A|Chromeo/Fancy Footwork|0000FF
+1255726800|Xzar|A|Chromeo|FF0000
+1255726800|Xzar|A|Theory Of A Deadman/Gasoline/Canada|FF00FF
+1255726800|Xzar|A|Theory Of A Deadman/Gasoline/Rock|00FF00
+1255726800|Xzar|A|Theory Of A Deadman/Gasoline|0000FF
+1255726800|admin|A|The Killer And The Star/The Killer And The Star/2000's|FFFF00
+1255726800|admin|A|Theory Of A Deadman/Gasoline/2000's|FFFF00
+1255726800|guest|A|Chromeo/Fancy Footwork/EP|FFFF00
+1255726800|guest|A|The Killer And The Star/The Killer And The Star/Alternative Rock|00FF00
+1255726800|kimdracula|A|The Killer And The Star/The Killer And The Star|0000FF
+1255726800|kimdracula|A|The Killer And The Star|FF0000
+1255726800|teelmo|A|Chromeo/Fancy Footwork/Canada|FF00FF
+1255726800|teelmo|A|Chromeo/Fancy Footwork/Electrofunk|00FF00
+1255899600|admin|A|The Cold/Last Embrace/2000's|FFFF00
+1255899600|teelmo|A|The Cold/Last Embrace/Germany|FF00FF
+1255899600|teelmo|A|The Cold/Last Embrace/Gothic Rock|00FF00
+1255899600|teelmo|A|The Cold/Last Embrace|0000FF
+1255899600|teelmo|A|The Cold|FF0000
+1255986000|admin|A|The Secret Machines/Secret Machines/2000's|FFFF00
+1255986000|teelmo|A|The Secret Machines/Secret Machines/New Prog|00FF00
+1255986000|teelmo|A|The Secret Machines/Secret Machines/United States|FF00FF
+1255986000|teelmo|A|The Secret Machines/Secret Machines|0000FF
+1255986000|teelmo|A|The Secret Machines|FF0000
+1256072400|Xzar|A|Enya/A Day Without Rain/Pop|00FF00
+1256072400|Xzar|A|Enya/A Day Without Rain|0000FF
+1256072400|Xzar|A|Enya|FF0000
+1256072400|Xzar|A|Ephel Duath/Pain Necessary To Know/Avant-Garde|00FF00
+1256072400|Xzar|A|Ephel Duath/Pain Necessary To Know|0000FF
+1256072400|Xzar|A|Ephel Duath|FF0000
+1256072400|admin|A|5bridgeS/The Thomas Tracks/2000's|FFFF00
+1256072400|admin|A|Alavala/Alavala/2000's|FFFF00
+1256072400|admin|A|Ben Folds Five/Whatever And Ever Amen/1990's|FFFF00
+1256072400|admin|A|Deaf Center/Pale Ravine/2000's|FFFF00
+1256072400|admin|A|Ephel Duath/Pain Necessary To Know/2000's|FFFF00
+1256072400|admin|A|Keane/Everybody's Changing/2000's|FFFF00
+1256072400|anu|A|Deaf Center/Pale Ravine/Post-Rock|00FF00
+1256072400|anu|A|Deaf Center/Pale Ravine|0000FF
+1256072400|anu|A|Deaf Center|FF0000
+1256072400|tatu|A|5bridgeS/The Thomas Tracks/Netherlands|FF00FF
+1256072400|tatu|A|5bridgeS/The Thomas Tracks/Progressive Rock|00FF00
+1256072400|tatu|A|5bridgeS/The Thomas Tracks|0000FF
+1256072400|tatu|A|5bridgeS|FF0000
+1256072400|tatu|A|Deaf Center/Pale Ravine/Norway|FF00FF
+1256072400|teelmo|A|Alavala/Alavala/Finland|FF00FF
+1256072400|teelmo|A|Alavala/Alavala/Pop Rock|00FF00
+1256072400|teelmo|A|Alavala/Alavala|0000FF
+1256072400|teelmo|A|Alavala|FF0000
+1256072400|teelmo|A|Ben Folds Five/Whatever And Ever Amen/Alternative Rock|00FF00
+1256072400|teelmo|A|Ben Folds Five/Whatever And Ever Amen/Jazz Rock|00FF00
+1256072400|teelmo|A|Ben Folds Five/Whatever And Ever Amen/United States|FF00FF
+1256072400|teelmo|A|Ben Folds Five/Whatever And Ever Amen|0000FF
+1256072400|teelmo|A|Ben Folds Five|FF0000
+1256072400|teelmo|A|Deaf Center/Pale Ravine/Ambient|00FF00
+1256072400|teelmo|A|Deaf Center/Pale Ravine/Post-Rock|00FF00
+1256072400|teelmo|A|Enya/A Day Without Rain/Ireland|FF00FF
+1256072400|teelmo|A|Enya/A Day Without Rain/New Age|00FF00
+1256072400|teelmo|A|Ephel Duath/Pain Necessary To Know/Avant-Garde Metal|00FF00
+1256072400|teelmo|A|Ephel Duath/Pain Necessary To Know/Italy|FF00FF
+1256072400|teelmo|A|From Now On|FF0000
+1256072400|teelmo|A|Keane/Everybody's Changing/Alternative Rock|00FF00
+1256072400|teelmo|A|Keane/Everybody's Changing/Single|FFFF00
+1256072400|teelmo|A|Keane/Everybody's Changing/United Kingdom|FF00FF
+1256072400|teelmo|A|Keane/Everybody's Changing|0000FF
+1256072400|teelmo|A|Keane|FF0000
+1256158800|Xzar|A|The RZA|FF0000
+1256158800|admin|A|Come Sleep/The Burden Of Ballast/2000's|FFFF00
+1256158800|admin|A|LITE/Phantasia/2000's|FFFF00
+1256158800|admin|A|Think Floyd/Beyond Boundaries/2000's|FFFF00
+1256158800|anu|A|Ben Folds Five/Whatever And Ever Amen/Alternative Rock|00FF00
+1256158800|tatu|A|5bridgeS/The Thomas Tracks/Symphonic Prog|00FF00
+1256158800|tatu|A|Think Floyd/Beyond Boundaries/Progressive Rock|00FF00
+1256158800|tatu|A|Think Floyd/Beyond Boundaries/United Kingdom|FF00FF
+1256158800|tatu|A|Think Floyd/Beyond Boundaries|0000FF
+1256158800|tatu|A|Think Floyd|FF0000
+1256158800|teelmo|A|Come Sleep/The Burden Of Ballast/Post-Metal|00FF00
+1256158800|teelmo|A|Come Sleep/The Burden Of Ballast/Sweden|FF00FF
+1256158800|teelmo|A|Come Sleep/The Burden Of Ballast|0000FF
+1256158800|teelmo|A|Come Sleep|FF0000
+1256158800|teelmo|A|LITE/Phantasia/Japan|FF00FF
+1256158800|teelmo|A|LITE/Phantasia/Post-Rock|00FF00
+1256158800|teelmo|A|LITE/Phantasia|0000FF
+1256158800|teelmo|A|LITE|FF0000
+1256158800|teelmo|A|Think Floyd/Beyond Boundaries/Tribute|FFFF00
+1256245200|admin|A|Come Sleep/The Skull Of Ahab/2000's|FFFF00
+1256245200|teelmo|A|Come Sleep/The Skull Of Ahab/Post-Metal|00FF00
+1256245200|teelmo|A|Come Sleep/The Skull Of Ahab/Sweden|FF00FF
+1256245200|teelmo|A|Come Sleep/The Skull Of Ahab|0000FF
+1256331600|Xzar|A|Hearse/Cambodia/Death Metal|00FF00
+1256331600|Xzar|A|Hearse/Cambodia|0000FF
+1256331600|Xzar|A|Hearse|FF0000
+1256331600|admin|A|Hearse/Cambodia/2000's|FFFF00
+1256331600|teelmo|A|Hearse/Cambodia/Sweden|FF00FF
+1256418000|Xzar|A|Dub War/Extra Pain|0000FF
+1256418000|Xzar|A|Dub War|FF0000
+1256508000|teelmo|A|Dub War/Extra Pain/United Kingdom|FF00FF
+1256680800|admin|A|Solace Of The Sun/The Dawn Of Awakening/2000's|FFFF00
+1256680800|admin|A|The Dorians/Walking Behind/2000's|FFFF00
+1256680800|teelmo|A|Solace Of The Sun/The Dawn Of Awakening/Acoustic Rock|00FF00
+1256680800|teelmo|A|Solace Of The Sun/The Dawn Of Awakening/United States|FF00FF
+1256680800|teelmo|A|Solace Of The Sun/The Dawn Of Awakening|0000FF
+1256680800|teelmo|A|Solace Of The Sun|FF0000
+1256680800|teelmo|A|The Dorians/Walking Behind/Germany|FF00FF
+1256680800|teelmo|A|The Dorians/Walking Behind/Indie Rock|00FF00
+1256680800|teelmo|A|The Dorians/Walking Behind|0000FF
+1256680800|teelmo|A|The Dorians|FF0000
+1256767200|admin|A|Bleed The Sky/Paradigm In Entropy/2000's|FFFF00
+1256767200|admin|A|The Capital Beat/A Greater Fire/2000's|FFFF00
+1256767200|anu|A|The Capital Beat/A Greater Fire/Ska|00FF00
+1256767200|teelmo|A|Bleed The Sky/Paradigm In Entropy|0000FF
+1256767200|teelmo|A|Bleed The Sky|FF0000
+1256767200|teelmo|A|The Capital Beat/A Greater Fire/Finland|FF00FF
+1256767200|teelmo|A|The Capital Beat/A Greater Fire/Reggae|00FF00
+1256767200|teelmo|A|The Capital Beat/A Greater Fire/Ska|00FF00
+1256767200|teelmo|A|The Capital Beat/A Greater Fire/Soul|00FF00
+1256767200|teelmo|A|The Capital Beat/A Greater Fire|0000FF
+1256767200|teelmo|A|The Capital Beat|FF0000
+1256853600|admin|A|The Valkyrians/The Beat Of Our Street/2000's|FFFF00
+1256853600|teelmo|A|The Valkyrians/The Beat Of Our Street/Reggae|00FF00
+1256853600|teelmo|A|The Valkyrians/The Beat Of Our Street/Ska|00FF00
+1256853600|teelmo|A|The Valkyrians/The Beat Of Our Street|0000FF
+1256853600|teelmo|A|The Valkyrians|FF0000
+1257026400|tatu|A|The Killer And The Star/The Killer And The Star/Alternative Rock|00FF00
+1257112800|admin|A|Jack Johnson/En Concert/2000's|FFFF00
+1257112800|admin|A|Jack Johnson/Sleep Through The Static/2000's|FFFF00
+1257112800|admin|A|Techno Animal/Techno Animal Versus Reality/1990's|FFFF00
+1257112800|kimdracula|A|Jack Johnson/En Concert|0000FF
+1257112800|kimdracula|A|Jack Johnson/Sleep Through The Static|0000FF
+1257112800|kimdracula|A|Jack Johnson|FF0000
+1257112800|teelmo|A|Techno Animal/Techno Animal Versus Reality/Bass|00FF00
+1257112800|teelmo|A|Techno Animal/Techno Animal Versus Reality/Hip Hop|00FF00
+1257112800|teelmo|A|Techno Animal/Techno Animal Versus Reality/United Kingdom|FF00FF
+1257112800|teelmo|A|Techno Animal/Techno Animal Versus Reality|0000FF
+1257112800|teelmo|A|Techno Animal|FF0000
+1257199200|admin|A|Techno Animal/The Brotherhood Of The Bomb/2000's|FFFF00
+1257199200|teelmo|A|Techno Animal/The Brotherhood Of The Bomb/Hip Hop|00FF00
+1257199200|teelmo|A|Techno Animal/The Brotherhood Of The Bomb/United Kingdom|FF00FF
+1257199200|teelmo|A|Techno Animal/The Brotherhood Of The Bomb|0000FF
+1257717600|admin|A|Blindead/Autoscopia  Murder In Phazes/2000's|FFFF00
+1257717600|admin|A|Day Without Dawn/Understanding Consequences/2000's|FFFF00
+1257717600|teelmo|A|Blindead/Autoscopia  Murder In Phazes/Post-Metal|00FF00
+1257717600|teelmo|A|Blindead/Autoscopia  Murder In Phazes|0000FF
+1257717600|teelmo|A|Blindead|FF0000
+1257717600|teelmo|A|Day Without Dawn/Understanding Consequences/Progressive Rock|00FF00
+1257717600|teelmo|A|Day Without Dawn/Understanding Consequences|0000FF
+1257717600|teelmo|A|Day Without Dawn|FF0000
+1257804000|admin|A|Blindead/Impulse/2000's|FFFF00
+1257804000|teelmo|A|Blindead/Impulse/Post-Metal|00FF00
+1257804000|teelmo|A|Blindead/Impulse|0000FF
+1257890400|admin|A|Christina Aguilera/Christina Aguilera/1990's|FFFF00
+1257890400|tatu|A|Christina Aguilera/Christina Aguilera/Pop|00FF00
+1257890400|tatu|A|Christina Aguilera/Christina Aguilera/United States|FF00FF
+1257890400|tatu|A|Christina Aguilera/Christina Aguilera|0000FF
+1257890400|tatu|A|Christina Aguilera|FF0000
+1258063200|admin|A|Today Is The Day/Kiss The Pig/2000's|FFFF00
+1258063200|teelmo|A|Today Is The Day/Kiss The Pig/Experimental Rock|00FF00
+1258063200|teelmo|A|Today Is The Day/Kiss The Pig/United States|FF00FF
+1258063200|teelmo|A|Today Is The Day/Kiss The Pig|0000FF
+1258408800|admin|A|At The Gates/With Fear I Kiss The Burning Darkness/1990's|FFFF00
+1258408800|teelmo|A|At The Gates/With Fear I Kiss The Burning Darkness/Melodic Death Metal|00FF00
+1258408800|teelmo|A|At The Gates/With Fear I Kiss The Burning Darkness/Sweden|FF00FF
+1258408800|teelmo|A|At The Gates/With Fear I Kiss The Burning Darkness|0000FF
+1258495200|Xzar|A|Dawn Of Ashes/In The Acts Of Violence/Industrial|00FF00
+1258495200|Xzar|A|Dawn Of Ashes/In The Acts Of Violence|0000FF
+1258495200|Xzar|A|Dawn Of Ashes|FF0000
+1258495200|Xzar|A|Hollywood Undead/Swan Song/Hard Rock|00FF00
+1258495200|Xzar|A|Hollywood Undead/Swan Song|0000FF
+1258495200|Xzar|A|Hollywood Undead|FF0000
+1258495200|Xzar|A|Nurzery [rhymes]/Thorns/Electronica|00FF00
+1258495200|Xzar|A|Nurzery [rhymes]/Thorns|0000FF
+1258495200|Xzar|A|Nurzery [rhymes]|FF0000
+1258495200|Xzar|A|Sub Focus/Sub Focus/Drum And Bass|00FF00
+1258495200|Xzar|A|Sub Focus/Sub Focus|0000FF
+1258495200|Xzar|A|Sub Focus|FF0000
+1258495200|admin|A|Dawn Of Ashes/In The Acts Of Violence/2000's|FFFF00
+1258495200|admin|A|Hollywood Undead/Swan Song/2000's|FFFF00
+1258495200|admin|A|Nurzery [rhymes]/Thorns/2000's|FFFF00
+1258495200|admin|A|Sub Focus/Sub Focus/2000's|FFFF00
+1258495200|admin|A|The Baseballs/Strike!/2000's|FFFF00
+1258495200|admin|A|Unearthly Trance/The Trident/2000's|FFFF00
+1258495200|teelmo|A|Bleed The Sky/Paradigm In Entropy/United States|FF00FF
+1258495200|teelmo|A|Blindead/Autoscopia  Murder In Phazes/Poland|FF00FF
+1258495200|teelmo|A|Blindead/Impulse/Poland|FF00FF
+1258495200|teelmo|A|Dawn Of Ashes/In The Acts Of Violence/United States|FF00FF
+1258495200|teelmo|A|Hollywood Undead/Swan Song/United States|FF00FF
+1258495200|teelmo|A|Jack Johnson/En Concert/United States|FF00FF
+1258495200|teelmo|A|Jack Johnson/Sleep Through The Static/United States|FF00FF
+1258495200|teelmo|A|Nurzery [rhymes]/Thorns/Germany|FF00FF
+1258495200|teelmo|A|Sub Focus/Sub Focus/United Kingdom|FF00FF
+1258495200|teelmo|A|The Baseballs/Strike!/Cover Album|FFFF00
+1258495200|teelmo|A|The Baseballs/Strike!/Germany|FF00FF
+1258495200|teelmo|A|The Baseballs/Strike!/Rock And Roll|00FF00
+1258495200|teelmo|A|The Baseballs/Strike!/Rockabilly|00FF00
+1258495200|teelmo|A|The Baseballs/Strike!|0000FF
+1258495200|teelmo|A|The Baseballs|FF0000
+1258495200|teelmo|A|Unearthly Trance/The Trident/Alternative Metal|00FF00
+1258495200|teelmo|A|Unearthly Trance/The Trident/United States|FF00FF
+1258495200|teelmo|A|Unearthly Trance/The Trident|0000FF
+1258581600|admin|A|Four Year Strong/Explains It All/2000's|FFFF00
+1258581600|admin|A|Four Year Strong/Rise Or Die Trying/2000's|FFFF00
+1258581600|teelmo|A|Four Year Strong/Explains It All/Cover Album|FFFF00
+1258581600|teelmo|A|Four Year Strong/Explains It All/Eastpak Antidote Tour|FFFF00
+1258581600|teelmo|A|Four Year Strong/Explains It All/Pop Punk|00FF00
+1258581600|teelmo|A|Four Year Strong/Explains It All/United States|FF00FF
+1258581600|teelmo|A|Four Year Strong/Explains It All|0000FF
+1258581600|teelmo|A|Four Year Strong/Rise Or Die Trying/Pop Punk|00FF00
+1258581600|teelmo|A|Four Year Strong/Rise Or Die Trying/United States|FF00FF
+1258581600|teelmo|A|Four Year Strong/Rise Or Die Trying|0000FF
+1258581600|teelmo|A|Four Year Strong|FF0000
+1258581600|teelmo|A|Mustasch/Latest Version Of The Truth/Heavy Metal|00FF00
+1258927200|admin|A|Anthony Green/Avalon/2000's|FFFF00
+1258927200|teelmo|A|Anthony Green/Avalon/Indie Rock|00FF00
+1258927200|teelmo|A|Anthony Green/Avalon/United States|FF00FF
+1258927200|teelmo|A|Anthony Green/Avalon|0000FF
+1258927200|teelmo|A|Anthony Green|FF0000
+1259013600|admin|A|Laura/Mapping Your Dreams/2000's|FFFF00
+1259013600|admin|A|Them Crooked Vultures/Them Crooked Vultures/2000's|FFFF00
+1259013600|kimdracula|A|Them Crooked Vultures/Them Crooked Vultures|0000FF
+1259013600|kimdracula|A|Them Crooked Vultures|FF0000
+1259013600|teelmo|A|Four Year Strong/Explains It All/Seen Live|FFFF00
+1259013600|teelmo|A|Four Year Strong/Rise Or Die Trying/Seen Live|FFFF00
+1259013600|teelmo|A|Laura/Mapping Your Dreams/Australia|FF00FF
+1259013600|teelmo|A|Laura/Mapping Your Dreams/Post-Rock|00FF00
+1259013600|teelmo|A|Laura/Mapping Your Dreams|0000FF
+1259013600|teelmo|A|Them Crooked Vultures/Them Crooked Vultures/Stoner Metal|00FF00
+1259013600|teelmo|A|Them Crooked Vultures/Them Crooked Vultures/Supergroup|FFFF00
+1259013600|teelmo|A|Them Crooked Vultures/Them Crooked Vultures/United States|FF00FF
+1259100000|teelmo|A|Them Crooked Vultures/Them Crooked Vultures/Stoner Rock|00FF00
+1259186400|Xzar|A|Burn In Silence/Angel Maker/Metal|00FF00
+1259186400|Xzar|A|Burn In Silence/Angel Maker|0000FF
+1259186400|Xzar|A|Burn In Silence|FF0000
+1259186400|Xzar|A|Burning Skies/Greed.Filth.Abuse.Corruption/Death Metal|00FF00
+1259186400|Xzar|A|Burning Skies/Greed.Filth.Abuse.Corruption|0000FF
+1259186400|Xzar|A|Burning Skies|FF0000
+1259186400|admin|A|Burn In Silence/Angel Maker/2000's|FFFF00
+1259186400|admin|A|Burning Skies/Greed.Filth.Abuse.Corruption/2000's|FFFF00
+1259186400|admin|A|TesseracT/Liquid Box/2000's|FFFF00
+1259186400|teelmo|A|Burn In Silence/Angel Maker/United States|FF00FF
+1259186400|teelmo|A|TesseracT/Liquid Box/Electronica|00FF00
+1259186400|teelmo|A|TesseracT/Liquid Box/United Kingdom|FF00FF
+1259186400|teelmo|A|TesseracT/Liquid Box|0000FF
+1259272800|Xzar|A|Bury My Sins/Today's Black Death/Hardcore|00FF00
+1259272800|Xzar|A|Bury My Sins/Today's Black Death|0000FF
+1259272800|Xzar|A|Bury My Sins|FF0000
+1259272800|admin|A|Bury My Sins/Today's Black Death/2000's|FFFF00
+1259359200|tatu|A|Deep Insight/One Minute Too Late/Punk Rock|00FF00
+1259359200|tatu|A|Deep Insight/Sucker For Love/Pop Rock|00FF00
+1259532000|Xzar|A|The RZA/Blade Trinity OST/Soundtrack|00FF00
+1259532000|Xzar|A|The RZA/Blade Trinity OST/Unknown|FF00FF
+1259532000|Xzar|A|The RZA/Blade Trinity OST|0000FF
+1259532000|admin|A|Blackmail/Bliss, Please/2000's|FFFF00
+1259532000|admin|A|Blackmail/Friend Or Foe?/2000's|FFFF00
+1259532000|admin|A|Blackmail/Tempo Tempo/2000's|FFFF00
+1259532000|admin|A|Bryan Adams/Reckless/1980's|FFFF00
+1259532000|admin|A|The RZA/Blade Trinity OST/2000's|FFFF00
+1259532000|tatu|A|Bryan Adams/Reckless/Canada|FF00FF
+1259532000|tatu|A|Bryan Adams/Reckless/Hard Rock|00FF00
+1259532000|tatu|A|Bryan Adams/Reckless|0000FF
+1259532000|tatu|A|Bryan Adams|FF0000
+1259532000|teelmo|A|Blackmail/Bliss, Please/Germany|FF00FF
+1259532000|teelmo|A|Blackmail/Bliss, Please/Indie Rock|00FF00
+1259532000|teelmo|A|Blackmail/Bliss, Please|0000FF
+1259532000|teelmo|A|Blackmail/Friend Or Foe?/Germany|FF00FF
+1259532000|teelmo|A|Blackmail/Friend Or Foe?/Indie Rock|00FF00
+1259532000|teelmo|A|Blackmail/Friend Or Foe?|0000FF
+1259532000|teelmo|A|Blackmail/Tempo Tempo/Germany|FF00FF
+1259532000|teelmo|A|Blackmail/Tempo Tempo/Indie Rock|00FF00
+1259532000|teelmo|A|Blackmail/Tempo Tempo|0000FF
+1259532000|teelmo|A|Blackmail|FF0000
+1259618400|teelmo|A|Burning Skies/Greed.Filth.Abuse.Corruption/United Kingdom|FF00FF
+1259704800|Xzar|A|DJ Proteus/The Hellfire Club (Hard NRG 7)-Mixed By DJ Proteus/Trance|00FF00
+1259704800|Xzar|A|DJ Proteus/The Hellfire Club (Hard NRG 7)-Mixed By DJ Proteus|0000FF
+1259704800|Xzar|A|DJ Proteus|FF0000
+1259704800|Xzar|A|Divercia/Cycle Of Zero/Metal|00FF00
+1259704800|Xzar|A|Divercia/Cycle Of Zero|0000FF
+1259704800|Xzar|A|Divercia|FF0000
+1259704800|Xzar|A|Firewind/Forged By Fire/Heavy Metal|00FF00
+1259704800|Xzar|A|Firewind/Forged By Fire|0000FF
+1259704800|Xzar|A|Firewind/The Premonition/Metal|00FF00
+1259704800|Xzar|A|Firewind/The Premonition|0000FF
+1259704800|Xzar|A|Firewind|FF0000
+1259704800|admin|A|Chisu/Vapaa Ja Yksin/2000's|FFFF00
+1259704800|admin|A|DJ Proteus/The Hellfire Club (Hard NRG 7)-Mixed By DJ Proteus/2000's|FFFF00
+1259704800|admin|A|Divercia/Cycle Of Zero/2000's|FFFF00
+1259704800|admin|A|Firewind/Forged By Fire/2000's|FFFF00
+1259704800|admin|A|Firewind/The Premonition/2000's|FFFF00
+1259704800|admin|A|Irina/Miten Valmiiksi Tullaan/2000's|FFFF00
+1259704800|admin|A|Melody Gardot/My One And Only Thrill/2000's|FFFF00
+1259704800|admin|A|Ultramariini/Juuri Ja Juuri Olemassa/2000's|FFFF00
+1259704800|kimdracula|A|Melody Gardot/My One And Only Thrill|0000FF
+1259704800|kimdracula|A|Melody Gardot|FF0000
+1259704800|tatu|A|Firewind/Forged By Fire/Greece|FF00FF
+1259704800|tatu|A|Firewind/The Premonition/Greece|FF00FF
+1259704800|teelmo|A|Chisu/Vapaa Ja Yksin/Finland|FF00FF
+1259704800|teelmo|A|Chisu/Vapaa Ja Yksin/Pop|00FF00
+1259704800|teelmo|A|Chisu/Vapaa Ja Yksin|0000FF
+1259704800|teelmo|A|Chisu|FF0000
+1259704800|teelmo|A|Irina/Miten Valmiiksi Tullaan/Finland|FF00FF
+1259704800|teelmo|A|Irina/Miten Valmiiksi Tullaan/Pop Rock|00FF00
+1259704800|teelmo|A|Irina/Miten Valmiiksi Tullaan|0000FF
+1259704800|teelmo|A|Irina|FF0000
+1259704800|teelmo|A|Melody Gardot/My One And Only Thrill/United States|FF00FF
+1259704800|teelmo|A|Ultramariini/Juuri Ja Juuri Olemassa/Alternative Rock|00FF00
+1259704800|teelmo|A|Ultramariini/Juuri Ja Juuri Olemassa/Finland|FF00FF
+1259704800|teelmo|A|Ultramariini/Juuri Ja Juuri Olemassa|0000FF
+1259704800|teelmo|A|Ultramariini|FF0000
+1259791200|Xzar|A|Die Sektor/To Be Fed Upon|0000FF
+1259791200|Xzar|A|Die Sektor|FF0000
+1259791200|Xzar|A|Slowdive/Souvlaki/Indie|00FF00
+1259791200|Xzar|A|Slowdive/Souvlaki|0000FF
+1259791200|Xzar|A|Slowdive|FF0000
+1259791200|admin|A|Slowdive/Souvlaki/1990's|FFFF00
+1259791200|teelmo|A|Die Sektor/To Be Fed Upon/United States|FF00FF
+1259877600|Xzar|A|September Malevolence/Tour/Indie|00FF00
+1259877600|Xzar|A|September Malevolence/Tour/Sweden|FF00FF
+1259877600|Xzar|A|September Malevolence/Tour|0000FF
+1259877600|Xzar|A|Slowdive/Catch The Breeze|0000FF
+1259877600|admin|A|Barathrum/Saatana/1990's|FFFF00
+1259877600|admin|A|September Malevolence/Tour/2000's|FFFF00
+1259877600|tatu|A|Slowdive/Catch The Breeze/Compilation|FFFF00
+1259877600|tatu|A|Slowdive/Catch The Breeze/United Kingdom|FF00FF
+1259877600|tatu|A|Slowdive/Souvlaki/United Kingdom|FF00FF
+1259877600|teelmo|A|Barathrum/Saatana/Black Metal|00FF00
+1259877600|teelmo|A|Barathrum/Saatana/Finland|FF00FF
+1259877600|teelmo|A|Barathrum/Saatana|0000FF
+1259877600|teelmo|A|Barathrum|FF0000
+1260050400|Xzar|A|Bolt Thrower/Those Once Loyal/Death Metal|00FF00
+1260050400|Xzar|A|Bolt Thrower/Those Once Loyal|0000FF
+1260050400|Xzar|A|Bolt Thrower|FF0000
+1260050400|Xzar|A|Carnival In Coal/Collection Prestige/Death Metal|00FF00
+1260050400|Xzar|A|Carnival In Coal/Collection Prestige|0000FF
+1260050400|Xzar|A|Carnival In Coal/Fear Not|0000FF
+1260050400|Xzar|A|Carnival In Coal|FF0000
+1260050400|Xzar|A|Catamenia/Winternight Tragedies/Black Metal|00FF00
+1260050400|Xzar|A|Catamenia/Winternight Tragedies|0000FF
+1260050400|Xzar|A|Catamenia|FF0000
+1260050400|Xzar|A|Cataract/Cataract/Metal|00FF00
+1260050400|Xzar|A|Cataract/Cataract|0000FF
+1260050400|Xzar|A|Cataract/Kingdom/Hardcore|00FF00
+1260050400|Xzar|A|Cataract/Kingdom/Switzerland|FF00FF
+1260050400|Xzar|A|Cataract/Kingdom|0000FF
+1260050400|Xzar|A|Cataract|FF0000
+1260050400|admin|A|Bolt Thrower/Those Once Loyal/2000's|FFFF00
+1260050400|admin|A|Carnival In Coal/Collection Prestige/2000's|FFFF00
+1260050400|admin|A|Catamenia/Winternight Tragedies/2000's|FFFF00
+1260050400|admin|A|Cataract/Cataract/2000's|FFFF00
+1260050400|admin|A|Cataract/Kingdom/2000's|FFFF00
+1260050400|teelmo|A|Carnival In Coal/Fear Not/France|FF00FF
+1260050400|teelmo|A|Catamenia/Winternight Tragedies/Finland|FF00FF
+1260050400|teelmo|A|Cataract/Cataract/Switzerland|FF00FF
+1260136800|Xzar|A|Bolt Thrower/Those Once Loyal/United Kingdom|FF00FF
+1260136800|Xzar|A|Septic Flesh/A Fallen Temple/Death Metal|00FF00
+1260136800|Xzar|A|Septic Flesh/A Fallen Temple/Greece|FF00FF
+1260136800|Xzar|A|Septic Flesh/A Fallen Temple|0000FF
+1260136800|Xzar|A|Septic Flesh/Esoptron/Doom Metal|00FF00
+1260136800|Xzar|A|Septic Flesh/Esoptron/Greece|FF00FF
+1260136800|Xzar|A|Septic Flesh/Esoptron|0000FF
+1260136800|Xzar|A|Septic Flesh/Mystic Places Of Dawn/Death Metal|00FF00
+1260136800|Xzar|A|Septic Flesh/Mystic Places Of Dawn/Greece|FF00FF
+1260136800|Xzar|A|Septic Flesh/Mystic Places Of Dawn|0000FF
+1260136800|Xzar|A|Septic Flesh|FF0000
+1260136800|Xzar|A|Spitfire/Self-Help/Metal|00FF00
+1260136800|Xzar|A|Spitfire/Self-Help|0000FF
+1260136800|Xzar|A|Spitfire|FF0000
+1260136800|Xzar|A|St. Hood/Sanctified/Hardcore|00FF00
+1260136800|Xzar|A|St. Hood/Sanctified|0000FF
+1260136800|Xzar|A|St. Hood|FF0000
+1260136800|admin|A|Septic Flesh/A Fallen Temple/1990's|FFFF00
+1260136800|admin|A|Septic Flesh/Esoptron/1990's|FFFF00
+1260136800|admin|A|Septic Flesh/Mystic Places Of Dawn/1990's|FFFF00
+1260136800|admin|A|Spitfire/Self-Help/2000's|FFFF00
+1260136800|admin|A|St. Hood/Sanctified/2000's|FFFF00
+1260136800|admin|A|Stereolab/Transient Random-Noise Bursts With Announcements/1990's|FFFF00
+1260136800|teelmo|A|Stereolab/Transient Random-Noise Bursts With Announcements/Post-Rock|00FF00
+1260136800|teelmo|A|Stereolab/Transient Random-Noise Bursts With Announcements/United Kingdom|FF00FF
+1260136800|teelmo|A|Stereolab/Transient Random-Noise Bursts With Announcements|0000FF
+1260136800|teelmo|A|Stereolab|FF0000
+1260223200|admin|A|Jay-Z And Linkin Park/Collision Course/2000's|FFFF00
+1260223200|kimdracula|A|Jay-Z And Linkin Park/Collision Course|0000FF
+1260223200|kimdracula|A|Jay-Z And Linkin Park|FF0000
+1260223200|teelmo|A|September Malevolence/Tour/EP|FFFF00
+1260309600|Xzar|A|This Ending/Inside The Machine/Death Metal|00FF00
+1260309600|Xzar|A|This Ending/Inside The Machine|0000FF
+1260309600|Xzar|A|This Ending|FF0000
+1260309600|Xzar|A|This Is Hell/Sundowning/Hardcore|00FF00
+1260309600|Xzar|A|This Is Hell/Sundowning|0000FF
+1260309600|Xzar|A|This Is Hell|FF0000
+1260309600|Xzar|A|This Moment/Star Parallel/Hardcore|00FF00
+1260309600|Xzar|A|This Moment/Star Parallel|0000FF
+1260309600|Xzar|A|This Moment|FF0000
+1260309600|Xzar|A|Vetka Ft Mr. Eyez/Hardstyle Summer 2008/Hardstyle|00FF00
+1260309600|Xzar|A|Vetka Ft Mr. Eyez/Hardstyle Summer 2008/Unknown|FF00FF
+1260309600|Xzar|A|Vetka Ft Mr. Eyez/Hardstyle Summer 2008|0000FF
+1260309600|Xzar|A|Vetka Ft Mr. Eyez|FF0000
+1260309600|admin|A|Niemand/This Is War/2000's|FFFF00
+1260309600|admin|A|Tegan And Sara/Sainthood/2000's|FFFF00
+1260309600|admin|A|This Ending/Inside The Machine/2000's|FFFF00
+1260309600|admin|A|This Is Hell/Sundowning/2000's|FFFF00
+1260309600|admin|A|This Is Total War/You And Me And The Kingdom Of Fire/2000's|FFFF00
+1260309600|admin|A|This Moment/Star Parallel/2000's|FFFF00
+1260309600|admin|A|Vetka Ft Mr. Eyez/Hardstyle Summer 2008/2000's|FFFF00
+1260309600|teelmo|A|Niemand/This Is War/Alternative Rock|00FF00
+1260309600|teelmo|A|Niemand/This Is War/South Africa|FF00FF
+1260309600|teelmo|A|Niemand/This Is War|0000FF
+1260309600|teelmo|A|Niemand|FF0000
+1260309600|teelmo|A|Tegan And Sara/Sainthood/Canada|FF00FF
+1260309600|teelmo|A|Tegan And Sara/Sainthood/Indie Rock|00FF00
+1260309600|teelmo|A|Tegan And Sara/Sainthood|0000FF
+1260309600|teelmo|A|Tegan And Sara|FF0000
+1260309600|teelmo|A|This Is Total War/You And Me And The Kingdom Of Fire/Electronica|00FF00
+1260309600|teelmo|A|This Is Total War/You And Me And The Kingdom Of Fire/Netherlands|FF00FF
+1260309600|teelmo|A|This Is Total War/You And Me And The Kingdom Of Fire|0000FF
+1260309600|teelmo|A|This Is Total War|FF0000
+1260396000|Xzar|A|This Town Needs Guns/Animals/Indie|00FF00
+1260396000|Xzar|A|This Town Needs Guns/Animals|0000FF
+1260396000|Xzar|A|This Town Needs Guns|FF0000
+1260396000|Xzar|A|Threat Signal/Under Reprisal/Metal|00FF00
+1260396000|Xzar|A|Threat Signal/Under Reprisal|0000FF
+1260396000|Xzar|A|Threat Signal|FF0000
+1260396000|admin|A|Seether/Finding Beauty In Negative Spaces/2000's|FFFF00
+1260396000|admin|A|This Town Needs Guns/Animals/2000's|FFFF00
+1260396000|admin|A|Threat Signal/Under Reprisal/2000's|FFFF00
+1260396000|teelmo|A|Bury My Sins/Today's Black Death/Germany|FF00FF
+1260396000|teelmo|A|Carnival In Coal/Collection Prestige/France|FF00FF
+1260396000|teelmo|A|DJ Proteus/The Hellfire Club (Hard NRG 7)-Mixed By DJ Proteus/Finland|FF00FF
+1260396000|teelmo|A|Divercia/Cycle Of Zero/Finland|FF00FF
+1260396000|teelmo|A|Jay-Z And Linkin Park/Collision Course/United States|FF00FF
+1260396000|teelmo|A|Seether/Finding Beauty In Negative Spaces/Post-Grunge|00FF00
+1260396000|teelmo|A|Seether/Finding Beauty In Negative Spaces/South Africa|FF00FF
+1260396000|teelmo|A|Seether/Finding Beauty In Negative Spaces|0000FF
+1260396000|teelmo|A|Spitfire/Self-Help/United States|FF00FF
+1260396000|teelmo|A|St. Hood/Sanctified/Finland|FF00FF
+1260396000|teelmo|A|This Ending/Inside The Machine/Sweden|FF00FF
+1260396000|teelmo|A|This Is Hell/Sundowning/United States|FF00FF
+1260396000|teelmo|A|This Is Total War/You And Me And The Kingdom Of Fire/Electro House|00FF00
+1260396000|teelmo|A|This Moment/Star Parallel/United States|FF00FF
+1260396000|teelmo|A|This Town Needs Guns/Animals/Indie Rock|00FF00
+1260396000|teelmo|A|This Town Needs Guns/Animals/United Kingdom|FF00FF
+1260396000|teelmo|A|Threat Signal/Under Reprisal/Canada|FF00FF
+1260482400|admin|A|Death Before Sunrise/Not All Who Wander Are Lost/2000's|FFFF00
+1260482400|admin|A|Junior Boys/Begone Dull Care/2000's|FFFF00
+1260482400|admin|A|Miike Snow/Miike Snow/2000's|FFFF00
+1260482400|anu|A|Tegan And Sara/Sainthood/Indie Rock|00FF00
+1260482400|kimdracula|A|Junior Boys/Begone Dull Care|0000FF
+1260482400|kimdracula|A|Junior Boys|FF0000
+1260482400|kimdracula|A|Miike Snow/Miike Snow|0000FF
+1260482400|kimdracula|A|Miike Snow|FF0000
+1260482400|teelmo|A|Animals As Leaders/Animals As Leaders/Instrumental Metal|00FF00
+1260482400|teelmo|A|Death Before Sunrise/Not All Who Wander Are Lost/Pop Punk|00FF00
+1260482400|teelmo|A|Death Before Sunrise/Not All Who Wander Are Lost/United Kingdom|FF00FF
+1260482400|teelmo|A|Death Before Sunrise/Not All Who Wander Are Lost|0000FF
+1260482400|teelmo|A|Death Before Sunrise|FF0000
+1260568800|Xzar|A|Korpiklaani/Spirit Of The Forest|0000FF
+1260568800|Xzar|A|Korpiklaani|FF0000
+1260568800|admin|A|Black Cat Bones/Barbed Wire Sandwich/1970's|FFFF00
+1260568800|admin|A|Pharao X/No Man's Land/2000's|FFFF00
+1260568800|tatu|A|Black Cat Bones/Barbed Wire Sandwich/Blues Rock|00FF00
+1260568800|tatu|A|Black Cat Bones/Barbed Wire Sandwich/United Kingdom|FF00FF
+1260568800|tatu|A|Black Cat Bones/Barbed Wire Sandwich|0000FF
+1260568800|tatu|A|Black Cat Bones|FF0000
+1260568800|teelmo|A|Pharao X/No Man's Land|0000FF
+1260568800|teelmo|A|Pharao X|FF0000
+1260655200|Xzar|A|Kill The Romance/Logical Killing Project CDM/Metal|00FF00
+1260655200|Xzar|A|Kill The Romance/Logical Killing Project CDM|0000FF
+1260655200|Xzar|A|Kill The Romance|FF0000
+1260655200|Xzar|A|Kill The Thrill/Tellurique/Metal|00FF00
+1260655200|Xzar|A|Kill The Thrill/Tellurique|0000FF
+1260655200|Xzar|A|Kill The Thrill|FF0000
+1260655200|admin|A|Kill The Romance/Logical Killing Project CDM/2000's|FFFF00
+1260655200|admin|A|Kill The Thrill/Tellurique/2000's|FFFF00
+1260741600|Xzar|A|I/Between Two Worlds/Black Metal|00FF00
+1260741600|Xzar|A|I/Between Two Worlds|0000FF
+1260741600|Xzar|A|Icepick/Violent Epiphany/Hardcore|00FF00
+1260741600|Xzar|A|Icepick/Violent Epiphany|0000FF
+1260741600|Xzar|A|Icepick|FF0000
+1260741600|Xzar|A|Iiwanajulma/Tuhottu Tila/Alternative|00FF00
+1260741600|Xzar|A|Iiwanajulma/Tuhottu Tila|0000FF
+1260741600|Xzar|A|Iiwanajulma|FF0000
+1260741600|Xzar|A|I|FF0000
+1260741600|admin|A|Dead By Sunrise/Out Of Ashes/2000's|FFFF00
+1260741600|admin|A|I/Between Two Worlds/2000's|FFFF00
+1260741600|admin|A|Icepick/Violent Epiphany/2000's|FFFF00
+1260741600|admin|A|Iiwanajulma/Tuhottu Tila/2000's|FFFF00
+1260741600|teelmo|A|Dead By Sunrise/Out Of Ashes/Alternative Rock|00FF00
+1260741600|teelmo|A|Dead By Sunrise/Out Of Ashes/Post-Grunge|00FF00
+1260741600|teelmo|A|Dead By Sunrise/Out Of Ashes/United States|FF00FF
+1260741600|teelmo|A|Dead By Sunrise/Out Of Ashes|0000FF
+1260741600|teelmo|A|Dead By Sunrise|FF0000
+1260741600|teelmo|A|I/Between Two Worlds/Norway|FF00FF
+1260741600|teelmo|A|Pharao X/No Man's Land/Finland|FF00FF
+1260741600|teelmo|A|Pharao X/No Man's Land/Hard Rock|00FF00
+1260741600|teelmo|A|Pharao X/No Man's Land/Power Metal|00FF00
+1260828000|Xzar|A|Illdisposed/The Prestige/Death Metal|00FF00
+1260828000|Xzar|A|Illdisposed/The Prestige|0000FF
+1260828000|Xzar|A|Illdisposed|FF0000
+1260828000|Xzar|A|Instil/Stalking Death/Hardcore|00FF00
+1260828000|Xzar|A|Instil/Stalking Death|0000FF
+1260828000|Xzar|A|Instil|FF0000
+1260828000|admin|A|Illdisposed/The Prestige/2000's|FFFF00
+1260828000|admin|A|Instil/Stalking Death/2000's|FFFF00
+1260828000|tatu|A|Order! Order!/Out Of The Blue They Paint You Red/Indie|00FF00
+1260828000|teelmo|A|Iiwanajulma/Tuhottu Tila/Finland|FF00FF
+1260914400|admin|A|Anthony Green/Avalon Remix/2000's|FFFF00
+1260914400|admin|A|Hellyeah/Hellyeah/2000's|FFFF00
+1260914400|admin|A|Suvi Teräsniska/Tulkoon Joulu/2000's|FFFF00
+1260914400|teelmo|A|Anthony Green/Avalon Remix/Indie Rock|00FF00
+1260914400|teelmo|A|Anthony Green/Avalon Remix/Remix|FFFF00
+1260914400|teelmo|A|Anthony Green/Avalon Remix/United States|FF00FF
+1260914400|teelmo|A|Anthony Green/Avalon Remix|0000FF
+1260914400|teelmo|A|Hellyeah/Hellyeah/Groove Metal|00FF00
+1260914400|teelmo|A|Hellyeah/Hellyeah/Heavy Metal|00FF00
+1260914400|teelmo|A|Hellyeah/Hellyeah/Supergroup|FFFF00
+1260914400|teelmo|A|Hellyeah/Hellyeah/United States|FF00FF
+1260914400|teelmo|A|Hellyeah/Hellyeah|0000FF
+1260914400|teelmo|A|Hellyeah|FF0000
+1260914400|teelmo|A|Suvi Teräsniska/Tulkoon Joulu/Christmas Carols|FFFF00
+1260914400|teelmo|A|Suvi Teräsniska/Tulkoon Joulu/Finland|FF00FF
+1260914400|teelmo|A|Suvi Teräsniska/Tulkoon Joulu|0000FF
+1260914400|teelmo|A|Suvi Teräsniska|FF0000
+1261000800|Xzar|A|Full Blown Chaos/Wake The Demons/Hardcore|00FF00
+1261000800|Xzar|A|Full Blown Chaos/Wake The Demons|0000FF
+1261000800|Xzar|A|Full Blown Chaos|FF0000
+1261000800|admin|A|Full Blown Chaos/Wake The Demons/2000's|FFFF00
+1261000800|admin|A|Relicon/Inanimate/2000's|FFFF00
+1261000800|kimdracula|A|Relicon/Inanimate|0000FF
+1261000800|kimdracula|A|Relicon|FF0000
+1261000800|teelmo|A|Full Blown Chaos/Wake The Demons/United States|FF00FF
+1261000800|teelmo|A|Relicon/Inanimate/EP|FFFF00
+1261000800|teelmo|A|Relicon/Inanimate/Finland|FF00FF
+1261000800|teelmo|A|Relicon/Inanimate/Progressive Metal|00FF00
+1261087200|Xzar|A|The Servant/The Servant/Rock|00FF00
+1261087200|Xzar|A|The Servant/The Servant|0000FF
+1261087200|Xzar|A|The Servant|FF0000
+1261173600|Xzar|A|Rapture/Songs For The Withering/Metal|00FF00
+1261173600|Xzar|A|Rapture/Songs For The Withering|0000FF
+1261173600|Xzar|A|Rapture|FF0000
+1261173600|admin|A|Rapture/Songs For The Withering/2000's|FFFF00
+1261173600|tatu|A|Icepick/Violent Epiphany/United States|FF00FF
+1261173600|teelmo|A|The Servant/The Servant/United Kingdom|FF00FF
+1261260000|admin|A|Omar Rodríguez-López And Lydia Lunch/Omar Rodríguez-López And Lydia Lunch/2000's|FFFF00
+1261260000|teelmo|A|Omar Rodríguez-López And Lydia Lunch/Omar Rodríguez-López And Lydia Lunch/Jazz Fusion|00FF00
+1261260000|teelmo|A|Omar Rodríguez-López And Lydia Lunch/Omar Rodríguez-López And Lydia Lunch/Puerto Rico|FF00FF
+1261260000|teelmo|A|Omar Rodríguez-López And Lydia Lunch/Omar Rodríguez-López And Lydia Lunch/United States|FF00FF
+1261260000|teelmo|A|Omar Rodríguez-López And Lydia Lunch/Omar Rodríguez-López And Lydia Lunch|0000FF
+1261260000|teelmo|A|Omar Rodríguez-López And Lydia Lunch|FF0000
+1261951200|Xzar|A|Stone/Emotional Playground/Thrash Metal|00FF00
+1261951200|Xzar|A|Stone/Emotional Playground|0000FF
+1261951200|Xzar|A|Stone|FF0000
+1261951200|admin|A|Stone/Emotional Playground/2000's|FFFF00
+1261951200|teelmo|A|Stone/Emotional Playground/Finland|FF00FF
+1262037600|admin|A|Kobong/Kobong/1990's|FFFF00
+1262037600|teelmo|A|Kobong/Kobong/Poland|FF00FF
+1262037600|teelmo|A|Kobong/Kobong/Progressive Metal|00FF00
+1262037600|teelmo|A|Kobong/Kobong|0000FF
+1262037600|teelmo|A|Kobong|FF0000
+1262124000|Xzar|A|Maintain/Reveal Our Disguise To An Infinite Abyss/Hardcore|00FF00
+1262124000|Xzar|A|Maintain/Reveal Our Disguise To An Infinite Abyss|0000FF
+1262124000|Xzar|A|Maintain|FF0000
+1262124000|Xzar|A|Man With No Name/Teleportation/Psychedelic|00FF00
+1262124000|Xzar|A|Man With No Name/Teleportation|0000FF
+1262124000|Xzar|A|Man With No Name|FF0000
+1262124000|admin|A|Blindead/Devouring Weakness/2000's|FFFF00
+1262124000|admin|A|Caliban VS Heaven Shall Burn/The Split Program/2000's|FFFF00
+1262124000|admin|A|Maintain/Reveal Our Disguise To An Infinite Abyss/2000's|FFFF00
+1262124000|admin|A|Man With No Name/Teleportation/2000's|FFFF00
+1262124000|tatu|A|Caliban VS Heaven Shall Burn/The Split Program/Metalcore|00FF00
+1262124000|tatu|A|Caliban VS Heaven Shall Burn/The Split Program/Unknown|FF00FF
+1262124000|tatu|A|Caliban VS Heaven Shall Burn/The Split Program|0000FF
+1262124000|tatu|A|Caliban VS Heaven Shall Burn|FF0000
+1262124000|teelmo|A|Blindead/Devouring Weakness/Poland|FF00FF
+1262124000|teelmo|A|Blindead/Devouring Weakness/Post-Metal|00FF00
+1262124000|teelmo|A|Blindead/Devouring Weakness/Progressive Death Metal|00FF00
+1262124000|teelmo|A|Blindead/Devouring Weakness/Progressive Metal|00FF00
+1262124000|teelmo|A|Blindead/Devouring Weakness|0000FF

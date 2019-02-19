@@ -1,0 +1,9 @@
+DIPLOMITYÖ
+
+gource.exe Diplomityo 2011-03-28.xml -r 30 --seconds-per-day 0.2 --file-idle-time 0
+
+-------------------------------------------------------------------------------------------------------
+
+STATSTER DATA
+
+gource.exe statster_gource_export.txt --seconds-per-day 0.1 -r 30 --file-idle-time 60 --max-files 4000 --max-file-lag 0.1 --user-image-dir avatar

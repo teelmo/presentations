@@ -1,0 +1,5 @@
+1. Alkuun video
+2. Itsensä esittely && PlusDesk
+3. 
+4. Eurooppalainen talouslaskuri, dataa kaikista euroopanmaista, eurostats, tilastokeskus. Tehtiin lukijalle personoitu toteutus jossa asiaa saattoi tarkastella omista lähtökohdista. Vertaa perinteiseen juttuun joka kertoisi tuloeroista -> TV:ssä juttu. Prosesin kuvaus. Eli dataa.
+5. 

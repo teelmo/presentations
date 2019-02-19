@@ -1,0 +1,17 @@
+/*1337568055,169775814*/
+
+.hoursEditorTable{border-spacing:0}
+.hoursEditorDayButtonGrid .uiButtonDepressed{background:#7d7d7d}
+.hoursEditorDayButtonGrid .uiButtonDepressed input{color:#fff}
+.hoursEditorDayButton{border-left-width:0;width:24px}
+.hoursEditorDayButtonFirst{border-left-width:1px}
+.hoursEditorAddRow .hoursEditorAddHoursButton{padding-bottom:0}
+.hoursEditorDaysText{padding-bottom:2px;padding-right:3px}
+.hoursEditorHoursText{padding-bottom:2px;padding-left:3px}
+.hoursEditorOpenTimeInput,
+.hoursEditorCloseTimeInput{width:70px}
+.hoursEditorFormRow{padding-left:7px;width:253px}
+.hoursEditorAllCheckboxContainer{width:140px}
+.createdAccountUnit{text-align:center}
+
+#bootloader_tgmr7 { height: 42px; }

@@ -1,0 +1,86 @@
+1. Kuka minä olen? @teelmo:
+  - Lähdetään liikkeelle mahdollisimman kryptisellä kuvauksella:
+    * Tietotekniikan DI.
+    * Hypermedian jatko-opiskelija.
+    * Web-suunnittelija svenska.yle.fi:ssä.
+  - Avataan aikaisempaa historiaa:
+    * Ensimmäinen Internet-yhteys kotiin n. 15 vuotta sitten.
+    * 2009/01 - 2011/12 tutkijana TTY:n Hypermedialaboratoriossa TTY:llä.
+    * Tämän vuoden alusta Yleisradioon. Päivätyöni on svenskan puolen sivujen päivittäminen.
+
+
+  - Miten ja miksi Yleisradioon
+    * Partahakemus -> Meemi.
+    * Hakemuksella 60k lukukertaa.
+    * Huomioitu kaikissa suurissa printtimedioissa.
+
+    
+  - Miten minä näen maailman:
+    * Tulevaisuudessa Internet on kaikkialla.
+    * Sosiaalinen media ohjaa ihmisten ajattelemista kuten perinteinen media nykyään.
+    * blogit, forumit, Facebook, Twitter...
+  - Mitä tämä tarkoittaa:
+    * Tieto liikkuu hyvin eri tavalla kuin vain 10 vuotta sitten.
+    * Tarkoittaa myös että tietoa kerätään valtavia määriä erilaisiin tietokantoihin.
+    * Tietoa on siten myös käytössä erilaisiin tarkoituksiin kuten esimerkiksi journalistisiin.
+
+2. Mitä asioita käsitellään:
+  - Visualisointi.
+  - Visuaalinen tarinankerronta.
+  - Datalähteet.
+  - Verkostoanalyysi.
+  - Datajournalismi.
+
+3. Visualisointi:
+  - Visualisointi on sitä että asioista helpommin visuaalisesti havaittavia:
+    * Viivadiagrammi, pylväsdiagrammi, piirakkadiagrammi, verkostovisualisointi, kartta, jne.
+  - Mitä hyötyä siitä visualisoimisesta on:
+    * Gource esimerkki viikkopalautuksista. 
+    * Kuvaa hyvin sitä miten visualisoinnilla voidaan vahvistaa sitä kuvaa joka on jo tiedossa, mutta samalla tehden siitä samalla mielenkiintoinen ja hauska.
+
+4. Visuaalinen tarinankerronta:
+  - Visualisointi voi olla muutakin kuin vain käyttäjän kannalta staattinen kuva tai video.
+  - Jens Finnaksen veroesimerkki:
+    * Käyttäjä kulkee tarinassa omalla tahdillaan. Visualisointi on pelillinen ja siten kiinnostava ja koukouttava.
+  - Jens Finnaksen 2. kierroksen ääntenjakauma:
+    * Käyttäjäinteraktio, käyttäjä voi itse rakentaa oman tarinansa.
+
+5. Datalähteet:
+  - Mistä dataa saadaan.
+  - Sosiaalisista verkostoista.
+    * Twitteristä ja Facebookista voidaan kerätä esimerkiksi 
+  - Erilaisista valtion- ja kaupunginvirastoista.
+
+6. Datajournalismi:
+  - Mitä datajournalismi on:
+  - Esimerkkejä maailmalta:
+    * WikiLeaks
+    * Norjan case: Breivik ja manifesti, tuhopoltot, Brennpunkt, Veljeskunta
+    * Helsingin Sanomat, HSnext, HSopen.
+    * Maailmalla: NY Times, BBC
+  - Omia esimerkkejä datajournalismista:
+    * Tuomas Enbuske esimerkki, data kaivettu Twitteristä journalistisen tarinan tueksi.
+    * OGD-finland esimerkki avoimen datan toimijoista ja asioista, data kerätty kyselyllä.
+    * Kansanedustajien keskenäiset Facebook-kaveruudet, data kerätty Facebookista.
+
+7. Aina netti ei toimi: 
+  - Sama yleisö, eri konteksti, osallistava -> ei vaikutusta
+
+8. Asiaan liittyvä koulutus.
+  - TTY:llä ja TAY:lla
+    * Hypermedialaboratorio kouluttaa TTY:llä web-suunnittelua, rakenteisia dokumentteja.
+    * TAY kouluttaa journalisteja.
+    * Näiden kahden toimijan välinen yhteistyö on todella hedelmällistä.
+
+  - Otavan opisto
+
+9. Asiaan liittyviä ihmisiä.
+  - Antti Poikola
+  - Petri Kola
+
+
+MUISTIINPANOT
+  - Datadrivenjournalism
+  - Visualstorytelling
+  - Datajournalismi.fi
+  - Blogit

@@ -1,0 +1,46 @@
+/*1337569007,169775813*/
+
+.lifeEventHeader, .lifeEventSubtitle, .lifeEventFBState{text-align:center}
+.lifeEventHeader{margin-bottom:16px}
+.lifeEventHeader .timelineAudienceSelector{margin-top:-3px}
+.lifeEventHeader .fbAudienceHover{left:4px;top:1px}
+.lifeEventSubtitle a{top:1px}
+.lifeEventStoryText{margin:20px 0}
+.fbTimelineOneColumn .lifeEventShortStory{margin:20px auto;width:510px}
+.lifeEventStoryText .text_exposed_root{text-align:left}
+.fbTimelineOneColumn .lifeEventStoryText .text_exposed_root{display:block;margin:0 auto;width:510px}
+.fbTimelineOneColumn .lifeEventStoryText .text_exposed_root br{display:none}
+.fbTimelineOneColumn .lifeEventStoryText .text_exposed{-webkit-column-count:2;-webkit-column-gap:30px;padding:0 15px;width:auto}
+.fbTimelineOneColumn .lifeEventStoryText .text_exposed br{display:block}
+.lifeEventTitle{font-size:18px;font-weight:bold}
+.lifeEventPhotoContainer{display:block;margin-left:-12px;margin-top:15px}
+.lifeEventPhoto{height:403px;margin:0 auto;width:403px}
+.fbTimelineOneColumn .lifeEventAddPhoto{width:817px}
+.fbTimelineOneColumn .lifeEventPhoto{height:403px;width:843px}
+.lifeEventAddPhotoContainer{margin-bottom:15px;position:relative}
+.fbTimelineMapContainerMLE .lifeEventAddPhotoContainer{margin-bottom:0}
+.fbTimelineOneColumn .fbTimelineMapContainerMLE .lifeEventAddPhotoContainer{display:inline-block;width:121px}
+.fbTimelineOneColumn .fbTimelineMapContainerMLE{width:830px}
+.fbTimelineOneColumn .fbTimelineMapContainerMLE .fbTimelineFlyoutMap{display:inline-block;margin-bottom:2px;width:721px}
+.lifeEventAddPhoto{background-color:#edeff4;border:1px solid #d2d5ea;color:#a4b5d4;font-size:25px;font-weight:bold;height:120px;line-height:120px;text-align:center;width:377px}
+.fbTimelineOneColumn .fbTimelineMapContainerMLE .lifeEventAddPhoto a{height:127px}
+.lifeEventAddPhoto a{color:#a4b5d4;display:block}
+.lifeEventAddPhoto a:hover{background-color:#dedfe7;text-decoration:none;color:#3b5998}
+.fbTimelineOneColumn .fbTimelineMapContainerMLE .lifeEventAddPhoto{border:none;float:right;font-size:15px;height:127px;line-height:30px;width:121px}
+.fbTimelineTwoColumn .fbTimelineMapContainerMLE .lifeEventAddPhoto{border:none;font-size:18px;height:60px;line-height:60px;margin-left:-12px;margin-bottom:0;width:403px}
+.imageLifeEventAdd{height:20px;margin-top:4px;padding-right:10px;vertical-align:text-top}
+.fbTimelineMapContainerMLE .imageLifeEventAdd{margin-top:0}
+.fbTimelineOneColumn .fbTimelineMapContainerMLE .imageLifeEventAdd{display:block;margin-left:45px;margin-right:auto;padding-top:50px}
+.hideAddPhoto{opacity:1;position:absolute;right:5px;top:5px}
+.afterHiddenText{text-align:center;color:gray;margin-top:20px}
+.fbTimelineMapCalloutUnit .fbTimelineMapContainerMLE{display:none}
+.fbTimelineOneColumn .relationshipImageContainer{height:374px;margin-left:-12px;width:843px}
+.fbTimelineTwoColumn .relationshipImageContainer{height:403px;margin-left:-12px;width:403px}
+.sp_bnorj6{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/yY/r/3qG7R451KJJ.png);background-repeat:no-repeat;display:inline-block;height:32px;width:32px}
+.sx_1dc350{width:10px;height:14px;background-position:-10px -99px}
+.selected .sx_1dc350{background-position:-0px -99px}
+.sx_017e1c{background-position:-0px -0px}
+.sx_b37703{background-position:-0px -33px}
+.sx_8fcc2c{background-position:-0px -66px}
+
+#bootloader_l9dFx { height: 42px; }

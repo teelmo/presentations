@@ -1,0 +1,91 @@
+h1 {
+  font-size: 90px;
+  margin-bottom: -20px;
+  line-height: 70px;
+  font-style: italic;
+}
+body {
+  background-image: url('../img/bg_body.jpeg');
+  font-family: "Helvetica Neue" !important;
+}
+.slide q {
+  font-size: 50px;
+  margin-left: 20px;
+}
+img.yleLogo {
+  width: 120px;
+  height: 120px;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
+
+div.slide h1 {
+  color: #000;
+}
+a:hover,
+a {
+  color: #18B5CA;
+  text-shadow: 0 0 0;
+}
+a:hover {
+  cursor: pointer;
+}
+.verysmall {
+  font-size: 20px !important;
+  line-height: 20px !important;
+}
+.smaller {
+  font-size: 38px !important;
+}
+.small {
+  font-size: 44px !important;
+}
+.right {
+  text-align: right;
+}
+.floatRight {
+  float: right;
+  text-align: right;
+}
+.floatLeft {
+  float: left;
+  text-align: left;
+}
+.yleLogo {
+  position: absolute; 
+  top: 0; 
+  right: 0;
+}
+img.border {
+  border: 1px solid #ccc;
+  box-shadow: 1px 1px 1px #000;
+}
+img.profileImg {
+  box-shadow: 12px 12px 12px #ccc;
+}
+credits {
+  font-size: 16px;
+  float: right;
+  text-align: right;
+}
+footnote {
+  position: absolute; 
+  bottom: 0; 
+  right: 12px;
+  font-size: 14px;
+}
+footnote a:hover,
+footnote a {
+  font-weight: bold;
+}
+footnote a {
+  text-decoration: none;
+  color: #666;
+}
+timeout {
+  font-size: 120px;
+}
+strong {
+  white-space: normal !important;
+}

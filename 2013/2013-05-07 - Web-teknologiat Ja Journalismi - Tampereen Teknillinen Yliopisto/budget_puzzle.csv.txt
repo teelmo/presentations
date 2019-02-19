@@ -1,0 +1,73 @@
+type,name,amount,category,info
+menoleikkaus,Oppisopimusjärjestelmä,80,Työllisyys,"Jos tuki menee vain niille, joille ei ole ammatillista peruskoulutusta"
+menoleikkaus,Oppisopimusjärjestelmä,100,Työllisyys,Jos tuki menee vain alle 25 v. nuorille
+menoleikkaus,Valmentava työvoimakoulutus,14,Työllisyys,
+menoleikkaus,Ammatillinen työvoimakoulutus,10,Työllisyys,
+menoleikkaus,Aikuiskoulutustuki,10,Työllisyys,Lasketaan tuen valtion rahoittamaan perusosaa opintotuen tasolle.
+menoleikkaus,Vuorotteluvapaa,36,Työllisyys,
+menoleikkaus,Asumisoikeusasuntojen korkotuki,15,Asuminen ja rakentaminen,
+menoleikkaus,Korkotukilainoitus,25,Asuminen ja rakentaminen,
+menoleikkaus,Avustukset erityisryhmille,10,Asuminen ja rakentaminen,
+menoleikkaus,Korjausavustukset,15,Asuminen ja rakentaminen,
+menoleikkaus,ASP-järjestelmä,1,Asuminen ja rakentaminen,
+menoleikkaus,Aineettomien investointien tukeminen (Tekes),30,Yritystuet,Leikataan Tekesin avustusvaltuuksia 10 prosenttia
+menoleikkaus,Suorat tuet,15,Yritystuet,"Yleisavustus elinkeinopolitiikan edistämiseksi, innovaatiokeskittymien kehittämiseen, kansainvälistymisavustus"
+menoleikkaus,Joukkoliikennepalvelujen ostot,70,Yritystuet,"Tuki joukkoliikenteelle, joka ei pärjää liiketaloudellisin perustein"
+menoleikkaus,Yritysten kehittämisavustukset ja alueiden kehittäminen,25,Yritystuet,Luovutaan alueperusteisesta yritystuesta (Maakunnan kehittämisraha + Kainuu)
+menoleikkaus,Avustus suomalaisten radio- ja tv-ohjelmien lähettämiseen ulkomaille,1.4,Yritystuet,
+menoleikkaus,Taiteen perusopetus,7,"Koulutus, tutkimus ja kulttuuri",Noin 10 prosentin leikkaus taiteen perusopetuksen valtionosuuteen
+menoleikkaus,Lukiokoulutus,33,"Koulutus, tutkimus ja kulttuuri",Lukioverkon karsiminen etäopetusta lisäämällä ja poistamalla pienille lukioille maksettava erityisosuus.
+menoleikkaus,Ammatillinen peruskoulutus,34,"Koulutus, tutkimus ja kulttuuri",Viiden prosentin rahoituksen leikkaus
+menoleikkaus,Vapaa sivistystyö,16,"Koulutus, tutkimus ja kulttuuri",10 prosentin rahoituksen leikkaus
+menoleikkaus,Ammatillinen lisäkoulutus,15,"Koulutus, tutkimus ja kulttuuri",10 prosentin rahoituksen leikkaus
+menoleikkaus,Kandintutkinto,30,"Koulutus, tutkimus ja kulttuuri",
+menoleikkaus,Ammattikorkeakoulujen rahoitus,40,"Koulutus, tutkimus ja kulttuuri",AMK-rahoituksen leikkaaminen 10 prosentilla (valtionosuudet).
+menoleikkaus,"Opintorahasta luopuminen, siirtyminen opintolainaan",388,"Koulutus, tutkimus ja kulttuuri",Korkeakouluopiskelijat
+menoleikkaus,Tilakustannukset Veikkaukselle,18.8,"Koulutus, tutkimus ja kulttuuri",
+menoleikkaus,Valtion taidemuseo Veikkaukselle,20,"Koulutus, tutkimus ja kulttuuri",
+menoleikkaus,"Veikkaus, Ray ja FIntoto toiminnat yhdistäminen",50,"Koulutus, tutkimus ja kulttuuri",
+menoleikkaus,Valtionosuusprosentin alentaminen kunnille,430,Julkiset palvelut,
+menoleikkaus,Lasten subjektiivinen päivähoito,21,Julkiset palvelut,"Oikeus osa-aikainen, kun ainakin toinen vanhemmista kotona (säästö valtionosuuksista)"
+menoleikkaus,Lasten subjektiivinen päivähoito,53,Julkiset palvelut,"Ei oikeutta, kun ainakin toinen vanhemmista kotona (säästö valtionosuuksista)"
+menoleikkaus,Sote-palveluiden maksujen korottaminen,50,Julkiset palvelut,
+menoleikkaus,Uusiutuvan energian tuki,30,"Ilmasto, energia, luonnonvarat, ympäristö","10 pros vähennys sovittuun ""uusiutuvan energian velvoitepakettiin"""
+menoleikkaus,Lapsilisä verotettavaksi tuloksi,500,Sosiaaliturva,"Valtio 100 m, kunnat 340, 20 kirkollisvero, 25 sairausvakuutuksen sairaanhoitomaksu"
+menoleikkaus,Lapsilisän leikkaaminen,130,Sosiaaliturva,Joka lapsesta 1. lapsen suuruista tukea
+menoleikkaus,Lapsilisän leikkaaminen,120,Sosiaaliturva,Kaikkien lasten lisää leikataan 10 e /kk
+menoleikkaus,Lapsilisää vain kaikkein pienituloisimmille,1100,Sosiaaliturva,
+menoleikkaus,Indeksien jäädytys: Työeläkkeet ja ansiosidonnaiset etuudet,120,Sosiaaliturva,
+menoleikkaus,Indeksien jäädytys: Perusturvaetuudet,190,Sosiaaliturva,"mm. kansaneläkkeet, työttömyysturva"
+menoleikkaus,Indeksien jäädytys: mm. lapsilisä ja elatustuki,55,Sosiaaliturva,
+menoleikkaus,Työttömyysputken ikärajan nosto kahdella vuodella ,17,Sosiaaliturva,
+menoleikkaus,"Työttömyysturva, ylläpitokustannukset",116,Sosiaaliturva,Aktiiviajan kustannukset
+menoleikkaus,Vuorotteluvapaan lakkauttaminen,35,Sosiaaliturva,
+menoleikkaus,Yksityisen hoidon Kela-korvaus pois,290,Sosiaaliturva,Lääkäripalkkiot 80 + hammaslääkäri 130 + tutkimuksen ja hoidon korvaukset 80
+menoleikkaus,Vanhuuseläkeiän alaraja 63->65,240,Sosiaaliturva,Vuoteen 2025 mennessä
+menoleikkaus,Osa-aikaeläke vähentää vanhuuseläkettä,18,Sosiaaliturva,
+menoleikkaus,"Leskeneläke pois ""riittävän suurta"" eläkettä nauttivilta",48,Sosiaaliturva,Vuoteen 2025 mennessä
+menoleikkaus,Maa- ja puutarhatalouden kansallinen tuki,50,Maa- ja metsätalouden tuet,Kansallisen tuen leikkaus 10 prosentilla
+menoleikkaus,Luonnonhaittakorvaus,30,Maa- ja metsätalouden tuet,"Osittain EU:n maksama, kansalliseen osuuteen 10 prosentien leikkaus"
+menoleikkaus,Maatalouden ympäristötuki,26,Maa- ja metsätalouden tuet,"Osittain EU:n maksama, kansalliseen osuuteen 10 prosentien leikkaus"
+menoleikkaus,Maksut Maatalouden kehittämisrahastoon,13,Maa- ja metsätalouden tuet,Leikkaus 10 prosenttia.
+menoleikkaus,Myydään 10 prosenttia valtion metsistä,220,Maa- ja metsätalouden tuet,Kertaluontoinen
+menoleikkaus,Puoluetoiminnan tukeminen,4,Muut,
+menoleikkaus,Kehitysyhteistyö - jäädytetään tuki vuoden 2011 tasolle,200,Muut,
+menoleikkaus,"Vähennetään edustustoja, lakkautetaan Eurooppa-tiedotus",22,Muut,
+menoleikkaus,Lähialueyhteistyö,8,Muut,
+menoleikkaus,Ministeriöiden matkakulujen pienentäminen työnjakoa parantamalla,5,Muut,
+menoleikkaus,Poliisin toimintamenot,8,Muut,
+menoleikkaus,Maahanmuuttoviraston toimintamenot,2,Muut,
+menoleikkaus,Kalastuksenhoitomaksun nosto ja perinnän tehostaminen,9,Muut,
+menoleikkaus,Väylien päivittäinen huolto ja ylläpito,46,Muut,Viiden prosentin leikkaus
+menoleikkaus,Ei uusia väylähankkeita 2014 ja 2015,113,Muut,
+menoleikkaus,Tampereen rantaväylähankkeen siirtäminen,31,Muut,Säästö vuonna 2015
+verotuki,Asuntolainakorkojen verotuen poistaminen asteittain,600,Asuminen ja rakentaminen,"2020-luvulla näin paljon, alussa vähemmän"
+verotuki,Kotitalousvähennys vain kodinhoitoon ja hoivaan,350,Työllisyys,
+verotuki,"Kotitalousvähennys enintään 2000 e / hlö, korvaus 30 %",250,Työllisyys,
+verotuki,Alennettujen alv-kantojen poistaminen,2560,Yrittäjyyteen liittyvät verotuet,
+verotuki,Taksien autoverohuojennus pois,27,Yrittäjyyteen liittyvät verotuet,
+verotuki,Kotimaisen elokuvan tuotantotuki verolle,8.2,Yrittäjyyteen liittyvät verotuet,
+verotuki,Maatalouden verotuki,48,"Ilmasto, energia, luonnonvarat, ympäristö",
+verotuki,Matkailuautojen autoverottomuus,63,"Ilmasto, energia, luonnonvarat, ympäristö",
+verotuki,Muuttoautojen autoveroetu,16,"Ilmasto, energia, luonnonvarat, ympäristö",
+verotuki,Vapaaehtoisten eläkevakuutusten vähennyskelpoisuus pois,170,Sosiaaliturva,

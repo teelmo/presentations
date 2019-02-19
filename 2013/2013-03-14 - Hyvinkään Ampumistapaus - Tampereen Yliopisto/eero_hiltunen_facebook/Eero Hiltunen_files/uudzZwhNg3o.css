@@ -1,0 +1,132 @@
+/*1337807106,169775556*/
+
+.albumPlaceTypeahead .placeTypeaheadWithIcon .wrap{background:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/yT/r/lYE6gSgmDvr.png) no-repeat -4px -5px;padding-left:15px}
+.albumPlaceTypeahead .placeTypeaheadWithIcon .selected{background:#e2e8f6 url(https://s-static.ak.fbcdn.net/rsrc.php/v1/yT/r/lYE6gSgmDvr.png)
+no-repeat -4px -5px}
+.albumPlaceTypeahead .PlacesTypeaheadView .selected{background-color:#6d84b4;border-color:#3b5998}
+.photoAlbumTitleNonEditable,
+.photoAlbumTitleInput{font-size:16px;font-weight:bold;padding:1px 3px 0;width:100%}
+.fbPhotoBulkEditor{margin-left:-20px;padding:10px 15px;position:relative}
+.sidebarMode .safari4 #editalbum .fbPhotoBulkEditor{-webkit-transform:translateZ(0)}
+.sidebarMode .safari4 #body #editalbum .fbPhotoBulkEditor{-webkit-transform:none}
+.showEmptyState .fbPhotoBulkEditor{height:314px}
+.fbPhotoBulkEditor .editablePhoto{display:inline-block;vertical-align:bottom;margin:0 0 15px 20px}
+.showEmptyState .fbPhotoBulkEditor .editablePhoto{display:none}
+.fbPhotoBulkEditor .photoBulkEditEmptyState{left:-10000px;position:absolute;top:-10000px}
+.showEmptyState .fbPhotoBulkEditor .photoBulkEditEmptyState{left:0;top:120px}
+.editablePhoto{position:relative;z-index:0}
+.editablePhoto .photoContextualSelector, .editablePhoto .removePhotoButton{display:none;position:absolute;right:-10px;top:-10px}
+.editablePhoto .photoWrap:hover .photoContextualSelector, .editablePhoto .photoWrap:hover .removePhotoButton{display:block}
+.photoContextualSelector .uiSelectorButton, .photoContextualSelector .uiSelectorButton:hover{border:1px solid #ccc;background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/yI/r/AShQNChNgfr.png);background-repeat:no-repeat;background-position:-2px -91px;height:17px;padding:0;width:17px}
+.photoContextualSelector .uiSelectorButton:hover{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/yI/r/AShQNChNgfr.png);background-repeat:no-repeat;background-position:-23px -91px}
+.photoContextualSelector .openToggler .uiSelectorButton, .photoContextualSelector .openToggler .uiSelectorButton:hover{border:1px solid #3b5998;background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/yI/r/AShQNChNgfr.png);background-repeat:no-repeat;background-position:-44px -91px;padding:0}
+.editablePhotoWillBeRemoved{opacity:.5;-webkit-transition:opacity 1s linear}
+.editablePhoto .photoWrap{position:relative}
+.editablePhoto .photoWrap.editablePhotoReady{background-color:#fff}
+.editablePhoto .removePhotoButton{right:5px;top:5px}
+.editablePhoto .photoWrap .statusBar{background-color:rgba(0, 0, 0, .5);bottom:0;color:#fff;left:0;opacity:0;position:absolute;right:0;-webkit-transition:opacity 1s linear}
+.editablePhotoNeedsHiRes .photoWrap .statusBar{opacity:1;-webkit-transition:opacity 0s linear}
+.editablePhoto .clickToTagMessage{background-color:#fff;border:1px solid #ccc;-webkit-box-shadow:0 1px 0 rgba(0, 0, 0, .1);cursor:crosshair;left:50%;margin-left:-65px;opacity:0;padding:2px 0 1px;position:absolute;text-align:center;top:5px;width:120px}
+.editablePhoto .photoWrap:hover .clickToTagMessage{opacity:1}
+.editablePhoto .border{border:1px solid #e6e6e6;border-color:rgba(0, 0, 0, .1);border-bottom-color:#bdc5ec;border-bottom-color:rgba(59, 89, 152, .35);bottom:0;cursor:crosshair;left:0;position:absolute;right:0;top:0}
+.editablePhoto .recognitionContainer{position:relative;margin:0 auto}
+.editablePhoto .photo{width:290px}
+.tallPhoto .photo{height:290px}
+.editablePhoto .inputs{position:relative;width:290px;z-index:0}
+.editablePhoto .captionTypeahead, .editablePhoto .captionTypeahead .wrap, .editablePhoto .placesTypeahead .wrap{border:0}
+.editablePhoto .placesTypeahead, .editablePhoto .backdateInput{border-width:1px;display:none}
+.editablePhoto.focusedInput{z-index:1}
+.editablePhoto .captionTypeahead .wrap{padding:5px}
+.editablePhoto .uiMentionsInput{border-color:#ddd;border-style:solid;border-width:0 0 1px;max-height:68px;overflow-x:hidden;overflow-y:auto}
+.editablePhoto .backdateInput{background-color:#fff;border:1px solid #ddd;padding:3px 0}
+.editablePhoto .backdateInput .photoBackdatedDatePicker{display:inline;margin-right:20px}
+.editablePhoto .backdateInput .confirmPhotoBackdate input{vertical-align:baseline}
+.backdateInput.backdating .savingBackdatedDate, .editablePhoto .confirmPhotoBackdate{display:inline}
+.editablePhoto .savingBackdatedDate, .backdateInput.backdating .confirmPhotoBackdate{display:none}
+.editablePhoto .highlighter{display:none}
+.editablePhoto .editablePhotoTagList{display:none;background-color:#fff;border:1px solid #ddd;height:64px;overflow-y:auto;padding:4px 0 0 3px}
+.editablePhoto .editablePhotoTagList .zeroTagMessage{margin-top:20px;text-align:center}
+.editablePhoto .editablePhotoTagList.hasPeople .zeroTagMessage{display:none}
+.editablePhoto .captionArea{background-color:#fff;border:solid #ddd;border-width:0 1px;position:relative;z-index:2}
+.editablePhoto .captionTextarea{height:55px;line-height:14px;padding:0;width:100%}
+.editablePhoto .metadataControls{height:30px;position:relative;z-index:1}
+.editablePhoto .metadataControls .inner{border-color:#ddd;bottom:0;left:0;line-height:0;position:absolute;right:0}
+.editablePhoto .metadataInputs{bottom:30px;display:none;left:0;position:absolute;right:0}
+.editablePhoto .metaIcon{border-right:1px solid #ddd;cursor:pointer;float:left;height:30px;outline:none;text-decoration:none;width:29px}
+.editablePhoto .peopleIcon{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/yI/r/AShQNChNgfr.png);background-repeat:no-repeat;background-position:-60px -111px}
+.editablePhoto .peopleIcon .count{display:none}
+.editablePhoto .dateIcon{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/yz/r/Xa4Engrwdwn.png);background-repeat:no-repeat;background-position:-112px -4px}
+.editablePhoto .placeIcon{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/yI/r/AShQNChNgfr.png);background-repeat:no-repeat;background-position:-120px -111px}
+.editablePhoto .peopleIcon.hasPeople{background:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/yZ/r/OSVLLjb_ppJ.png) no-repeat center left;width:auto}
+.editablePhoto .peopleIcon.hasPeople .count{display:block;font-weight:bold;margin:14px 10px 0 26px}
+.editablePhoto .dateIcon.hasDate{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/yz/r/Xa4Engrwdwn.png);background-repeat:no-repeat;background-position:-142px -4px}
+.editablePhoto .placeIcon.hasPlace{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/yI/r/AShQNChNgfr.png);background-repeat:no-repeat;background-position:-150px -111px}
+.editablePhoto .metadataInputs.people, .editablePhoto .metadataInputs.date, .editablePhoto .metadataInputs.place{display:block;z-index:2}
+.editablePhoto .metadataInputs.people .editablePhotoTagList, .editablePhoto .metadataInputs.date .backdateInput, .editablePhoto .metadataInputs.place .placesTypeahead{display:block}
+.editablePhoto .tagTokensScrollable{display:none}
+.editablePhoto .DOMControl_placeholder{color:#aaa}
+.editablePhoto .recognitionBox{position:absolute;opacity:0}
+.showRecognitionBoxes .recognitionBox{opacity:.3;-webkit-transition:opacity .3s ease-in}
+.showRecognitionBoxes .recognitionBox:hover{opacity:1;-webkit-transition:opacity .1s ease-in}
+.editablePhoto .recognitionBox .innerTagBox{border-width:2px}
+.editablePhoto .recognitionBox .tag{display:none}
+.editablePhotoPlaceholder{bottom:0;margin:5px;position:relative;width:290px}
+.editablePhotoPlaceholder .photoWrap{background:#f2f2f2;height:22px}
+.editablePhoto.editablePhotoPlaceholder .inputs{border-color:#fff;height:130px}
+.editablePhotoPlaceholder .border{display:none}
+.editablePhotoPlaceholderProgressBar{width:290px;margin-top:100px}
+.editablePhotoPlaceholderStatus{margin-top:5px;text-align:center}
+.editablePhotoErrorPlaceholder .photoWrap{height:292px}
+.editablePhotoErrorPlaceholder .error{text-align:center;margin:105px 30px 0;display:inline-block;width:240px}
+.editablePhotoErrorPlaceholder .error .title{font-weight:bold}
+.editablePhotoErrorPlaceholder .inputs{display:none}
+.photosBulkHeader{border:0;border-bottom:1px solid #ddd;-webkit-box-shadow:0 1px 0 rgba(0, 0, 0, .05);margin:-20px -20px 20px -20px;padding:15px 13px;width:960px;z-index:2}
+.photosBulkHeaderWrap, .photosBulkHeaderWrap .fixed_elem{height:74px;width:960px;z-index:2}
+.photosBulkHeader .grid{width:100%}
+.photosBulkHeader .albumInfoFields{width:330px}
+.photosBulkHeader .albumInfoFields input{border-color:#fff;outline:none;-webkit-transition:border-color .2s;width:330px}
+.photosBulkHeader .albumInfoFields input:hover, .photosBulkHeader .albumInfoFields input:focus{border-color:#bec7da}
+.photosBulkHeader .albumInfoFields .photoAlbumTitleInput:focus + .photoAlbumDescInput, .photosBulkHeader .albumInfoFields .photoAlbumTitleInput:hover + .photoAlbumDescInput:focus{border-top-color:transparent}
+.photosBulkHeader .albumEditFields{max-width:615px}
+.photosBulkHeader .albumEditFields .albumPlaceTypeahead{width:200px}
+.uiProgressiveDatepicker .period{position:relative;line-height:24px;white-space:nowrap}
+.uiProgressiveDatepicker .periodSelected{line-height:normal;white-space:normal}
+.uiProgressiveDatepicker .periodMenu{left:0;opacity:0;top:-4px;position:absolute}
+.uiProgressiveDatepicker .periodMenu:focus{opacity:1}
+.uiProgressiveDatepicker .periodSelected .periodMenu{opacity:1;position:static}
+.uiProgressiveDatepicker .periodSelected .periodLabel{display:none}
+.uiProgressiveDatepicker .periodFocus .periodLabel{opacity:0}
+.uiProgressiveDatepicker .periodLabel{margin-left:8px;zoom:1}
+.uiProgressiveDatepicker .period:hover .periodLabel{text-decoration:underline}
+.uiProgressiveDatepicker .period:hover .periodMenu{cursor:pointer}
+.uiProgressiveDatepicker .periodSelected:hover .periodMenu{cursor:default}
+.uiProgressiveDatepicker .period{margin-left:1px;display:none}
+.uiProgressiveDatepicker .periodYear{margin-left:0}
+.uiProgressiveDatepicker .periodYear, .uiProgressiveDatepickerSelected-year .periodMonth, .uiProgressiveDatepickerSelected-month .periodDay, .uiProgressiveDatepickerSelected-day .periodHour, .uiProgressiveDatepickerSelected-hour .periodMinute{display:inline}
+.cx-uiDialog__positioner{height:0;left:0;position:fixed;right:0;top:0;z-index:200}
+.modalWrapper.cx-uiDialog__positioner{height:auto;padding-bottom:40px}
+.cx-uiDialog__wrapper{margin:0 auto;position:relative}
+.cx-uiDialog__border{border:10px solid rgba(82, 82, 82, .7);-webkit-border-radius:8px}
+.cx-uiDialog__content{background-color:#fff;overflow-x:hidden;position:relative}
+.cx-uiDialog__title{background-color:#6d84b4;border:1px solid #3b5998;border-bottom:0;color:#fff;font-size:14px;font-weight:bold}
+.cx-uiDialog__body, .cx-uiDialog__footer{border-color:#555;border-style:solid;border-width:0 1px}
+.cx-uiDialog__footer{border-bottom-width:1px}
+.cx-uiDialog__loadingDialog{z-index:400}
+.cx-uiDialog__loadingText{background-color:#f2f2f2;font-size:24px;padding:10px}
+div.modalWrapper{background-color:rgba(255, 255, 255, .8);bottom:0;left:0;overflow-x:hidden;overflow-y:scroll;position:fixed;right:0;top:0;z-index:400}
+.modalOpen{overflow:hidden}
+.modalOpen #blueBar, .modalOpen .fbChatSidebar, .modalOpen .fbDockWrapper{z-index:50}
+.letterboxedImage{position:relative}
+.verticallyCentered .scaledImage{position:absolute;top:50%}
+.letterboxedImage .scaledImage{margin:0 auto}
+.sp_hq3dkz{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v2/y6/r/Sn8URR2YafD.png);background-repeat:no-repeat;display:inline-block;height:12px;width:11px}
+.sx_8808f4{background-position:-0px -0px}
+.sx_1e5e85{width:6px;height:6px;background-position:-0px -13px}
+.supportForm .paragraphWidth{width:400px}
+.supportForm .fadeEffect{opacity:.15}
+.supportForm .alwaysHiddenElem{display:none}
+.cfUploadedFileBox{padding:0;margin-bottom:5px}
+.cfUploadedFile{padding:5px}
+.cfUploadFileIFrame{height:1px;position:absolute;top:-10000px;width:1px}
+
+#bootloader_xZl9v { height: 42px; }

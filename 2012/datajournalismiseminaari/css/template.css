@@ -1,0 +1,50 @@
+body {
+  background-image: url('../img/bg_body.jpeg');
+  font-family: "Helvetica Neue" !important;
+}
+div#loppu img,
+div#datajournalismi img {
+  margin: 70px 0 80px 200px;
+}
+div.logo {
+  background-position: right center; background-repeat: no-repeat;
+  height: 74px;
+  position: absolute;
+  right: 8px;
+  top: 8px;
+  width: 144px;
+}
+div.logo_1 { background-image: url('../img/aalto_logo_1.png'); }
+div.logo_2 { background-image: url('../img/aalto_logo_2.png'); }
+div.logo_3 { background-image: url('../img/aalto_logo_3.png'); }
+div.slide q {
+  font-size: 50px;
+}
+div.slide q {
+  margin-left: 50px;
+}
+img.yleLogo {
+  width: 120px;
+  height: 120px;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
+footnote {
+  display: block;
+  position: absolute; 
+  bottom: 0; 
+  right: 12px;
+  font-size: 14px;
+}
+footnote a:hover,
+footnote a {
+  font-weight: bold;
+}
+footnote a {
+  text-decoration: none;
+  color: #666;
+}
+footnote img {
+  vertical-align: -7%;
+}

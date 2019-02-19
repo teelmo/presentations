@@ -1,0 +1,2566 @@
+<?xml version="1.0"?>
+<log>
+<logentry
+   revision="1">
+<author>teelmo</author>
+<date>2009-09-22T07:49:58.154700Z</date>
+<paths>
+<path
+   action="A">/Tutkimussuunitelma/Testivienti Lyxiin/testi.pdf</path>
+<path
+   action="A">/Tutkimussuunitelma/Testivienti Lyxiin</path>
+<path
+   action="A">/Tutkimussuunitelma/lahteet.log</path>
+<path
+   action="A">/Tutkimussuunitelma/Testivienti Lyxiin/testi.lyx</path>
+<path
+   action="A">/Diplomityo/di-tyo.lyx</path>
+<path
+   action="A">/Tutkimussuunitelma/Testivienti Lyxiin/testi.dvi</path>
+<path
+   action="A">/Tutkimussuunitelma/tapaustutkimus.lyx</path>
+<path
+   action="A">/Tutkimussuunitelma/aikataulu.tex</path>
+<path
+   action="A">/Tutkimussuunitelma/keskeiset_kasitteet.log</path>
+<path
+   action="A">/Tutkimussuunitelma/lahteet.tex</path>
+<path
+   action="A">/Tutkimussuunitelma/aineiston_hankinta.log</path>
+<path
+   action="A">/Tutkimussuunitelma/tutkimuksen_tavoitteet.tex</path>
+<path
+   action="A">/Tutkimussuunitelma/aineisto.log</path>
+<path
+   action="A">/Tutkimussuunitelma/aikataulu.lyx</path>
+<path
+   action="A">/Tutkimussuunitelma/alustava_sisallysluettelo.txt</path>
+<path
+   action="A">/Diplomityo/Opinnaytteen_kirjoittaminen_TTYssa.pdf</path>
+<path
+   action="A">/Tutkimussuunitelma/Testivienti Lyxiin/testi.tps</path>
+<path
+   action="A">/Tutkimussuunitelma/lahteet.lyx</path>
+<path
+   action="A">/Diplomityo/Harjoituistyoohje2008.pdf</path>
+<path
+   action="A">/Tutkimussuunitelma/keskeiset_kasitteet.tex</path>
+<path
+   action="A">/Tutkimussuunitelma/aineiston_hankinta.tex</path>
+<path
+   action="A">/Diplomityo/TUT-hypermedia-logo-english.png</path>
+<path
+   action="A">/Tutkimussuunitelma/tutkimuksen_tavoitteet.lyx</path>
+<path
+   action="A">/Tutkimussuunitelma/tutkimuksen_taustat.log</path>
+<path
+   action="A">/Tutkimussuunitelma/aineisto.tex</path>
+<path
+   action="A">/Tutkimussuunitelma/tyoryhma.tex</path>
+<path
+   action="A">/Tutkimussuunitelma/Testivienti Lyxiin/testi.log</path>
+<path
+   action="A">/Tutkimussuunitelma/Testivienti Lyxiin/testi.ps</path>
+<path
+   action="A">/TUT-hypermedia-logo-english.png</path>
+<path
+   action="A">/Tutkimussuunitelma/keskeiset_kasitteet.lyx</path>
+<path
+   action="A">/Diplomityo/di-tyo.txt</path>
+<path
+   action="A">/Tutkimussuunitelma/aineiston_hankinta.lyx</path>
+<path
+   action="A">/Tutkimussuunitelma/Testivienti Lyxiin/testi.tcp</path>
+<path
+   action="A">/Diplomityo/Tuta_opinnaytetyoohje_2007.pdf</path>
+<path
+   action="A">/Tutkimussuunitelma/aineisto.lyx</path>
+<path
+   action="A">/Tutkimussuunitelma/tutkimuksen_taustat.tex</path>
+<path
+   action="A">/Tutkimussuunitelma/tyoryhma.lyx</path>
+<path
+   action="A">/Tutkimussuunitelma/Testivienti Lyxiin/testi.aux</path>
+<path
+   action="A">/Tutkimussuunitelma/Testivienti Lyxiin/testi.bbl</path>
+<path
+   action="A">/Tutkimussuunitelma/Testivienti Lyxiin/testi.tex</path>
+<path
+   action="A">/Diplomityo</path>
+<path
+   action="A">/Tutkimussuunitelma/Testivienti Lyxiin/testi.blg</path>
+<path
+   action="A">/Tutkimussuunitelma/aikataulu.log</path>
+<path
+   action="A">/Tutkimussuunitelma</path>
+<path
+   action="A">/Tutkimussuunitelma/tapaustutkimus.tex</path>
+<path
+   action="A">/Diplomityo/Biblio-Bibtex.bib</path>
+<path
+   action="A">/Tutkimussuunitelma/tutkimuksen_taustat.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="2">
+<author>teelmo</author>
+<date>2009-09-22T10:25:00.547504Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="3">
+<author>teelmo</author>
+<date>2009-09-22T10:25:11.011400Z</date>
+<paths>
+<path
+   action="A">/Diplomityo/wwwsovellukset.jpg</path>
+</paths>
+</logentry>
+<logentry
+   revision="4">
+<author>teelmo</author>
+<date>2009-09-22T10:29:55.803449Z</date>
+<paths>
+<path
+   action="A">/Diplomityo/Apache httpdn asetukset _ Linux.fi.URL</path>
+<path
+   action="A">/Diplomityo/www-palvelimet.pdf</path>
+<path
+   action="A">/Diplomityo/Ohjeet</path>
+<path
+   action="A">/Diplomityo/di-tyo.lyx~</path>
+<path
+   copyfrom-path="/Diplomityo/Opinnaytteen_kirjoittaminen_TTYssa.pdf"
+   copyfrom-rev="1"
+   action="A">/Diplomityo/Ohjeet/Opinnaytteen_kirjoittaminen_TTYssa.pdf</path>
+<path
+   copyfrom-path="/Diplomityo/Harjoituistyoohje2008.pdf"
+   copyfrom-rev="1"
+   action="A">/Diplomityo/Ohjeet/Harjoituistyoohje2008.pdf</path>
+<path
+   copyfrom-path="/Diplomityo/Tuta_opinnaytetyoohje_2007.pdf"
+   copyfrom-rev="1"
+   action="A">/Diplomityo/Ohjeet/Tuta_opinnaytetyoohje_2007.pdf</path>
+<path
+   action="D">/Diplomityo/Opinnaytteen_kirjoittaminen_TTYssa.pdf</path>
+<path
+   action="D">/Diplomityo/Harjoituistyoohje2008.pdf</path>
+<path
+   action="A">/Diplomityo/Kaytetyt lahteet</path>
+<path
+   action="D">/Diplomityo/Tuta_opinnaytetyoohje_2007.pdf</path>
+<path
+   action="A">/Diplomityo/Lahteet</path>
+</paths>
+</logentry>
+<logentry
+   revision="5">
+<author>teelmo</author>
+<date>2009-09-22T10:30:39.353154Z</date>
+<paths>
+<path
+   action="A">/Diplomityo/Kuvat</path>
+<path
+   action="D">/Diplomityo/www-palvelimet.pdf</path>
+<path
+   action="D">/Diplomityo/di-tyo.lyx~</path>
+<path
+   copyfrom-path="/Diplomityo/www-palvelimet.pdf"
+   copyfrom-rev="4"
+   action="A">/Diplomityo/Lahteet/www-palvelimet.pdf</path>
+</paths>
+</logentry>
+<logentry
+   revision="6">
+<author>teelmo</author>
+<date>2009-09-22T10:31:18.883864Z</date>
+<paths>
+<path
+   action="D">/Diplomityo/Apache httpdn asetukset _ Linux.fi.URL</path>
+<path
+   action="D">/Diplomityo/TUT-hypermedia-logo-english.png</path>
+<path
+   copyfrom-path="/Diplomityo/wwwsovellukset.jpg"
+   copyfrom-rev="3"
+   action="A">/Diplomityo/Kuvat/wwwsovellukset.jpg</path>
+<path
+   copyfrom-path="/Diplomityo/Apache httpdn asetukset _ Linux.fi.URL"
+   copyfrom-rev="4"
+   action="A">/Diplomityo/Lahteet/Apache httpdn asetukset _ Linux.fi.URL</path>
+<path
+   copyfrom-path="/Diplomityo/TUT-hypermedia-logo-english.png"
+   copyfrom-rev="1"
+   action="A">/Diplomityo/Kuvat/TUT-hypermedia-logo-english.png</path>
+<path
+   action="D">/Diplomityo/wwwsovellukset.jpg</path>
+</paths>
+</logentry>
+<logentry
+   revision="7">
+<author>teelmo</author>
+<date>2009-09-22T10:34:34.195975Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="8">
+<author>teelmo</author>
+<date>2009-09-22T10:44:34.883287Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="9">
+<author>teelmo</author>
+<date>2009-09-28T08:22:47.751804Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="10">
+<author>teelmo</author>
+<date>2009-10-02T10:39:39.457315Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="11">
+<author>teelmo</author>
+<date>2009-10-02T10:50:59.883901Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="12">
+<author>teelmo</author>
+<date>2009-10-02T11:43:51.464088Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="13">
+<author>teelmo</author>
+<date>2009-10-06T09:21:37.355304Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="14">
+<author>teelmo</author>
+<date>2009-10-15T07:40:31.825861Z</date>
+<paths>
+<path
+   action="A">/Diplomityo/Kuvat/django.xcf</path>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="15">
+<author>teelmo</author>
+<date>2009-11-04T12:51:55.953630Z</date>
+<paths>
+<path
+   action="A">/Diplomityo/Kuvat/host.png</path>
+<path
+   action="A">/Diplomityo/Kuvat/ping.png</path>
+<path
+   action="A">/Diplomityo/Kuvat/timeplot.png</path>
+<path
+   action="A">/Diplomityo/Kuvat/ext3.0.0.png</path>
+<path
+   action="M">/Diplomityo/Kuvat/wwwsovellukset.jpg</path>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+<path
+   action="A">/Diplomityo/Kuvat/wwwsovellukset.png</path>
+</paths>
+</logentry>
+<logentry
+   revision="16">
+<author>teelmo</author>
+<date>2009-11-04T20:03:01.226361Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="17">
+<author>teelmo</author>
+<date>2009-11-05T10:14:23.843774Z</date>
+<paths>
+<path
+   action="A">/Diplomityo/Kuvat/xmldokumentti.jpg</path>
+</paths>
+</logentry>
+<logentry
+   revision="18">
+<author>teelmo</author>
+<date>2009-11-05T11:39:44.821421Z</date>
+<paths>
+<path
+   action="A">/Diplomityo/Kuvat/google_analytics.png</path>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+<path
+   action="A">/Diplomityo/Kuvat/xmldokumentti.png</path>
+<path
+   action="A">/Diplomityo/Kuvat/awstats.png</path>
+</paths>
+</logentry>
+<logentry
+   revision="19">
+<author>teelmo</author>
+<date>2009-11-06T10:17:21.391844Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+<path
+   action="M">/Diplomityo/Biblio-Bibtex.bib</path>
+</paths>
+</logentry>
+<logentry
+   revision="20">
+<author>teelmo</author>
+<date>2009-11-13T15:36:16.402950Z</date>
+<paths>
+<path
+   action="A">/Diplomityo/article.bib</path>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+<path
+   action="A">/Diplomityo/book.bib</path>
+<path
+   action="M">/Diplomityo/Biblio-Bibtex.bib</path>
+<path
+   action="A">/Diplomityo/masterthesis.bib</path>
+<path
+   action="A">/Diplomityo/misc.bib</path>
+</paths>
+</logentry>
+<logentry
+   revision="21">
+<author>teelmo</author>
+<date>2009-11-13T15:36:51.704802Z</date>
+<paths>
+<path
+   action="A">/Diplomityo/Kuvat/asiakas-palvelin-malli.png</path>
+<path
+   action="A">/Diplomityo/Lahteet/Hyperteksti.txt</path>
+<path
+   action="A">/Diplomityo/Lahteet/di_antti_everi.pdf</path>
+<path
+   action="A">/Diplomityo/Ohjeet/bibtex.pdf</path>
+<path
+   action="D">/Diplomityo/Biblio-Bibtex.bib</path>
+<path
+   action="A">/Diplomityo/Ohjeet/bibstyles.pdf</path>
+</paths>
+</logentry>
+<logentry
+   revision="22">
+<author>teelmo</author>
+<date>2009-11-14T19:49:37.306045Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/article.bib</path>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+<path
+   action="M">/Diplomityo/book.bib</path>
+<path
+   action="M">/Diplomityo/masterthesis.bib</path>
+<path
+   action="M">/Diplomityo/misc.bib</path>
+</paths>
+</logentry>
+<logentry
+   revision="23">
+<author>teelmo</author>
+<date>2009-11-16T13:52:52.838809Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/article.bib</path>
+<path
+   action="A">/Diplomityo/newspaper.bib</path>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+<path
+   action="M">/Diplomityo/book.bib</path>
+<path
+   action="M">/Diplomityo/misc.bib</path>
+</paths>
+</logentry>
+<logentry
+   revision="24">
+<author>teelmo</author>
+<date>2009-11-17T11:13:09.373480Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+<path
+   action="M">/Diplomityo/masterthesis.bib</path>
+</paths>
+</logentry>
+<logentry
+   revision="25">
+<author>teelmo</author>
+<date>2009-11-17T21:21:08.809951Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+<path
+   action="M">/Diplomityo/misc.bib</path>
+</paths>
+</logentry>
+<logentry
+   revision="26">
+<author>teelmo</author>
+<date>2009-11-24T15:28:12.853461Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+<path
+   action="M">/Diplomityo/misc.bib</path>
+</paths>
+</logentry>
+<logentry
+   revision="27">
+<author>teelmo</author>
+<date>2009-11-24T15:51:13.305164Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="28">
+<author>teelmo</author>
+<date>2009-11-24T20:36:57.315968Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="29">
+<author>teelmo</author>
+<date>2009-11-26T10:35:07.278066Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="30">
+<author>teelmo</author>
+<date>2009-11-26T11:52:23.724351Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="31">
+<author>teelmo</author>
+<date>2009-11-26T14:20:58.805732Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="32">
+<author>teelmo</author>
+<date>2009-11-26T14:33:04.787076Z</date>
+<paths>
+<path
+   action="A">/Diplomityo/Versiot/2009-11-17-di-tyo_kommentoitavaksi_teemo_tebest_190030_v1.pdf</path>
+<path
+   action="A">/Diplomityo/Versiot</path>
+<path
+   action="A">/Diplomityo/Versiot/2009-11-26-di-tyo_kommentoitavaksi_teemo_tebest_190030_v2.pdf</path>
+</paths>
+</logentry>
+<logentry
+   revision="33">
+<author>teelmo</author>
+<date>2009-11-30T09:00:39.471432Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="34">
+<author>teelmo</author>
+<date>2009-12-07T09:26:32.861490Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="35">
+<author>teelmo</author>
+<date>2009-12-07T11:22:02.479769Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="36">
+<author>teelmo</author>
+<date>2009-12-07T13:55:56.377453Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+<path
+   action="M">/Diplomityo/misc.bib</path>
+</paths>
+</logentry>
+<logentry
+   revision="37">
+<author>teelmo</author>
+<date>2010-01-25T11:31:21.738599Z</date>
+<paths>
+<path
+   action="A">/Diplomityo/Kuvat/luettu.png</path>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+<path
+   action="M">/Diplomityo/misc.bib</path>
+</paths>
+</logentry>
+<logentry
+   revision="38">
+<author>teelmo</author>
+<date>2010-01-25T13:15:47.272259Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/Kuvat/luettu.png</path>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+<path
+   action="M">/Diplomityo/misc.bib</path>
+</paths>
+</logentry>
+<logentry
+   revision="39">
+<author>teelmo</author>
+<date>2010-01-25T13:17:31.574984Z</date>
+<paths>
+<path
+   action="A">/Diplomityo/Versiot/2010-01-25-di-tyo_teemo_tebest_190030_v2.pdf</path>
+</paths>
+</logentry>
+<logentry
+   revision="40">
+<author>teelmo</author>
+<date>2010-01-25T13:25:45.552251Z</date>
+<paths>
+<path
+   action="D">/Diplomityo/Versiot/2010-01-25-di-tyo_teemo_tebest_190030_v2.pdf</path>
+<path
+   copyfrom-path="/Diplomityo/Versiot/2010-01-25-di-tyo_teemo_tebest_190030_v2.pdf"
+   copyfrom-rev="39"
+   action="A">/Diplomityo/Versiot/2010-01-25-di-tyo_teemo_tebest_190030_v3.pdf</path>
+</paths>
+</logentry>
+<logentry
+   revision="41">
+<author>teelmo</author>
+<date>2010-01-26T09:17:41.293051Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="42">
+<author>teelmo</author>
+<date>2010-01-26T11:57:22.851179Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+<path
+   action="M">/Diplomityo/misc.bib</path>
+</paths>
+</logentry>
+<logentry
+   revision="43">
+<author>teelmo</author>
+<date>2010-01-26T15:19:21.832317Z</date>
+<paths>
+<path
+   action="A">/Diplomityo/Versiot/2010-01-26-di-tyo_kommentoitavaksi_teemo_tebest_190030_v4.pdf</path>
+</paths>
+</logentry>
+<logentry
+   revision="44">
+<author>teelmo</author>
+<date>2010-01-28T13:09:26.317051Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="45">
+<author>teelmo</author>
+<date>2010-02-03T13:58:50.261145Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="46">
+<author>teelmo</author>
+<date>2010-02-04T08:28:25.673141Z</date>
+<paths>
+<path
+   action="A">/Diplomityo/Versiot/2010-02-04-di-tyo_kommentoitavaksi_teemo_tebest_190030_v5.pdf</path>
+</paths>
+</logentry>
+<logentry
+   revision="47">
+<author>teelmo</author>
+<date>2010-02-09T12:09:49.468072Z</date>
+<paths>
+<path
+   action="A">/Diplomityo/Ohjeet/apacite.pdf</path>
+</paths>
+</logentry>
+<logentry
+   revision="48">
+<author>teelmo</author>
+<date>2010-02-09T12:10:08.259041Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/book.bib</path>
+</paths>
+</logentry>
+<logentry
+   revision="49">
+<author>teelmo</author>
+<date>2010-02-09T13:18:52.313790Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/article.bib</path>
+<path
+   action="M">/Diplomityo/newspaper.bib</path>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+<path
+   action="M">/Diplomityo/book.bib</path>
+<path
+   action="M">/Diplomityo/misc.bib</path>
+</paths>
+</logentry>
+<logentry
+   revision="50">
+<author>teelmo</author>
+<date>2010-02-09T14:41:40.710360Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="51">
+<author>teelmo</author>
+<date>2010-02-09T16:23:52.090962Z</date>
+<paths>
+<path
+   action="A">/Diplomityo/Ohjeet/031_dipl.ins.pdf</path>
+<path
+   action="A">/Diplomityo/Ohjeet/apalike_fi.bst</path>
+<path
+   action="A">/Diplomityo/Ohjeet/d-tyo.tex</path>
+<path
+   action="A">/Diplomityo/Ohjeet/2009-2010-aikataulut-tst.pdf</path>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+<path
+   action="A">/Diplomityo/Ohjeet/Opinto_opasI_2003_2004.pdf</path>
+<path
+   action="A">/Diplomityo/Ohjeet/kesaopetus2009.pdf</path>
+</paths>
+</logentry>
+<logentry
+   revision="52">
+<author>teelmo</author>
+<date>2010-02-10T16:57:13.190474Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+<path
+   action="A">/vanha_rakenne.txt</path>
+<path
+   action="M">/Diplomityo/misc.bib</path>
+</paths>
+</logentry>
+<logentry
+   revision="53">
+<author>teelmo</author>
+<date>2010-02-11T16:43:33.015452Z</date>
+<paths>
+<path
+   action="A">/Diplomityo/Versiot/2010-02-11-di-tyo_kommentoitavaksi_teemo_tebest_190030_v6.pdf</path>
+</paths>
+</logentry>
+<logentry
+   revision="54">
+<author>teelmo</author>
+<date>2010-02-11T19:44:14.768035Z</date>
+<paths>
+<path
+   action="A">/Diplomityo/Kuvat/lapinakyvyys.png</path>
+<path
+   action="A">/Diplomityo/Kuvat/asettelu.png</path>
+</paths>
+</logentry>
+<logentry
+   revision="55">
+<author>teelmo</author>
+<date>2010-02-11T19:44:38.856386Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/article.bib</path>
+</paths>
+</logentry>
+<logentry
+   revision="56">
+<author>teelmo</author>
+<date>2010-02-11T19:46:04.236546Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="57">
+<author>teelmo</author>
+<date>2010-02-15T10:12:30.265827Z</date>
+<paths>
+<path
+   action="A">/Diplomityo/Ohjeet/muualla_suoritetut_opinnot.pdf</path>
+<path
+   action="A">/Diplomityo/Lahteet/l9a_visuaalinen_suunnittelu_6.pdf</path>
+</paths>
+</logentry>
+<logentry
+   revision="58">
+<author>teelmo</author>
+<date>2010-02-15T18:41:23.660802Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+<path
+   action="M">/Diplomityo/book.bib</path>
+<path
+   action="M">/Diplomityo/masterthesis.bib</path>
+<path
+   action="M">/Diplomityo/misc.bib</path>
+</paths>
+</logentry>
+<logentry
+   revision="59">
+<author>teelmo</author>
+<date>2010-02-15T19:29:48.965492Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/book.bib</path>
+</paths>
+</logentry>
+<logentry
+   revision="60">
+<author>teelmo</author>
+<date>2010-02-16T07:46:28.638509Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="61">
+<author>teelmo</author>
+<date>2010-02-16T10:20:50.801816Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="62">
+<author>teelmo</author>
+<date>2010-02-16T12:06:04.058134Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+<path
+   action="M">/Diplomityo/masterthesis.bib</path>
+</paths>
+</logentry>
+<logentry
+   revision="63">
+<author>teelmo</author>
+<date>2010-02-16T12:53:30.117636Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+<path
+   action="M">/Diplomityo/misc.bib</path>
+</paths>
+</logentry>
+<logentry
+   revision="64">
+<author>teelmo</author>
+<date>2010-02-16T15:57:15.837102Z</date>
+<paths>
+<path
+   action="A">/Diplomityo/Kuvat/ttylogsu8.jpg</path>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+<path
+   action="M">/Diplomityo/misc.bib</path>
+</paths>
+</logentry>
+<logentry
+   revision="65">
+<author>teelmo</author>
+<date>2010-02-16T16:48:43.108983Z</date>
+<paths>
+<path
+   action="A">/Diplomityo/Versiot/2010-02-16-di-tyo_kommentoitavaksi_teemo_tebest_190030_v7.pdf</path>
+</paths>
+</logentry>
+<logentry
+   revision="66">
+<author>teelmo</author>
+<date>2010-02-16T18:21:56.487283Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+<path
+   action="M">/Diplomityo/book.bib</path>
+</paths>
+</logentry>
+<logentry
+   revision="67">
+<author>teelmo</author>
+<date>2010-02-16T18:22:25.840938Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="68">
+<author>teelmo</author>
+<date>2010-02-18T12:02:30.227632Z</date>
+<paths>
+<path
+   action="A">/Diplomityo/Kuvat/visualization-stages.png</path>
+</paths>
+</logentry>
+<logentry
+   revision="69">
+<author>teelmo</author>
+<date>2010-02-19T12:50:26.760620Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+<path
+   action="M">/Diplomityo/book.bib</path>
+</paths>
+</logentry>
+<logentry
+   revision="70">
+<author>teelmo</author>
+<date>2010-02-19T15:15:51.268450Z</date>
+<paths>
+<path
+   action="A">/Diplomityo/Kuvat/erimenu_yksityiskayttajat_total.png</path>
+<path
+   action="A">/Diplomityo/Kuvat/erimenu_yksityiskayttajat_2008_12.png</path>
+<path
+   action="A">/Diplomityo/Kuvat/erimenu_yksityiskayttajat_2009_12.png</path>
+</paths>
+</logentry>
+<logentry
+   revision="71">
+<author>teelmo</author>
+<date>2010-02-19T18:19:10.248767Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+<path
+   action="M">/Diplomityo/book.bib</path>
+</paths>
+</logentry>
+<logentry
+   revision="72">
+<author>teelmo</author>
+<date>2010-02-20T08:29:29.952136Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+<path
+   action="M">/Diplomityo/misc.bib</path>
+</paths>
+</logentry>
+<logentry
+   revision="73">
+<author>teelmo</author>
+<date>2010-02-20T08:43:05.437314Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="74">
+<author>teelmo</author>
+<date>2010-02-20T09:03:25.781095Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="75">
+<author>teelmo</author>
+<date>2010-02-20T10:04:49.239006Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="76">
+<author>teelmo</author>
+<date>2010-02-20T10:31:58.511752Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="77">
+<author>teelmo</author>
+<date>2010-02-22T08:56:03.765404Z</date>
+<paths>
+<path
+   action="A">/Diplomityo/Kuvat/googlemaps.png</path>
+<path
+   action="A">/Diplomityo/Kuvat/lokitiedon_vienti.png</path>
+<path
+   action="A">/Diplomityo/Kuvat/erimenu_yksityiskayttajat_kertyma.png</path>
+</paths>
+</logentry>
+<logentry
+   revision="78">
+<author>teelmo</author>
+<date>2010-02-22T10:28:49.561838Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="79">
+<author>teelmo</author>
+<date>2010-02-22T10:34:08.483908Z</date>
+<paths>
+<path
+   action="A">/Diplomityo/Kuvat/erimenu_paikkakunnat_2008-01-2008-12.png</path>
+<path
+   action="A">/Diplomityo/Kuvat/erimenu_paikkakunnat_2008-01-2009-12.png</path>
+</paths>
+</logentry>
+<logentry
+   revision="80">
+<author>teelmo</author>
+<date>2010-02-22T11:43:28.967172Z</date>
+<paths>
+<path
+   action="A">/Diplomityo/Kuvat/erimenu_paikkakunnat_vertailu.PNG</path>
+<path
+   action="M">/Diplomityo/Kuvat/erimenu_paikkakunnat_2008-01-2008-12.png</path>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+<path
+   action="M">/Diplomityo/Kuvat/erimenu_paikkakunnat_2008-01-2009-12.png</path>
+</paths>
+</logentry>
+<logentry
+   revision="81">
+<author>teelmo</author>
+<date>2010-02-22T13:01:08.564503Z</date>
+<paths>
+<path
+   action="A">/Diplomityo/Kommentoidut/2010-02-16-di-tyo_kommentoitavaksi_teemo_tebest_190030_v7-1.pdf</path>
+<path
+   action="A">/Diplomityo/Kommentoidut</path>
+</paths>
+</logentry>
+<logentry
+   revision="82">
+<author>teelmo</author>
+<date>2010-02-22T13:02:43.135473Z</date>
+<paths>
+<path
+   action="D">/Diplomityo/Kuvat/erimenu_paikkakunnat_vertailu.PNG</path>
+<path
+   copyfrom-path="/Diplomityo/Kuvat/erimenu_paikkakunnat_vertailu.PNG"
+   copyfrom-rev="81"
+   action="A">/Diplomityo/Kuvat/erimenu_paikkakunnat_vertailu.PNG1</path>
+</paths>
+</logentry>
+<logentry
+   revision="83">
+<author>teelmo</author>
+<date>2010-02-22T13:03:33.906865Z</date>
+<paths>
+<path
+   copyfrom-path="/Diplomityo/Kuvat/erimenu_paikkakunnat_vertailu.PNG1"
+   copyfrom-rev="82"
+   action="A">/Diplomityo/Kuvat/erimenu_paikkakunnat_vertailu.png</path>
+</paths>
+</logentry>
+<logentry
+   revision="84">
+<author>teelmo</author>
+<date>2010-02-22T13:03:49.692314Z</date>
+<paths>
+<path
+   action="D">/Diplomityo/Kuvat/erimenu_paikkakunnat_vertailu.PNG1</path>
+</paths>
+</logentry>
+<logentry
+   revision="85">
+<author>teelmo</author>
+<date>2010-02-23T14:02:37.246433Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+<path
+   action="M">/Diplomityo/book.bib</path>
+<path
+   action="M">/Diplomityo/misc.bib</path>
+</paths>
+</logentry>
+<logentry
+   revision="86">
+<author>teelmo</author>
+<date>2010-02-24T08:28:42.883972Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+<path
+   action="M">/Diplomityo/misc.bib</path>
+</paths>
+</logentry>
+<logentry
+   revision="87">
+<author>teelmo</author>
+<date>2010-02-24T10:47:15.250589Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+<path
+   action="M">/Diplomityo/book.bib</path>
+</paths>
+</logentry>
+<logentry
+   revision="88">
+<author>teelmo</author>
+<date>2010-02-24T11:03:01.366800Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+<path
+   action="M">/Diplomityo/misc.bib</path>
+</paths>
+</logentry>
+<logentry
+   revision="89">
+<author>teelmo</author>
+<date>2010-02-24T11:42:39.068096Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+<path
+   action="M">/Diplomityo/book.bib</path>
+</paths>
+</logentry>
+<logentry
+   revision="90">
+<author>teelmo</author>
+<date>2010-02-24T11:44:26.165308Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="91">
+<author>teelmo</author>
+<date>2010-02-24T15:10:31.755584Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="92">
+<author>teelmo</author>
+<date>2010-02-25T13:55:10.627345Z</date>
+<paths>
+<path
+   action="A">/Diplomityo/Versiot/2010-02-25-di-tyo_kommentoitavaksi_teemo_tebest_190030_v8.pdf</path>
+<path
+   action="A">/Diplomityo/Kuvat/pylvasdiagrammi_vaaka.png</path>
+<path
+   action="A">/Diplomityo/Kuvat/pylvasdiagrammi_pysty.png</path>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="93">
+<author>teelmo</author>
+<date>2010-03-04T08:02:16.862571Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="94">
+<author>teelmo</author>
+<date>2010-03-04T08:04:41.256663Z</date>
+<paths>
+<path
+   action="M">/vanha_rakenne.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="95">
+<author>teelmo</author>
+<date>2010-03-05T20:13:34.319863Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/newspaper.bib</path>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="96">
+<author>teelmo</author>
+<date>2010-03-06T09:24:07.716117Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="97">
+<author>teelmo</author>
+<date>2010-03-06T09:54:13.209683Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+<path
+   action="M">/Diplomityo/misc.bib</path>
+</paths>
+</logentry>
+<logentry
+   revision="98">
+<author>teelmo</author>
+<date>2010-03-06T11:19:44.427838Z</date>
+<paths>
+<path
+   action="A">/HOPSn rakenne.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="99">
+<author>teelmo</author>
+<date>2010-03-07T09:59:08.519965Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+<path
+   action="A">/Diplomityo/vertailu_taulukko.lyx</path>
+<path
+   action="M">/Diplomityo/masterthesis.bib</path>
+</paths>
+</logentry>
+<logentry
+   revision="100">
+<author>teelmo</author>
+<date>2010-03-07T11:28:52.046456Z</date>
+<paths>
+<path
+   action="A">/Diplomityo/Kuvat/sosial_usage.png</path>
+<path
+   action="M">/Diplomityo/article.bib</path>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+<path
+   action="M">/Diplomityo/misc.bib</path>
+</paths>
+</logentry>
+<logentry
+   revision="101">
+<author>teelmo</author>
+<date>2010-03-07T12:22:28.537204Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="102">
+<author>teelmo</author>
+<date>2010-03-07T12:34:11.647577Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="103">
+<author>teelmo</author>
+<date>2010-03-08T08:57:48.768181Z</date>
+<paths>
+<path
+   action="A">/Diplomityo/Lahteet/journalpaperi.pdf</path>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+<path
+   action="A">/Diplomityo/Ohjeet/Dtyo_arvosteluperiaatteet.pdf</path>
+<path
+   action="A">/Diplomityo/Lahteet/konffapaperi.pdf</path>
+<path
+   action="A">/Diplomityo/Kuvat/erimenu_sosiaalisuus.png</path>
+<path
+   action="A">/Diplomityo/Ohjeet/Diplomityoohje.pdf</path>
+</paths>
+</logentry>
+<logentry
+   revision="104">
+<author>teelmo</author>
+<date>2010-03-08T09:18:46.845781Z</date>
+<paths>
+<path
+   action="A">/Diplomityo/Ohjeet/Valmistumis_info09.pdf</path>
+<path
+   action="A">/Diplomityo/Versiot/2010-03-08-di-tyo_kommentoitavaksi_teemo_tebest_190030_v9.pdf</path>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="105">
+<author>teelmo</author>
+<date>2010-03-11T19:33:23.349786Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="106">
+<author>teelmo</author>
+<date>2010-03-12T10:12:46.790097Z</date>
+<paths>
+<path
+   action="A">/Diplomityo/Versiot/2010-03-12-di-tyo_kommentoitavaksi_teemo_tebest_190030_v10.pdf</path>
+</paths>
+</logentry>
+<logentry
+   revision="107">
+<author>teelmo</author>
+<date>2010-03-12T13:33:33.213241Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="108">
+<author>teelmo</author>
+<date>2010-03-12T19:35:47.228164Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="109">
+<author>teelmo</author>
+<date>2010-03-15T14:58:57.232013Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+<path
+   action="M">/Diplomityo/misc.bib</path>
+</paths>
+</logentry>
+<logentry
+   revision="110">
+<author>teelmo</author>
+<date>2010-03-16T11:52:42.571871Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+<path
+   action="M">/Diplomityo/masterthesis.bib</path>
+</paths>
+</logentry>
+<logentry
+   revision="111">
+<author>teelmo</author>
+<date>2010-03-16T20:42:32.445485Z</date>
+<paths>
+<path
+   action="A">/Diplomityo/Kuvat/erimenu_lahipiirilistat.png</path>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+<path
+   action="A">/Diplomityo/Versiot/2010-03-16-di-tyo_kommentoitavaksi_teemo_tebest_190030_v11.pdf</path>
+</paths>
+</logentry>
+<logentry
+   revision="112">
+<author>teelmo</author>
+<date>2010-03-18T07:49:14.837284Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="113">
+<author>teelmo</author>
+<date>2010-03-18T07:57:39.891480Z</date>
+<paths>
+<path
+   action="A">/Diplomityo/Kuvat/http_vastaukset.png</path>
+</paths>
+</logentry>
+<logentry
+   revision="114">
+<author>teelmo</author>
+<date>2010-03-18T14:20:30.251700Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+<path
+   action="M">/Diplomityo/misc.bib</path>
+</paths>
+</logentry>
+<logentry
+   revision="115">
+<author>teelmo</author>
+<date>2010-03-18T14:32:35.718323Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="116">
+<author>teelmo</author>
+<date>2010-03-18T19:32:38.000075Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="117">
+<author>teelmo</author>
+<date>2010-03-20T16:27:50.403386Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/Kuvat/asiakas-palvelin-malli.png</path>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+<path
+   action="A">/Diplomityo/Kuvat/mvc.png</path>
+<path
+   action="M">/Diplomityo/Kuvat/http_vastaukset.png</path>
+</paths>
+</logentry>
+<logentry
+   revision="118">
+<author>teelmo</author>
+<date>2010-03-20T18:06:39.440558Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="119">
+<author>teelmo</author>
+<date>2010-03-22T06:15:30.870010Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="120">
+<author>teelmo</author>
+<date>2010-03-22T12:00:48.613463Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/article.bib</path>
+<path
+   action="M">/Diplomityo/newspaper.bib</path>
+<path
+   action="M">/Diplomityo/book.bib</path>
+<path
+   action="M">/Diplomityo/misc.bib</path>
+</paths>
+</logentry>
+<logentry
+   revision="121">
+<author>teelmo</author>
+<date>2010-03-22T12:01:11.555464Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="122">
+<author>teelmo</author>
+<date>2010-03-22T17:45:52.813023Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="123">
+<author>teelmo</author>
+<date>2010-03-24T11:23:16.681182Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="124">
+<author>teelmo</author>
+<date>2010-03-26T12:27:58.364984Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+<path
+   action="M">/Diplomityo/misc.bib</path>
+</paths>
+</logentry>
+<logentry
+   revision="125">
+<author>teelmo</author>
+<date>2010-03-26T12:28:33.237250Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="126">
+<author>teelmo</author>
+<date>2010-03-29T12:17:38.684088Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/article.bib</path>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="127">
+<author>teelmo</author>
+<date>2010-03-30T09:44:01.004669Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="128">
+<author>teelmo</author>
+<date>2010-03-30T10:31:29.081530Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="129">
+<author>teelmo</author>
+<date>2010-03-30T11:11:34.088350Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="130">
+<author>teelmo</author>
+<date>2010-03-30T12:46:18.019416Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="131">
+<author>teelmo</author>
+<date>2010-04-07T09:06:56.011688Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+<path
+   action="A">/Diplomityo/Versiot/2010-04-07-di-tyo_kommentoitavaksi_teemo_tebest_190030_v12.pdf</path>
+</paths>
+</logentry>
+<logentry
+   revision="132">
+<author>teelmo</author>
+<date>2010-04-08T17:08:28.543995Z</date>
+<paths>
+<path
+   action="A">/Diplomityo/Kuvat/erimenu_paivittaiset_kirjautumiset.png</path>
+<path
+   action="A">/Diplomityo/Kuvat/erimenu_paivittaiset_kavijat.png</path>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+<path
+   action="A">/Diplomityo/Kuvat/erimenu_amarantti.png</path>
+<path
+   action="M">/Diplomityo/Kuvat/asettelu.png</path>
+</paths>
+</logentry>
+<logentry
+   revision="133">
+<author>teelmo</author>
+<date>2010-04-08T17:09:09.543680Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="134">
+<author>teelmo</author>
+<date>2010-04-08T17:16:50.321747Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="135">
+<author>teelmo</author>
+<date>2010-04-09T10:11:36.328817Z</date>
+<paths>
+<path
+   action="A">/Diplomityo/Kuvat/erimenu_lahipiirit_kertyma.png</path>
+</paths>
+</logentry>
+<logentry
+   revision="136">
+<author>teelmo</author>
+<date>2010-04-09T10:14:17.715024Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="137">
+<author>teelmo</author>
+<date>2010-04-09T10:15:23.746649Z</date>
+<paths>
+<path
+   action="A">/Diplomityo/Versiot/2010-04-09-di-tyo_kommentoitavaksi_teemo_tebest_190030_v13.pdf</path>
+</paths>
+</logentry>
+<logentry
+   revision="138">
+<author>teelmo</author>
+<date>2010-04-09T10:30:56.355565Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="139">
+<author>teelmo</author>
+<date>2010-04-14T10:43:50.369849Z</date>
+<paths>
+<path
+   action="A">/Diplomityöseminaari/diplomityoseminaari.ppt</path>
+<path
+   action="A">/Diplomityöseminaari</path>
+</paths>
+</logentry>
+<logentry
+   revision="140">
+<author>teelmo</author>
+<date>2010-04-14T15:15:10.836367Z</date>
+<paths>
+<path
+   action="M">/Diplomityöseminaari/diplomityoseminaari.ppt</path>
+<path
+   action="A">/Diplomityöseminaari/tietosisalto.png</path>
+<path
+   action="A">/Diplomityöseminaari/erimenu.png</path>
+<path
+   action="A">/Diplomityöseminaari/visualization-stages.png</path>
+<path
+   action="A">/Diplomityöseminaari/magnifier.jpg</path>
+<path
+   action="A">/Diplomityöseminaari/vw.gif</path>
+<path
+   action="A">/Diplomityöseminaari/sivulataus.png</path>
+</paths>
+</logentry>
+<logentry
+   revision="141">
+<author>teelmo</author>
+<date>2010-04-14T18:38:30.131891Z</date>
+<paths>
+<path
+   action="A">/seminaari.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="142">
+<author>teelmo</author>
+<date>2010-04-14T18:38:54.841987Z</date>
+<paths>
+<path
+   copyfrom-path="/seminaari.txt"
+   copyfrom-rev="141"
+   action="A">/Diplomityöseminaari/seminaari.txt</path>
+<path
+   action="D">/seminaari.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="143">
+<author>teelmo</author>
+<date>2010-04-14T18:42:26.710482Z</date>
+<paths>
+<path
+   copyfrom-path="/Diplomityöseminaari"
+   copyfrom-rev="140"
+   action="A">/Diplomityoseminaari</path>
+<path
+   copyfrom-path="/Diplomityöseminaari/seminaari.txt"
+   copyfrom-rev="142"
+   action="A">/Diplomityoseminaari/seminaari.txt</path>
+<path
+   action="D">/Diplomityöseminaari</path>
+</paths>
+</logentry>
+<logentry
+   revision="144">
+<author>teelmo</author>
+<date>2010-04-15T10:12:20.116323Z</date>
+<paths>
+<path
+   action="M">/Diplomityoseminaari/diplomityoseminaari.ppt</path>
+</paths>
+</logentry>
+<logentry
+   revision="145">
+<author>teelmo</author>
+<date>2010-04-15T12:56:34.815517Z</date>
+<paths>
+<path
+   action="M">/Diplomityoseminaari/diplomityoseminaari.ppt</path>
+<path
+   action="A">/Diplomityoseminaari/Thumbs.db</path>
+<path
+   action="A">/Diplomityoseminaari/erimenu_paivittaiset_kirjautumiset.png</path>
+</paths>
+</logentry>
+<logentry
+   revision="146">
+<author>teelmo</author>
+<date>2010-04-15T13:45:37.968217Z</date>
+<paths>
+<path
+   action="M">/Diplomityoseminaari/diplomityoseminaari.ppt</path>
+<path
+   action="M">/Diplomityoseminaari/Thumbs.db</path>
+<path
+   action="A">/Diplomityoseminaari/erimenu_paivittaiset_kavijat.png</path>
+<path
+   action="A">/Diplomityoseminaari/erimenu_yksityiskayttajat_2008_12.png</path>
+<path
+   action="A">/Diplomityoseminaari/erimenu_yksityiskayttajat_2009_12.png</path>
+<path
+   action="A">/Diplomityoseminaari/asettelu.png</path>
+<path
+   action="A">/Diplomityoseminaari/erimenu_paivittaiset_kaynnit_google_analytics.png</path>
+</paths>
+</logentry>
+<logentry
+   revision="147">
+<author>teelmo</author>
+<date>2010-04-15T18:39:35.463926Z</date>
+<paths>
+<path
+   action="M">/Diplomityoseminaari/seminaari.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="148">
+<author>teelmo</author>
+<date>2010-04-15T19:13:53.061416Z</date>
+<paths>
+<path
+   action="M">/Diplomityoseminaari/seminaari.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="149">
+<author>teelmo</author>
+<date>2010-04-16T07:38:39.680297Z</date>
+<paths>
+<path
+   action="M">/Diplomityoseminaari/diplomityoseminaari.ppt</path>
+<path
+   action="M">/Diplomityoseminaari/seminaari.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="150">
+<author>teelmo</author>
+<date>2010-04-16T07:39:17.811686Z</date>
+<paths>
+<path
+   action="M">/Diplomityoseminaari/diplomityoseminaari.ppt</path>
+</paths>
+</logentry>
+<logentry
+   revision="151">
+<author>teelmo</author>
+<date>2010-04-16T07:53:49.922242Z</date>
+<paths>
+<path
+   action="M">/Diplomityoseminaari/diplomityoseminaari.ppt</path>
+<path
+   action="A">/Thumbs.db</path>
+</paths>
+</logentry>
+<logentry
+   revision="152">
+<author>teelmo</author>
+<date>2010-04-16T08:01:30.769430Z</date>
+<paths>
+<path
+   action="M">/Diplomityoseminaari/diplomityoseminaari.ppt</path>
+</paths>
+</logentry>
+<logentry
+   revision="153">
+<author>teelmo</author>
+<date>2010-04-16T08:03:04.829015Z</date>
+<paths>
+<path
+   action="M">/Diplomityoseminaari/diplomityoseminaari.ppt</path>
+</paths>
+</logentry>
+<logentry
+   revision="154">
+<author>teelmo</author>
+<date>2010-04-16T08:57:59.926799Z</date>
+<paths>
+<path
+   action="M">/Diplomityoseminaari/diplomityoseminaari.ppt</path>
+</paths>
+</logentry>
+<logentry
+   revision="155">
+<author>teelmo</author>
+<date>2010-04-16T08:58:18.886132Z</date>
+<paths>
+<path
+   action="M">/Diplomityoseminaari/diplomityoseminaari.ppt</path>
+</paths>
+</logentry>
+<logentry
+   revision="156">
+<author>teelmo</author>
+<date>2010-04-16T09:15:00.246815Z</date>
+<paths>
+<path
+   action="M">/Diplomityoseminaari/diplomityoseminaari.ppt</path>
+</paths>
+</logentry>
+<logentry
+   revision="157">
+<author>teelmo</author>
+<date>2010-04-16T09:27:58.705405Z</date>
+<paths>
+<path
+   action="M">/Diplomityoseminaari/diplomityoseminaari.ppt</path>
+</paths>
+</logentry>
+<logentry
+   revision="158">
+<author>teelmo</author>
+<date>2010-04-24T09:35:47.642287Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="159">
+<author>teelmo</author>
+<date>2010-04-24T19:41:31.139061Z</date>
+<paths>
+<path
+   action="A">/Diplomityo/ajatuksia.txt</path>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="160">
+<author>teelmo</author>
+<date>2010-04-24T20:05:43.810242Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+<path
+   action="A">/Diplomityo/Versiot/2010-04-24-di-tyo_kommentoitavaksi_teemo_tebest_190030_v14.pdf</path>
+</paths>
+</logentry>
+<logentry
+   revision="161">
+<author>teelmo</author>
+<date>2010-04-27T10:26:37.302026Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="162">
+<author>teelmo</author>
+<date>2010-04-27T11:03:13.276894Z</date>
+<paths>
+<path
+   action="A">/Diplomityo/Lahteet/Statistics for www.erimenu.fi (2010-04) - main.url</path>
+</paths>
+</logentry>
+<logentry
+   revision="163">
+<author>teelmo</author>
+<date>2010-04-27T13:26:26.325513Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="164">
+<author>teelmo</author>
+<date>2010-04-27T17:44:55.778368Z</date>
+<paths>
+<path
+   action="A">/Diplomityoseminaari/diplomityoseminaari.pdf</path>
+<path
+   action="A">/Diplomityoseminaari/diplomityoseminaari_v2.odp</path>
+</paths>
+</logentry>
+<logentry
+   revision="165">
+<author>teelmo</author>
+<date>2010-04-27T18:46:45.866976Z</date>
+<paths>
+<path
+   action="A">/Diplomityo/Kuvat/erimenu_paivittaiset_kaynnit_google_analytics.png</path>
+<path
+   action="A">/Diplomityo/Kuvat/db_sivulataustenseuranta.jpg</path>
+<path
+   action="D">/Diplomityoseminaari/Thumbs.db</path>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+<path
+   action="A">/Diplomityo/Kuvat/db_tietosisältöjenseuranta.jpg</path>
+<path
+   action="A">/Diplomityo/Kuvat/erimenu_amarantti_awstats.jpg</path>
+</paths>
+</logentry>
+<logentry
+   revision="166">
+<author>teelmo</author>
+<date>2010-04-28T07:01:53.308234Z</date>
+<paths>
+<path
+   action="A">/Diplomityo/tutkimuskysymys.lyx</path>
+<path
+   action="A">/Diplomityo/tutkimuskysymys.pdf</path>
+</paths>
+</logentry>
+<logentry
+   revision="167">
+<author>teelmo</author>
+<date>2010-04-28T07:04:22.646522Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="168">
+<author>teelmo</author>
+<date>2010-04-28T07:10:07.926258Z</date>
+<paths>
+<path
+   action="A">/Diplomityo/Versiot/2010-04-28-di-tyo_kommentoitavaksi_teemo_tebest_190030_v15.pdf</path>
+</paths>
+</logentry>
+<logentry
+   revision="169">
+<author>teelmo</author>
+<date>2010-04-29T08:42:39.286227Z</date>
+<paths>
+<path
+   action="A">/Diplomityo/Lahteet/Methods GET and POST in HTML forms - what's the difference-.url</path>
+</paths>
+</logentry>
+<logentry
+   revision="170">
+<author>teelmo</author>
+<date>2010-04-29T10:14:17.490831Z</date>
+<paths>
+<path
+   action="D">/Diplomityo/Lahteet/Methods GET and POST in HTML forms - what's the difference-.url</path>
+<path
+   action="A">/Diplomityo/Linkit</path>
+<path
+   action="A">/Diplomityo/Linkit/Methods GET and POST in HTML forms - what's the difference-.url</path>
+<path
+   action="A">/Diplomityo/Linkit/Netissä roikutaan jo liki tunti päivässä - Kotimaa - YLE Uutiset - yle.fi.url</path>
+</paths>
+</logentry>
+<logentry
+   revision="171">
+<author>teelmo</author>
+<date>2010-05-03T12:08:02.033562Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="172">
+<author>teelmo</author>
+<date>2010-05-03T12:10:29.724526Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="173">
+<author>teelmo</author>
+<date>2010-05-04T15:48:04.923085Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="174">
+<author>teelmo</author>
+<date>2010-05-04T15:48:17.208033Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="175">
+<author>teelmo</author>
+<date>2010-05-05T09:10:17.663268Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/Kuvat/pylvasdiagrammi_vaaka.png</path>
+<path
+   action="M">/Diplomityo/Kuvat/erimenu_lahipiirilistat.png</path>
+<path
+   action="M">/Diplomityo/Kuvat/pylvasdiagrammi_pysty.png</path>
+<path
+   action="M">/Diplomityo/Kuvat/luettu.png</path>
+<path
+   action="M">/Diplomityo/Kuvat/erimenu_sosiaalisuus.png</path>
+</paths>
+</logentry>
+<logentry
+   revision="176">
+<author>teelmo</author>
+<date>2010-05-05T09:21:22.015769Z</date>
+<paths>
+<path
+   action="A">/Diplomityo/Versiot/2010-05-05-di-tyo_kommentoitavaksi_teemo_tebest_190030_v16.pdf</path>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="177">
+<author>teelmo</author>
+<date>2010-05-05T10:47:36.861495Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+<path
+   action="M">/Diplomityo/book.bib</path>
+<path
+   action="M">/Diplomityo/misc.bib</path>
+</paths>
+</logentry>
+<logentry
+   revision="178">
+<author>teelmo</author>
+<date>2010-05-05T11:49:12.007706Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/book.bib</path>
+</paths>
+</logentry>
+<logentry
+   revision="179">
+<author>teelmo</author>
+<date>2010-05-05T12:46:44.840316Z</date>
+<paths>
+<path
+   action="A">/Diplomityo/Linkit/Multi-criteria decision analysis - Wikipedia, the free encyclopedia.url</path>
+</paths>
+</logentry>
+<logentry
+   revision="180">
+<author>teelmo</author>
+<date>2010-05-08T09:28:03.255634Z</date>
+<paths>
+<path
+   copyfrom-path="/Diplomityo/Linkit/Methods GET and POST in HTML forms - what&amp;apos;s the difference-.url"
+   copyfrom-rev="179"
+   action="A">/Diplomityo/Lahteet/Methods GET and POST in HTML forms - what's the difference-.url</path>
+<path
+   action="D">/Diplomityo/Linkit/Multi-criteria decision analysis - Wikipedia, the free encyclopedia.url</path>
+<path
+   action="D">/Diplomityo/Linkit/Methods GET and POST in HTML forms - what's the difference-.url</path>
+<path
+   action="M">/Diplomityo/newspaper.bib</path>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+<path
+   copyfrom-path="/Diplomityo/Linkit/Netissä roikutaan jo liki tunti päivässä - Kotimaa - YLE Uutiset - yle.fi.url"
+   copyfrom-rev="179"
+   action="A">/Diplomityo/Lahteet/Netissä roikutaan jo liki tunti päivässä - Kotimaa - YLE Uutiset - yle.fi.url</path>
+<path
+   action="D">/Diplomityo/Kaytetyt lahteet</path>
+<path
+   copyfrom-path="/Diplomityo/Linkit/Multi-criteria decision analysis - Wikipedia, the free encyclopedia.url"
+   copyfrom-rev="179"
+   action="A">/Diplomityo/Lahteet/Multi-criteria decision analysis - Wikipedia, the free encyclopedia.url</path>
+<path
+   action="D">/Diplomityo/Linkit/Netissä roikutaan jo liki tunti päivässä - Kotimaa - YLE Uutiset - yle.fi.url</path>
+<path
+   action="M">/Diplomityo/misc.bib</path>
+</paths>
+</logentry>
+<logentry
+   revision="181">
+<author>teelmo</author>
+<date>2010-05-08T09:28:36.144184Z</date>
+<paths>
+<path
+   action="D">/Diplomityo/Linkit</path>
+</paths>
+</logentry>
+<logentry
+   revision="182">
+<author>teelmo</author>
+<date>2010-05-08T09:29:11.460624Z</date>
+<paths>
+<path
+   action="D">/Thumbs.db</path>
+</paths>
+</logentry>
+<logentry
+   revision="183">
+<author>teelmo</author>
+<date>2010-05-08T11:32:46.183328Z</date>
+<paths>
+<path
+   action="A">/Diplomityo/Lahteet/Verta2006.pdf</path>
+<path
+   action="A">/Diplomityo/Versiot/2010-05-08-di-tyo_kommentoitavaksi_teemo_tebest_190030_v17.pdf</path>
+<path
+   action="M">/Diplomityo/article.bib</path>
+<path
+   action="M">/Diplomityo/newspaper.bib</path>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+<path
+   action="A">/Diplomityo/taulukot.lyx</path>
+<path
+   action="M">/Diplomityo/book.bib</path>
+<path
+   action="M">/Diplomityo/masterthesis.bib</path>
+<path
+   action="M">/Diplomityo/misc.bib</path>
+</paths>
+</logentry>
+<logentry
+   revision="184">
+<author>teelmo</author>
+<date>2010-05-08T11:44:33.301587Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/Versiot/2010-05-08-di-tyo_kommentoitavaksi_teemo_tebest_190030_v17.pdf</path>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="185">
+<author>teelmo</author>
+<date>2010-05-09T13:35:10.697473Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/Kuvat/erimenu_lahipiirilistat.png</path>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+<path
+   action="M">/Diplomityo/misc.bib</path>
+</paths>
+</logentry>
+<logentry
+   revision="186">
+<author>teelmo</author>
+<date>2010-05-09T13:38:06.166527Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="187">
+<author>teelmo</author>
+<date>2010-05-09T13:39:21.935495Z</date>
+<paths>
+<path
+   action="A">/Diplomityo/Versiot/2010-05-09-di-tyo_kommentoitavaksi_teemo_tebest_190030_v18.pdf</path>
+</paths>
+</logentry>
+<logentry
+   revision="188">
+<author>teelmo</author>
+<date>2010-05-14T07:04:22.860571Z</date>
+<paths>
+<path
+   action="A">/Diplomityo/Versiot/2010-05-14-di-tyo_kommentoitavaksi_teemo_tebest_190030_v19.pdf</path>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="189">
+<author>teelmo</author>
+<date>2010-05-14T08:05:22.241112Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/Versiot/2010-05-14-di-tyo_kommentoitavaksi_teemo_tebest_190030_v19.pdf</path>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="190">
+<author>teelmo</author>
+<date>2010-05-14T12:36:17.599324Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/Versiot/2010-05-14-di-tyo_kommentoitavaksi_teemo_tebest_190030_v19.pdf</path>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+<path
+   action="M">/Diplomityo/book.bib</path>
+</paths>
+</logentry>
+<logentry
+   revision="191">
+<author>teelmo</author>
+<date>2010-05-14T13:17:26.722185Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/Versiot/2010-05-14-di-tyo_kommentoitavaksi_teemo_tebest_190030_v19.pdf</path>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="192">
+<author>teelmo</author>
+<date>2010-05-16T20:06:39.506843Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="193">
+<author>teelmo</author>
+<date>2010-05-17T11:04:02.062775Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+<path
+   action="A">/Diplomityo/Versiot/2010-05-17-di-tyo_kommentoitavaksi_teemo_tebest_190030_v20.pdf</path>
+</paths>
+</logentry>
+<logentry
+   revision="194">
+<author>teelmo</author>
+<date>2010-05-19T12:36:38.646138Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/Kuvat/luettu.png</path>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+<path
+   action="M">/Diplomityo/Kuvat/visualization-stages.png</path>
+<path
+   action="M">/Diplomityo/Kuvat/asettelu.png</path>
+</paths>
+</logentry>
+<logentry
+   revision="195">
+<author>teelmo</author>
+<date>2010-05-20T09:09:33.871031Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+<path
+   action="A">/Diplomityo/Versiot/2010-05-20-di-tyo_kommentoitavaksi_teemo_tebest_190030_v21.pdf</path>
+</paths>
+</logentry>
+<logentry
+   revision="196">
+<author>teelmo</author>
+<date>2010-05-20T12:36:22.943442Z</date>
+<paths>
+<path
+   action="A">/Diplomityo/abstract_google.txt</path>
+<path
+   action="A">/Diplomityo/abstract_mot.txt</path>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="197">
+<author>teelmo</author>
+<date>2010-05-20T12:37:37.451693Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/Versiot/2010-05-20-di-tyo_kommentoitavaksi_teemo_tebest_190030_v21.pdf</path>
+</paths>
+</logentry>
+<logentry
+   revision="198">
+<author>teelmo</author>
+<date>2010-05-20T18:32:42.730549Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="199">
+<author>teelmo</author>
+<date>2010-05-20T20:35:57.310153Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/abstract_google.txt</path>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="200">
+<author>teelmo</author>
+<date>2010-05-21T07:29:12.226150Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/Kuvat/pylvasdiagrammi_vaaka.png</path>
+<path
+   action="M">/Diplomityo/Kuvat/erimenu_lahipiirilistat.png</path>
+<path
+   action="M">/Diplomityo/Kuvat/pylvasdiagrammi_pysty.png</path>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+<path
+   action="A">/Diplomityo/Versiot/2010-05-21-di-tyo_kommentoitavaksi_teemo_tebest_190030_v22.pdf</path>
+<path
+   action="M">/Diplomityo/Kuvat/erimenu_sosiaalisuus.png</path>
+</paths>
+</logentry>
+<logentry
+   revision="201">
+<author>teelmo</author>
+<date>2010-05-21T07:38:11.470668Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="202">
+<author>teelmo</author>
+<date>2010-05-21T18:30:31.934558Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="203">
+<author>teelmo</author>
+<date>2010-05-24T08:38:50.003317Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="204">
+<author>teelmo</author>
+<date>2010-05-24T11:17:47.667667Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+<path
+   action="A">/Diplomityo/diplomityon_arvostelu_ja_tutkintotodistus_anomus.rtf</path>
+</paths>
+</logentry>
+<logentry
+   revision="205">
+<author>teelmo</author>
+<date>2010-05-24T11:22:35.344140Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="206">
+<author>teelmo</author>
+<date>2010-05-24T12:12:05.719222Z</date>
+<paths>
+<path
+   action="A">/Diplomityo/Versiot/2010-05-24-di-tyo_kommentoitavaksi_teemo_tebest_190030_v23.pdf</path>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="207">
+<author>teelmo</author>
+<date>2010-05-24T17:03:36.228446Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/Versiot/2010-05-24-di-tyo_kommentoitavaksi_teemo_tebest_190030_v23.pdf</path>
+<path
+   action="A">/Diplomityo/oikoluku_abstract.doc</path>
+<path
+   action="A">/Diplomityo/oikoluku_di-tyo.doc</path>
+<path
+   action="M">/Diplomityo/article.bib</path>
+<path
+   action="M">/Diplomityo/newspaper.bib</path>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+<path
+   action="M">/Diplomityo/book.bib</path>
+<path
+   action="M">/Diplomityo/masterthesis.bib</path>
+<path
+   action="M">/Diplomityo/misc.bib</path>
+</paths>
+</logentry>
+<logentry
+   revision="208">
+<author>teelmo</author>
+<date>2010-05-24T17:20:25.743757Z</date>
+<paths>
+<path
+   action="A">/Diplomityo/di_tyo.png</path>
+</paths>
+</logentry>
+<logentry
+   revision="209">
+<author>teelmo</author>
+<date>2010-05-24T17:32:43.261375Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/diplomityon_arvostelu_ja_tutkintotodistus_anomus.rtf</path>
+</paths>
+</logentry>
+<logentry
+   revision="210">
+<author>teelmo</author>
+<date>2010-05-24T18:53:18.422487Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="211">
+<author>teelmo</author>
+<date>2010-05-25T10:07:01.293399Z</date>
+<paths>
+<path
+   action="A">/Diplomityo/Versiot/2010-05-25-di-tyo_kommentoitavaksi_teemo_tebest_190030_v24.pdf</path>
+</paths>
+</logentry>
+<logentry
+   revision="212">
+<author>teelmo</author>
+<date>2010-05-25T20:14:30.232619Z</date>
+<paths>
+<path
+   action="A">/Diplomityo/Versiot/2010-05-26-di-tyo_kommentoitavaksi_teemo_tebest_190030_v25.pdf</path>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+</paths>
+</logentry>
+<logentry
+   revision="213">
+<author>teelmo</author>
+<date>2010-05-26T08:30:58.554516Z</date>
+<paths>
+<path
+   action="M">/Diplomityo/Versiot/2010-05-26-di-tyo_kommentoitavaksi_teemo_tebest_190030_v25.pdf</path>
+<path
+   action="M">/Diplomityo/di-tyo.lyx</path>
+<path
+   action="A">/Diplomityo/Versiot/D_Teemo_Tebest.pdf</path>
+</paths>
+</logentry>
+<logentry
+   revision="214">
+<author>teelmo</author>
+<date>2010-05-27T06:35:03.629377Z</date>
+<paths>
+<path
+   action="A">/vanha_rakenne2.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="215">
+<author>teelmo</author>
+<date>2010-05-28T11:50:16.733914Z</date>
+<paths>
+<path
+   action="A">/Diplomityo/Ohjeet/DI-toiden_tallennusohje.pdf</path>
+</paths>
+</logentry>
+<logentry
+   revision="216">
+<author>teelmo</author>
+<date>2010-06-02T12:46:29.171823Z</date>
+<paths>
+<path
+   action="A">/Diplomityo/Versiot/tebest.pdf</path>
+</paths>
+</logentry>
+<logentry
+   revision="217">
+<author>teelmo</author>
+<date>2010-06-28T15:47:55.550623Z</date>
+<paths>
+<path
+   action="A">/Diplomityo/Poytakirja030320103.pdf</path>
+<path
+   action="A">/Diplomityo/Poytakirja_23062010.pdf</path>
+<path
+   action="A">/Diplomityo/Esittelylista_23062010.pdf</path>
+</paths>
+</logentry>
+<logentry
+   revision="218">
+<author>teelmo</author>
+<date>2011-03-28T11:39:16.213159Z</date>
+<paths>
+<path
+   action="A">/kurssit.txt</path>
+<path
+   action="A">/opintojaksot_wordle.png</path>
+<path
+   action="A">/opinnot.txt</path>
+<path
+   action="A">/opintojaksot_wordle2.png</path>
+<path
+   action="A">/kurssinimet.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="219">
+<author>teelmo</author>
+<date>2011-03-28T11:39:58.119931Z</date>
+<paths>
+<path
+   copyfrom-path="/Tutkimussuunitelma"
+   copyfrom-rev="217"
+   action="A">/Tutkimussuunnitelma</path>
+<path
+   action="D">/Tutkimussuunitelma</path>
+</paths>
+</logentry>
+</log>

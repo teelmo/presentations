@@ -1,0 +1,102 @@
+body {
+  background: #444;
+}
+div.logo {
+  background-position: right center; background-repeat: no-repeat;
+  background-image: url('../img/uta_logo.png');
+  height: 75px;
+  width: 77px;
+  position: absolute;
+  right: 4px;
+  top: 4px;
+}
+a {
+  color: #18B5CA;
+  text-shadow: 0 0 0;
+  background: none;
+  -webkit-transition: 0s;
+  transition: 0s;
+}
+a:hover {
+  color: #666;
+}
+.verysmall a:hover,
+.tiny a:hover {
+  background: transparent;
+}
+footnote {
+  display: block;
+  position: absolute; 
+  bottom: 0; 
+  right: 12px;
+  font-size: 14px;
+}
+footnote a:hover {
+  font-weight: bold;
+  color: #18B5CA;
+  text-shadow: 0 0 0;
+  background: none;
+  -webkit-transition: 0s;
+  transition: 0s;
+}
+footnote a {
+  font-weight: bold;
+  text-decoration: none;
+  color: #666;
+}
+footnote img {
+  vertical-align: -7%;
+}
+#title {
+  margin: -200px 0 0 0;
+  font-family: "Helvetica Neue";
+}
+#title h1 {
+  font-size: 110px;
+  line-height: 130px;
+  color: #fff;
+  letter-spacing: 4px
+}
+#title h2 {
+  font-size: 80px;
+  color: #fff;
+  letter-spacing: 4px
+}
+.slide h1 {
+  font-size: 80px;
+  line-height: 70px;
+  color: #000;
+}
+.step q {
+  margin-top: 70px;
+}
+ol,
+ul {
+  margin-left: 50px;
+}
+ul li {
+  list-style-type: circle;
+}
+ol li {
+  list-style-type: decimal;
+}
+.small {
+  font-size: 44px !important;
+}
+.smaller {
+  font-size: 38px !important;
+}
+.verysmall {
+  font-size: 30px !important;
+  line-height: 30px !important;
+}
+.tiny {
+  font-size: 20px !important;
+  line-height: 20px !important;
+}
+.floatRight {
+  float: right;
+}
+table.timeline td.first {
+  width: 300px;
+}

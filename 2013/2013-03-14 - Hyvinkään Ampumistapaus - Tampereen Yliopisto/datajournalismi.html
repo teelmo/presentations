@@ -1,0 +1,499 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=1024" />
+    
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <title>Datajournalismi | Tampereen yliopisto | Teemo Tebest</title>
+    
+    <meta name="description" content="impress.js is a presentation tool based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com." />
+    <meta name="author" content="Teemo Tebest" />
+
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans:regular,semibold,italic,italicsemibold|PT+Sans:400,700,400italic,700italic|PT+Serif:400,700,400italic,700italic" rel="stylesheet" />
+
+    <link href="css/impress-demo.css" rel="stylesheet" />
+    <link href="css/styles.css" rel="stylesheet" />
+
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" href="favicon.ico" />
+    <script src="js/jquery.min.js"></script>
+    <script type="text/javascript">
+      $(document).ready(function() {
+        $('div.slide').each(function(index) {
+          $(this).prepend('<div class="logo"></div>');
+        });
+        $('div.slide').each(function(index) {
+          $(this).append('<footnote><a href="http://teelmo.info">Teemo Tebest</a>, <a href="http://http://twitter.com/teelmo">@teelmo</a> | 14/03/2013 | <a href="http://www.uta.fi/">Tampereen yliopisto</a> | <a href="https://twitter.com/search?q=%23datajournalismi&src=hash"><img src="img/twitter_logo.png" alt="" /> #datajournalismi</a> | <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a</footnote>');
+        });
+        $('a').each(function(index) {
+          $(this).attr('target', '_blank');
+        });
+      });
+    </script>
+  </head>
+
+  <body class="impress-not-supported">
+    <div class="fallback-message">
+      <p>Your browser <b>doesn't support the features required</b> by impress.js, so you are presented with a simplified version of this presentation.</p>
+      <p>For the best experience please use the latest <b>Chrome</b>, <b>Safari</b> or <b>Firefox</b> browser.</p>
+    </div>
+
+    <div id="impress">
+      <div id="title" class="step" data-x="0" data-y="-3500" data-scale="4">
+        <center>
+          <h1>Datajournalismin mahdollisuudet</h1>
+          <br />
+          <h2>Teemo Tebest</h2>
+        </center>
+      </div>
+
+      <div class="step slide" data-x="-1000" data-y="-1500">
+        <h1>Teemo Tebest</h1>
+        <q>
+          <br />
+          <ul>
+            <li><a href="http://datajournalismi.blogspot.com">Datajournalismi-blogi</a></li>
+            <li><a href="http://teelmo.info">teelmo.info</a></li>
+            <li><a href="http://twitter.com/teelmo">@teelmo</a></li>
+          </ul>
+        </q>
+      </div>
+
+      <div class="step slide" data-x="0" data-y="-1500">
+        <h1>Teemo Tebest</h1>
+        <q>
+          <img src="img/tebest.jpg" alt="" class="" />
+        </q>
+      </div>
+
+      <div class="step slide" data-x="1000" data-y="-1500">
+        <h1>Teemo Tebest</h1>
+        <q>
+          <ul>
+            <li>Tietotekniikan diplomi-insinööri</li>
+            <li>Aikaisemmin tutkijana <a href="http://www.tut.fi">TTY</a>:llä</li>
+            <li>Web-suunnittelija, <a href="http://svenska.yle.fi">Svenska Yle</a></li>
+            <li>Datajournalisti, <a href="http://yle.fi">Yleisradio</a></li>
+          </ul>
+          <br />
+          <span class="smaller floatRight"><a href="http://www.iltalehti.fi/uutiset/2011091514392709_uu.shtml">Aloitin Yle:ssä joulukuussa 2011</a></span>
+        </q>
+      </div>
+      
+      <div class="step slide" data-x="1000" data-y="-500">
+        <h1>Agenda lyhyesti</h1>
+        <q>
+          <ul>
+            <li>Hyvinkään ampumistapaus ja miten analysoin epäillyn Facebook-verkoston</li>
+            <li>Tiedonhankinta verkossa</li>
+            <li>Analysointityökalut ja niiden käyttäminen</li>
+          </ul>
+        </q>
+      </div>
+
+      <!--<div id="overview" class="step" data-x="0" data-y="1500" data-scale="9">
+      </div>-->
+
+      <div class="step slide" data-x="0" data-y="-500">
+        <h1>Mitä tapahtui</h1>
+        <q>
+          <a href="http://yle.fi/uutiset/resources/player?clip=1565881"><img src="img/areena.png" alt="" /></a>
+        </q>
+      </div>
+
+      <div class="step slide" data-x="-1000" data-y="-500">
+        <h1>Aikajana</h1>
+        <q>
+          <table class="timeline">
+            <tr>
+              <td class="first">
+                <div class="smaller"><strong>Lauantai</strong></div>
+                <div class="tiny">26. toukokuuta 2012</div>
+              </td>
+              <td class="verysmall">
+                Eero Hiltunen aloitti ammuskelun Hyvinkäällä klo 1.53
+              </td>
+            </tr>
+            <tr>
+              <td class="first">
+                <div class="smaller"><strong>Sunnuntai</strong></div>
+                <div class="tiny">27. toukokuuta 2012</div>
+              </td>
+              <td class="verysmall">
+                Aamulla etsin Facebook-profiilin, tein analyysin ja kirjoitin <a href="http://datajournalismi.blogspot.com/2012/05/hyvinkaan-ampumistapaus.html">blogin</a> 
+              </td>
+            </tr>
+            <tr>
+              <td class="first">
+                <div class="smaller"><strong>Maanantai</strong></div>
+                <div class="tiny">28. toukokuuta 2012</div>
+              </td>
+              <td class="verysmall">
+                Facebook-profiili menettää tietoja <a href="http://www.ksml.fi/uutiset/kotimaa/hyvinkaan-ampujan-tiedot-katosivat-facebookista/1199686">katoaa</a> lopulta
+              </td>
+            </tr>
+            <tr>
+              <td class="first">
+                <div class="smaller"><strong>Tiistai</strong></div>
+                <div class="tiny">29. toukokuuta 2012</div>
+              </td>
+              <td class="verysmall">
+                Annan <a href="http://yle.fi/uutiset/web-analyytikko_ampujan_facebook-piiri_varsin_suppea/6140162">Yle uutisille haastattelun koskien analyysia
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <div class="smaller"><strong>Keskiviikko</strong></div>
+                <div class="tiny">30. toukokuuta 2012</div>
+              </td>
+              <td class="verysmall">
+                Myös Svenska Yle julkaisi <a href="http://svenska.yle.fi/artikel/2012/05/30/analys-av-hyvingeskjutarens-facebooknatverk">oman juttunsa</a> aiheesta 
+              </td>
+            </tr>
+          </table>
+        </q>
+      </div>
+
+      <div class="step slide" data-x="-1000" data-y="500">
+        <h1>Aikajana</h1>
+        <q>
+          <table class="timeline">
+            <tr style="opacity:0.15;">
+              <td class="first">
+                <div class="smaller"><strong>Lauantai</strong></div>
+                <div class="tiny">26. toukokuuta 2012</div>
+              </td>
+              <td class="verysmall">
+                Eero Hiltunen aloitti ammuskelun Hyvinkäällä klo 1.53
+              </td>
+            </tr>
+            <tr>
+              <td class="first">
+                <div class="smaller"><strong>Sunnuntai</strong></div>
+                <div class="tiny">27. toukokuuta 2012</div>
+              </td>
+              <td class="verysmall">
+                Aamulla etsin Facebook-profiilin, tein analyysin ja kirjoitin <a href="http://datajournalismi.blogspot.com/2012/05/hyvinkaan-ampumistapaus.html">blogin</a> 
+              </td>
+            </tr>
+            <tr style="opacity:0.15;">
+              <td class="first">
+                <div class="smaller"><strong>Maanantai</strong></div>
+                <div class="tiny">28. toukokuuta 2012</div>
+              </td>
+              <td class="verysmall">
+                Facebook-profiili menettää tietoja <a href="http://www.ksml.fi/uutiset/kotimaa/hyvinkaan-ampujan-tiedot-katosivat-facebookista/1199686">katoaa</a> lopulta
+              </td>
+            </tr>
+            <tr style="opacity:0.15;">
+              <td class="first">
+                <div class="smaller"><strong>Tiistai</strong></div>
+                <div class="tiny">29. toukokuuta 2012</div>
+              </td>
+              <td class="verysmall">
+                Annan <a href="http://yle.fi/uutiset/web-analyytikko_ampujan_facebook-piiri_varsin_suppea/6140162">Yle uutisille haastattelun koskien analyysia
+              </td>
+            </tr>
+            <tr style="opacity:0.15;">
+              <td>
+                <div class="smaller"><strong>Keskiviikko</strong></div>
+                <div class="tiny">30. toukokuuta 2012</div>
+              </td>
+              <td class="verysmall">
+                Myös Svenska Yle julkaisi <a href="http://svenska.yle.fi/artikel/2012/05/30/analys-av-hyvingeskjutarens-facebooknatverk">oman juttunsa</a> aiheesta 
+              </td>
+            </tr>
+          </table>
+        </q>
+      </div>
+
+      <div class="step" data-x="-610" data-y="480" data-scale="0.1">
+        <iframe src="http://datajournalismi.blogspot.fi/2012/05/hyvinkaan-ampumistapaus.html" width="1000" height="800"></iframe>
+      </div>
+
+      <div class="step slide" data-x="0" data-y="500">
+        <h1>Blogin pointit</h1>
+        <br />
+        <q>
+          <ul>
+            <li>Tapahtuman puinti aktiivista</li>
+            <li>Netin rooli tiedon hankinnassa</li>
+            <li>Hypoteesi ääriajatusten vaikutuksesta tapahtumiin</li>
+            <li>Tulosten tiivis analyysi</li>
+          </ul>
+        </q>
+      </div>
+
+      <div class="step slide" data-x="1000" data-y="500">
+        <h1>Taustatiedoksi</h1>
+        <q>
+          Kevään aikana olin harrastuksen vuoksi tehnyt some-analyysiä niin Twitteristä kuin Facebookista saatavalle datalle
+          <br />
+          <br />
+          &rarr; Työkalut olivat siis jo olemassa
+        </q>
+      </div>
+
+      <div class="step" data-x="0" data-y="1500">
+        <iframe src="http://2.bp.blogspot.com/-2gwUvL1eOhE/T8IAVZ1MwKI/AAAAAAAAA7Y/DaxnukTC7NA/s1600/hyvinkaan_ampuja_facebook_verkosto.png" width="903" height="571"></iframe>
+        <div class="verysmall" style="background-color:#fff; padding: 10px; width: 883px;">
+          &bull; Verkostossa 64 kaveria<br />
+          &bull; Punaiset pallot naisia (11 %), siniset miehiä (89 %)<br />
+          &bull; Viivat kuvaavat heidän välisiä kaverisuhteita Facebook:ssa<br />
+          &bull; Kuusi ihmistä jotka eivät muiden kanssa kavereita
+        </div>
+      </div>
+
+      <div class="step slide" data-x="-1000" data-y="1500">
+        <h1>Datan hankinta</h1>
+        <q>
+          <ol>
+            <li><a href="https://www.google.fi/search?q=hyvinkään+ampujan+profiili">Facebook-profiilin löytäminen</a></li>
+            <li><a href="http://www.makeuseof.com/tag/save-complete-webpage-offline-reading/">Profiilin tallentaminen talteen</a></li>
+            <li><a href="https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd">Kaverilistauksen tallentaminen</a></li>
+            <li><a href="http://datajournalismi.blogspot.com/2012/03/facebook-verkostojen-visualisointi.html">Keskinäisten kaverisuhteiden selvittäminen</a></li>
+          </ol>
+        </q>
+      </div>
+
+      <div class="step slide" data-x="0" data-y="2500" style="">
+        <h1>Nettikansa tietää</h1>
+        <q>
+          <br />
+          &bull; <a href="http://murha.info/phpbb2/viewtopic.php?f=20&amp;p=482445">Murha.info</a><br />
+          &bull; <a href="http://keskustelu.jatkoaika.com/showthread.php?p=4195213">Jatkoaika.com</a><br />
+          &bull; <a href="http://hommaforum.org/index.php?topic=71127.330">Hommaforum.org</a><br />
+          &bull; <a href="http://www.f1-forum.fi/vb/showthread.php?p=1936517">F1-forum.fi</a>
+        </q>
+      </div>
+
+      <div class="step" data-x="250" data-y="2450" data-scale="0.3">
+        <img src="screenshots/screenshot_1.png" alt="" />
+      </div>
+
+      <div class="step" data-x="250" data-y="2600" data-scale="0.3">
+        <img src="screenshots/screenshot_3.png" alt="" />
+      </div>
+
+      <div class="step" data-x="250" data-y="2690" data-scale="0.3">
+        <img src="screenshots/screenshot_2.png" alt="" />    
+      </div>
+
+      <div class="step slide" data-x="1000" data-y="1500">
+        <h1>Datan visualisointi</h1>
+        <br />
+        <q>
+          <ul>
+            <li>Datan visualisointi verkostoksi, missä työkaluna avoin ja ilmainen ohjelma nimeltä <a href="https://gephi.org/">Gephi</a></li>
+            <li>Ihmisten asetteleminen niin, että oli mahdollista tulkita miten he ovat keskenään kavereita</li>
+          </ul>
+        </q>
+      </div>
+
+      <div class="slide step" data-x="-2000" data-y="500">
+        <h1>Aikajana</h1>
+        <q>
+          <table class="timeline">
+            <tr style="opacity:0.15;">
+              <td class="first">
+                <div class="smaller"><strong>Lauantai</strong></div>
+                <div class="tiny">26. toukokuuta 2012</div>
+              </td>
+              <td class="verysmall">
+                Eero Hiltunen aloitti ammuskelun Hyvinkäällä klo 1.53
+              </td>
+            </tr>
+            <tr style="opacity:0.15;">
+              <td class="first">
+                <div class="smaller"><strong>Sunnuntai</strong></div>
+                <div class="tiny">27. toukokuuta 2012</div>
+              </td>
+              <td class="verysmall">
+                Aamulla etsin Facebook-profiilin, tein analyysin ja kirjoitin <a href="http://datajournalismi.blogspot.com/2012/05/hyvinkaan-ampumistapaus.html">blogin</a> 
+              </td>
+            </tr>
+            <tr style="opacity:0.15;">
+              <td class="first">
+                <div class="smaller"><strong>Maanantai</strong></div>
+                <div class="tiny">28. toukokuuta 2012</div>
+              </td>
+              <td class="verysmall">
+                Facebook-profiili menettää tietoja <a href="http://www.ksml.fi/uutiset/kotimaa/hyvinkaan-ampujan-tiedot-katosivat-facebookista/1199686">katoaa</a> lopulta
+              </td>
+            </tr>
+            <tr>
+              <td class="first">
+                <div class="smaller"><strong>Tiistai</strong></div>
+                <div class="tiny">29. toukokuuta 2012</div>
+              </td>
+              <td class="verysmall">
+                Annan <a href="http://yle.fi/uutiset/web-analyytikko_ampujan_facebook-piiri_varsin_suppea/6140162">Yle uutisille haastattelun koskien analyysia
+              </td>
+            </tr>
+            <tr style="opacity:0.15;">
+              <td>
+                <div class="smaller"><strong>Keskiviikko</strong></div>
+                <div class="tiny">30. toukokuuta 2012</div>
+              </td>
+              <td class="verysmall">
+                Myös Svenska Yle julkaisi <a href="http://svenska.yle.fi/artikel/2012/05/30/analys-av-hyvingeskjutarens-facebooknatverk">oman juttunsa</a> aiheesta 
+              </td>
+            </tr>
+          </table>
+        </q>
+      </div>
+
+      <div class="step" data-x="-2085" data-y="1500" data-scale="0.9">
+        <iframe src="http://yle.fi/uutiset/web-analyytikko_ampujan_facebook-piiri_varsin_suppea/6140162" width="1000" height="800"></iframe>
+      </div>
+
+      <div class="slide step" data-x="-2000" data-y="2500">
+        <h1>Päähavainnot</h1>
+        <br />
+        <q>
+          <ul>
+            <li>Vain osa kavereista jäljellä</li>
+            <li>Hyvin tiivis verkosto, jossa ei viitteitä ääriryhmittymiin</li>
+            <li>Käsittelee asiaa vain yhdestä näkökulmasta</li>
+          </ul>
+        </q>
+      </div>
+
+      <div class="step" data-x="-2000" data-y="3500">
+        <iframe src="http://2.bp.blogspot.com/-2gwUvL1eOhE/T8IAVZ1MwKI/AAAAAAAAA7Y/DaxnukTC7NA/s1600/hyvinkaan_ampuja_facebook_verkosto.png" width="903" height="571"></iframe>
+        <div class="verysmall" style="background-color:#fff; padding: 10px; width: 883px;">
+          &bull; Verkostossa 64 kaveria<br />
+          &bull; Punaiset pallot naisia (11 %), siniset miehiä (89 %)<br />
+          &bull; Viivat kuvaavat heidän välisiä kaverisuhteita Facebook:ssa<br />
+          &bull; Kuusi ihmistä jotka eivät muiden kanssa kaveri
+        </div>
+      </div>
+
+      <div class="step" data-x="-2320" data-y="3600" data-scale="0.2">
+        <h1 style="background-color:#fff; padding: 10px; width: 689px; border-bottom: 1px solid #000;">Oma verkostoni</h1>
+        <img src="img/teemo_facebook_kaverit.png" alt="" />
+      </div>
+
+      <div class="slide step" data-x="-1000" data-y="4500">
+        <h1>Kohti käytäntöä</h1>
+        <br />
+        <br />
+        <q>
+          <ul>
+            <li><a href="eero_hiltunen_facebook/Eero Hiltunen.html">Epäillyn Facebook-profiili, osa 1</a></li>
+            <li><a href="eero_hiltunen_facebook/Eero Hiltunen_2.html">Epäillyn Facebook-profiili, osa 2</a></li>
+            
+          </ul>
+        </q>
+      </div>
+
+      <div class="slide step" data-x="0" data-y="4500">
+        <h1>Käytäntö</h1>
+        <br />
+        <q>
+          <ul>
+            <li><strong>Hands on!</strong><br />Miten verkostoanalyysi syntyy kädenkäänteessä</li>      
+          </ul>
+        </q>
+      </div>
+
+      <div class="step slide normalslide" data-x="1000" data-y="4500">
+        <h1>PerusS ja Islamofobia</h1>
+        <q class="small">
+          <a href="http://atuubi.yle.fi/ohjelmat/silminnakija_avaa_silmasi" target="_blank">Silminnäkijä</a> ja <a href="http://svenska.yle.fi/spotlight" target="_blank">Spotlight</a> tekivät useamman ohjelman juttusarjan FDL:n toiminnasta Suomessa. Spotlight keskittyi etenkin Perussuomalaisten kytköksiin FDL:ssä.
+        </q>
+      </div>
+
+      <div class="step slide normalslide" data-x="1000" data-y="5500">
+        <h1>Mitä tehtiin?</h1>
+        <q class="small">
+          <strong>Ensinnäkin:</strong><br />
+          <a href="http://svenska.yle.fi/profiler/marko-hietikko" target="_blank">Marko Hietikko</a> oli kerännyt listan kiinnostavista PS:n poliitikkojen ja pääasiallisten FDL-vaikuttajien Facebook-profiileista.
+        </q>
+      </div>
+
+      <div class="step slide normalslide" data-x="0" data-y="5500">
+        <h1>Tietokone avuksi</h1>
+        <q class="small">
+          <strong>Toiseksi:</strong><br />
+          Marko tiedusteli minulta josko olisi mahdollista tutkia miten nämä ihmiset ovat vaikuttaneet keskenään Facebookissa.
+        </q>
+      </div>
+
+      <div class="step slide normalslide" data-x="-1000" data-y="5500">
+        <h1>Lopputulos</h1>
+        <q class="small">
+          <strong>Kolmanneksi:</strong><br />
+          Facebook:sta oli mahdollista kysyä miten listan henkilöt ovat keskenään kavereita Facebook:ssa.
+          <br />
+          <br />
+          &rarr; Hyvin tiivis verkosto ihmisistä.
+        </q>
+      </div>
+
+      <div class="step" data-x="-1000" data-y="6500">
+        <img src="img/spotlight_data_anonyymi.png" alt="" />
+      </div>
+
+      <div class="step slide normalslide" data-x="0" data-y="6500">
+        <h1>Mikä hyöty?</h1>
+        <q class="small">
+          Tuloksia voitiin käyttää apuna argumentoinneissa ja haastatteluissa.<br />
+          Yksityiskohdat olivat lähinnä toimittajan työkalu, mutta analyysiä voitiin käyttää taustakuvituksena myös itse jutussa.
+        </q>
+      </div>
+
+      <div class="step slide normalslide" data-x="1000" data-y="6500">
+        <h1>TV:ssä grafiikkana</h1>
+        <q class="small">
+          Ehdottomasti tämänkaltaiset verkostoanalyysit ovat melko vaikeita yksityiskohtaisesti läpikäytäviksi televisiojulkaisuna, mutta niillä voitiin antaa merkitystä ja taustaa sille miten journalistinen työ oli tehty.
+        </q>
+      </div>
+
+      <div class="step slide normalslide" data-x="1000" data-y="7500">
+        <h1>Katsottavissa Youtubesta</h1>
+        <br />
+        <br />
+        <a href="http://www.youtube.com/watch?v=2p0itkrVfC0&amp;t=6m" target="_blank"><img src="img/spotlight_verkosto_tv.png" alt="" /></a>
+      </div>
+
+      <div class="step slide normalslide" data-x="0" data-y="7500">
+        <h1>Lyhyesti: <br />Twitterin rooli</h1>
+        <q>
+          Twitterin rooli tiedonhankinnassa etenkin ulkomaisissa kriiseissä on kasvanut. Mm. Syyrian kidnappaustilannetta seurataan Yle:ssä Twitterin avulla.
+        </q>
+      </div>
+
+      <div class="step slide normalslide" data-x="-1000" data-y="7500">
+        <h1>Esimerkki tiedonhankinnasta</h1>
+        <q>
+          Esimerkiksi tieto eilisestä MEPin pyörtymisestä oli saatavilla ensimmäisenä Twitteristä kanssa MEPpien twiittaamana.
+        </q>
+      </div>
+
+      <div class="step slide" data-x="0" data-y="8500">
+        <h1>Kiitos!</h1>
+        <br />
+        <q>
+          Kysymyksiä?
+          <br />
+          <img src="img/fb_thumbs_up.jpg" alt="" style="width: 300px; float:right;"/>
+        </q>
+      </div>
+    </div>
+
+    <div class="hint">
+      <p>Use a spacebar or arrow keys to navigate</p>
+    </div>
+
+    <script>
+      if ("ontouchstart" in document.documentElement) { 
+        document.querySelector(".hint").innerHTML = "<p>Tap on the left or right to navigate</p>";
+      }
+    </script>
+    <script src="js/impress.js"></script>
+    <script>impress().init();</script>
+  </body>
+</html>

@@ -1,0 +1,11 @@
+STATSTER DATA IN GOURCE
+
+gource.exe statster_gource_export.txt --seconds-per-day 0.1 -r 30 --file-idle-time 60 --max-files 4000 --max-file-lag 0.1 --user-image-dir avatar
+
+STATSTER SVN VISUALIZATION W/ GOURCE (2011-03-23)
+
+http://www.youtube.com/watch?v=4i6ZwBuqwCE
+
+MY STUDIES VISUALIZED W/ GOURCE
+
+http://www.youtube.com/watch?v=uElz3xn-GAU

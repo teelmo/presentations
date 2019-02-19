@@ -1,0 +1,418 @@
+<!doctype html>
+<html lang="fi">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=1024" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <title>Metadata ja Journalismi | H&amp;H Helsinki 15.8.2012 | impress.js</title>
+  
+  <meta name="description" content="impress.js is a presentation tool based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com." />
+  <meta name="author" content="Bartek Szopka" />
+
+  <link href="http://fonts.googleapis.com/css?family=Open+Sans:regular,semibold,italic,italicsemibold|PT+Sans:400,700,400italic,700italic|PT+Serif:400,700,400italic,700italic" rel="stylesheet" />
+  <link href="css/impress-demo.css" rel="stylesheet" />
+  
+  <link rel="shortcut icon" href="favicon.ico" />
+  <link rel="apple-touch-icon" href="apple-touch-icon.png" />
+  <style type="text/css">
+    body {
+      background: #FFF url('pics/bg.png') repeat;
+    }
+    h1 {
+      font-size: 75px;
+      margin-bottom: -20px;
+      line-height: 70px;
+      font-style: italic;
+    }
+    .slide q {
+      font-size: 40px;
+      margin-left: 20px;
+    }
+    .right {
+      text-align: right;
+    }
+    .floatRight {
+      float: right;
+    }
+    .floatLeft {
+      float: left;
+    }
+    .logo {
+      position: absolute; 
+      top: 3px; 
+      right: 2px;
+    }
+    .small {
+      font-size: smaller;
+    }
+    img.border {
+      border: 1px solid #ccc;
+      box-shadow: 1px 1px 1px #000;
+    }
+    footnote {
+      position: absolute; 
+      bottom: 0; 
+      right: 12px;
+      font-size: 14px;
+    }
+    .bottomImage {
+      position: absolute; 
+      bottom: 40px; 
+      right: 12px;
+    }
+    footnote a:hover,
+    footnote a {
+      text-shadow: 0 0 0;
+      font-weight: bold;
+    }
+    a {
+      color: #660000;
+    }
+    footnote a {
+      text-decoration: none;
+      color: #666;
+    }
+    div.page {
+      position: absolute;
+      bottom: 0;
+      left: 12px;
+      font-size: 14px;
+    }
+    em {
+      color: #AAA;
+    }
+  </style>
+  <script src="jquery.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      
+      $('div.normalslide').each(function(index) {
+        $(this).prepend('<img src="pics/hhhelsinki.jpeg" alt="" class="logo" />');
+      });
+      
+      $('div.normalslide').each(function(index) {
+        $(this).append('<footnote><a href="http://teelmo.info" target="_blank">Teemo Tebest</a>, <a href="http://http://twitter.com/teelmo" target="_blank">@teelmo</a> | 15.8.2012 | <a href="https://www.facebook.com/pages/HacksHackers-Helsinki/243763445697648" target="_blank">Hacks & Hackers Helsinki</a> | <img src="pics/twitterIcon.png" style="vertical-align: -20%;" alt="" /> #hhhki</footnote>');
+      });
+      /*
+      $('div.semantic-web').each(function(index) {
+        $(this).append('<img src="drupalcamp.fi-onki/semantic_web-logo.png" alt="" class="bottomImage" />');
+      });
+      */
+      /*
+      $('div.onki').each(function(index) {
+        $(this).append('<img src="drupalcamp.fi-onki/onki-logo.png" alt="" class="bottomImage" />');
+      });
+      */ 
+      $('div.normalslide').each(function() {
+        var idx = $('div.normalslide').index($(this));
+        idx = idx + 1
+        $(this).append('<div class="page">' + idx + '</div>')
+      });
+    });
+  </script>
+</head>
+
+<body class="impress-not-supported">
+
+  <div class="fallback-message">
+    <p>Your browser <b>doesn't support the features required</b> by impress.js, so you are presented with a simplified version of this presentation.</p>
+    <p>For the best experience please use the latest <b>Chrome</b>, <b>Safari</b> or <b>Firefox</b> browser.</p>
+  </div>
+
+  <div id="impress">
+
+    <div class="step slide" data-x="0" data-y="-2500">
+      <div style="margin: 100px 0 0 0px;">
+        <img src="pics/hacksandhackers.png" style="width: 100%;"alt="" />
+      </div>
+      <div style="margin: 10px 0 0 100px; font-size: 70px;">
+        Helsinki 15.8.2012
+      </div>
+    </div>
+
+    <!-- First slide, first row (1) -->
+    <div class="step slide normalslide" data-x="-1000" data-y="-1500">
+      <h1>Data ja <br />&nbsp; Journalismi</h1>
+      <img src="pics/ylelogo.jpeg" alt="" style="position: absolute; right: 110px; top: 300px;"/>
+      <br />
+      <q>
+        <a href="http://teelmo.info" target="_blank">Teemo Tebest</a>, <a href="http://twitter.com/teelmo" target="_blank">@teelmo</a><br />Svenska Yle
+      </q>
+      <br />
+      <q class="right">
+        <a href="https://www.facebook.com/pages/HacksHackers-Helsinki/243763445697648" target="_blank">Hacks &amp; Hackers Helsinki</a> | 15.8.2012
+      </q>
+    </div>
+
+    <!-- Overview -->
+    <div id="overview1" class="step" data-x="0" data-y="-800" data-scale="3" data-rotate="0">
+    </div>
+    <div id="overview2" class="step" data-x="0" data-y="1800" data-scale="3" data-rotate="0">
+    </div>
+    
+    <!-- Second slide, first row (2) -->
+    <div class="step slide normalslide" data-x="0" data-y="-1500">
+      <h1>Teemo Tebest</h1>
+      <q>
+        <img src="pics/tebest.jpg" alt="" class="" />
+        Internet meemini.
+      </q>
+    </div>
+
+    <!-- Third slide, first row (3) -->
+    <div class="step slide normalslide" data-x="1000" data-y="-1500">
+      <h1>Teemo Tebest</h1>
+      <q>
+        &bull;&nbsp; Tietotekniikan diplomi-insinööri, &nbsp;&nbsp;&nbsp;&nbsp;Ihminen.
+        <br />
+        &bull;&nbsp; Social Media Web Developer.
+        <br />
+        &bull;&nbsp; Datajournalisti / Datan visualisoija.
+        <br />
+        &bull;&nbsp; Aikaisemmin tutkijana <a href="http://tut.fi" target="_blank">TTY</a>:llä.
+        <br />
+        &bull;&nbsp; Nykyisin Web Designer <a href="http://svenska.yle.fi/" target="_blank">Svenska Yle</a>:ssä.
+        <br />
+    </div>
+
+    <!-- First slide, second row (4) -->
+    <div class="step slide normalslide" data-x="1000" data-y="-500">
+      <h1>15min epistola</h1>
+      <q>
+        <a href="http://jarrodphipps.com/?p=190" target="_blank"><img src="pics/metadata.jpeg" alt="" style="position: absolute; right: 50px; top: 220px;"/></a>
+        &bull; Miten uutissivuston datasta<br />
+        &nbsp;&nbsp; tehdään saavutettavaa<br />
+        &nbsp;&nbsp; ihmisille ja koneille.
+        <br />
+        <br />
+        &bull; Mitä me olemme tehneet datan<br />
+        &nbsp;&nbsp; avulla (Svenska) Yle:ssä.
+        <!--
+        &bull; Metadata, mitä se on<br />
+        &nbsp;&nbsp;&nbsp;&nbsp;&bull;&nbsp; <em>Koneluettavuus</em><br />
+        &nbsp;&bull; Datan käyttötapauksia<br />
+        &nbsp;&nbsp;&nbsp;&nbsp;&bull;&nbsp; <em>Kartta, Verkosto</em><br />
+        &nbsp;&bull; Maktbasen-projekti<br />
+        &nbsp;&bull; MOT ja yritystukien kartoitus<br />-->
+      </q>
+    </div>
+
+    <!-- Second slide, second row (5) -->
+    <div class="step slide normalslide" data-x="0" data-y="-500">
+      <h1><a href="http://svenska.yle.fi" target="_blank">svenska.yle.fi</a></h1>
+      <q>
+        &nbsp;&bull; 24/7 uutissivusto.
+        <br />
+        &nbsp;&bull; Drupal 7 -pohjainen järjestelmä.
+        <br />
+        &nbsp;&bull; Uudistus aloitettiin syksyllä 2011.
+        <br />
+        &nbsp;&bull; Toteutus talon sisällä.
+      </q>
+    </div>
+
+    <!-- Third slide, second row (6) -->
+    <div class="step slide normalslide" data-x="-1000" data-y="-500">
+      <h1><a href="http://svenska.yle.fi" target="_blank">svenska.yle.fi</a></h1>
+      <q>
+        <!--&nbsp;&bull; Otsikko, teksti, julkaisutiedot, jne.
+        <br />
+        <br />
+        &nbsp;&bull; <a href="http://onki.fi/" target="_blank">ONKI.fi</a> ontologioiden mukainen &nbsp;&nbsp;&nbsp;&nbsp;sisältöjen merkitseminen.
+        <br />
+        <br />-->
+        &nbsp;&bull; Responsive Web Design
+        <br />
+        &nbsp;&bull; Mobile First
+        <br />
+        &nbsp;&bull; Content-Driven
+        <br />
+        &nbsp;&bull; Seuraa <a href="http://en.wikipedia.org/wiki/Semantic_Web" target="_blank">semanttisen web</a>:n periaatteita
+        <br />
+        <br />
+        &nbsp;&rarr; <a href="http://synd.dev/node/add/article" target="_blank">
+        Artikkelin lisääminen</a>
+      </q>
+      <img src="pics/onki-logo.png" alt="" style="position: absolute; right: 0; bottom: 40px;" />
+    </div>
+
+    <!-- First slide, third row (7) -->
+    <div class="step slide normalslide" data-x="-1000" data-y="500">
+      <h1>Metadata<br /><em class="small">&ldquo;Tietoa tiedosta&rdquo;</em></h1>
+      <q>
+        <a href="http://fi.wikipedia.org/wiki/Metatieto" target="_blank">Metadata</a> kuvaa jotain olemassa olevaa tietoa täydentäen sitä.
+        <br />
+        <span class="small">&nbsp;&nbsp;&bull;&nbsp; Uutissivustolla esim. julkaisutietoja, avainsanoja, <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sijainti, versio, muokkaaja, jne..</span>
+        <br />
+        Mitä hyötyä?
+      </q>
+    </div>
+
+    <!-- Second slide, third row (8) -->
+    <div class="step slide normalslide" data-x="0" data-y="500">
+      <h1>Koneluettavuus</h1>
+      <q>
+        <a href="http://svenska.yle.fi/artikel/2012/06/01/har-saljer-alkoholdrycker-bast" target="_blank">Artikkeli svenska.yle.fi</a>:ssä<br />
+        &nbsp;&nbsp; <a href="http://www.google.com/webmasters/tools/richsnippets?url=http%3A%2F%2Fsvenska.yle.fi%2Fartikel%2F2012%2F06%2F01%2Fhar-saljer-alkoholdrycker-bast" target="_blank">Google Rich Snippets</a>:n silmin.
+        <br />
+        <br />
+        Koneluettavuus mahdollistaa mm. &rarr;
+        <br />
+        &nbsp;&nbsp;&bull;&nbsp; <a href="http://www.wolframalpha.com/" target="_blank">Wolfram Alpha</a><br />
+        &nbsp;&nbsp;&bull;&nbsp; <a href="http://en.wikipedia.org/wiki/Knowledge_Graph" target="_blank">Google's Knowledge Graph</a>
+      </q>
+      <img src="pics/semantic_web-logo.png" alt="" style="position: absolute; right: 10px; bottom: 40px;" />
+    </div>
+
+    <!-- Third slide, third row (9) -->
+    <div class="step slide normalslide" data-x="1000" data-y="500">
+      <h1>Datan käyttäminen</h1>
+      <q>
+        <img src="pics/alkoholinmyyntikartta.png" alt="" style="position: absolute; right: 15px; top: 300px;" />
+        Alkoholin myynti Suomen kunnissa:<br />
+        &nbsp;&bull; <a href="http://svenska.yle.fi/artikel/2012/06/01/har-saljer-alkoholdrycker-bast">Uutinen</a> / <a href="http://datajournalismi.blogspot.fi/2012/07/alkoholinmyyntitiedon-visualisointia.html">Blogi</a>.
+        <br />
+        <br />
+        <a href="http://www.thl.fi/fi_FI/web/fi/tilastot/tietoa/aineistokuvaukset/alkoholijuomien_kulutus" target="_blank">THL:n data</a>, <a href="http://blogit.hs.fi/hsnext/hs-julkaisee-kuntakoneen-lahdekoodin">HS:n karttapohja</a>.
+        <br />
+        &nbsp;&bull; Avoimuus!
+      </q>
+    </div>
+
+    <!-- First slide, fouth row (10) -->
+    <div class="step slide normalslide" data-x="1000" data-y="1500" style="opacity: 0.1;">
+      <h1>Datan käyttäminen</h1>
+      <q>
+        <img src="pics/hyvinkaan_ampuja_facebook_verkosto.png" alt="" style="position: absolute; right: 0; top: 160px;"/>
+        Facebook-esimerkki:
+        <br />
+        &nbsp;&bull; <a href="http://yle.fi/uutiset/web-analyytikko_ampujan_facebook-piiri_varsin_suppea/6140162" target="_blank">Uutinen</a> / <a href="http://datajournalismi.blogspot.fi/2012/05/hyvinkaan-ampumistapaus.html" target="_blank">Blogi</a>.
+        <br />
+        <br />
+        <a href="https://graph.facebook.com/" target="_blank">Facebook API</a>:sta ryömittyä metatietoa. 
+        <br />
+        <br />
+        &nbsp;&bull; Kaikkien saatavilla olevaa dataa.
+      </q>
+    </div>
+
+    <!-- Third slide, third row (11) -->
+    <div class="step slide normalslide" data-x="0" data-y="1500">
+      <h1>Maktbasen-projekti</h1>
+      <q>
+        &nbsp;&bull; <a href="http://svenska.yle.fi/" target="_blank">Svenska.yle.fi</a> -palveluun linkittyvä &nbsp;&nbsp;&nbsp;&nbsp;tiedon tallennus- ja esitysjärjestelmä.
+        <br />
+        &nbsp;&bull; Suomenruotsalaisen kuntapolitiikan &nbsp;&nbsp;&nbsp;&nbsp;dataa.
+        <br />
+        &nbsp;&bull; Lanseeraus koekäyttöön syksyn aikana.
+        <br />
+        &nbsp;&bull; Linkittyy <a href="http://www.sitra.fi/hankkeet/datavaalit2012" target="_blank">Datavaalit</a>-hankkeeseen
+      </q>
+    </div>
+
+    <!-- Third slide, third row (12) -->
+    <div class="step slide normalslide" data-x="-1000" data-y="1500">
+      <h1>Maktbasen-projekti</h1>
+      <q>
+        &nbsp;&bull; Kuntadataa
+        <br />
+        &nbsp;&bull; Kunnallisvaltuutettudataa
+        <br />
+        &nbsp;&bull; Yritysdataa
+        <br />
+        &nbsp;&bull; Puoluedataa
+        <br />
+        <br />
+        Inspiraationa: <a href="http://valpejl.se/" target="_blank">Valpejl</a> <em class="small">(se)</em> &amp; <a href="http://www.nrk.no/maktbasen/" target="_blank">Maktbasen</a> <em class="small">(no)</em>
+      </q>
+    </div>
+
+    <!-- First slide, fouth row (13) -->
+    <div class="step slide normalslide" data-x="-1000" data-y="2500">
+      <h1>Maktbasen-projekti</h1>
+      <q>
+        <strong>Visualisointeja:</strong>
+        <br />
+        &nbsp;&bull; Kartta
+        <br />
+        &nbsp;&bull; Verkosto
+        <br />
+        &nbsp;&bull; Osuus
+        <br />
+        &nbsp;&bull; Katso myös
+        <img src="pics/maktbasen03.png" alt="" style="position: absolute; left: 380px; top: 150px;" />
+        <img src="pics/maktbasen04.png" alt="" style="position: absolute; right: 50px; top: 180px;" />
+        <img src="pics/maktbasen02.png" alt="" style="position: absolute; left: 316px; top: 300px;" />
+        <img src="pics/maktbasen05.png" alt="" style="position: absolute; right: 0px; top: 450px;" />
+      </q>
+    </div>
+
+    <!-- Second slide, third row (14) -->
+    <div class="step slide normalslide" data-x="0" data-y="2500">
+      <h1>MOT ja yritystuet</h1>
+      <q>
+        <a href="http://ohjelmat.yle.fi/mot/toimitus/kirsi_skon" target="_blank">Kirsi Skön</a> (<a href="http://ohjelmat.yle.fi/mot/etusivu" target="_blank">MOT</a>) on kerännyt dataa eri organisaatioiden maksamista suorista yritystuista. Jopa 12-15 vuoden aikasarja.
+        <br />
+        <br />
+        Tullaan julkaisemaan <strong>avodatana</strong> syksyllä visualisointien ja ohjelman kera.
+      </q>
+    </div>
+
+    <!-- Third slide, third row (15) -->
+    <div class="step slide normalslide" data-x="1000" data-y="2500">
+      <h1>OGDCamp + OKCon <br />&nbsp;&nbsp;= OKFestival</h1>
+      <q>
+        Maailman suurin avoimen datan tapahtuma <a href="http://okfestival.org/" target="_blank">OKFestival</a> maailmassa.... Suomessa! 18 &ndash; 22.9.2012
+        <br />
+        <br />
+        Topic Stream 10: <a href="http://okfestival.org/topic-stream-data-journalism-and-visualisation/" target="_blank">Data Journalism and Visualisation</a>
+      </q>
+    </div>
+
+    <!-- First slide, fourth row (16)
+    <div class="step slide normalslide" data-x="1000" data-y="3500">
+      <h1></h1>
+      <q>
+      </q>      
+    </div> -->
+
+    <!-- Second slide, fourth row (17)-->
+    <div class="step slide normalslide" data-x="0" data-y="3500">
+      <h1>Kiitos!</h1>
+      <q>
+        <a href="http://www.datamation.com/cnews/article.php/3878261/Tech-Comics-Whats-Metadata.htm" target="_blank"><img src="pics/metadata_comic.jpeg" alt="" style="position: absolute; right: 0; top: 120px;" /></a>
+        Kysymyksiä? kommentteja..
+        <br />
+        <br />
+        Yhteys: <a href="http://twitter.com" target="_blank">@teelmo</a> / <a href="http://teelmo.info" target="_blank">teelmo.info</a>
+        <br />
+        &nbsp;<a href="http://datajournalismi.blogspot.com" target="_blank">datajournalismi.blogspot.com</a><br />
+        &nbsp;<a href="http://utveckling.ylebloggen.fi" target="_blank">utveckling.ylebloggen.fi</a>
+        <br />
+        <em class="small">teemo (dot) tebest (at) gmail (dot) com</em>
+      </q>
+    </div>
+
+    <!-- Third slide, fourth row (18)
+    <div class="step slide normalslide" data-x="-1000" data-y="3500">
+      <h1></h1>
+      <q>
+
+      </q>
+    </div> -->
+
+    <!-- Center slide, fourth row (19) -->
+    <div class="step slide" data-x="0" data-y="4500">
+      <div style="margin: 100px 0 0 0px;">
+        <img src="pics/hacksandhackers.png" style="width: 100%;"alt="" />
+      </div>
+      <div style="margin: 10px 0 0 100px; font-size: 70px;">
+        Helsinki 15.8.2012
+      </div>
+    </div>
+  </div>
+
+  <script src="js/impress.js"></script>
+  <script>impress().init();</script>
+</body>
+</html>

@@ -1,0 +1,47 @@
+Säästölaskuri:
+  - Toimittajalla on mielenkiintoinen data
+  - Datassa säästökohteita ja niiden arvioituja vaikutuksia
+  - Plus Desk mietti miten data voitaisiin esittää mielenkiintoisella tavalla
+  - Esikuvana NY Timesin Budget Puzzle
+  - Teimme oman säästölaskurin
+    * Tavoitteellisuus (500 milj.)
+    * Pelillisyys
+    * Yhteisöllisyys (FB-jakaminen)
+
+  * Näytetään alkuperäinen Excel.
+
+  --> Olemme samalla sapluunalla tekemässä myös yksittäisten kuntien säästöistä samanlaisia laskureita
+
+    * Toistettavuus
+
+  --> Tylsä budjetti data mielenkiintoiseen formaattiin
+    * Suomen twiitatuin linkki
+    * Viikon luetuin juttu
+    * 3000+ Facebook-jakoa
+      * http://sharedcount.com/?url=http%3A%2F%2Fyle.fi%2Fuutiset%2Fmista_sina_saastaisit_jos_olisit_ministeri_kokeile_laskurilla%2F6544401
+    * 400 kommenttia
+
+Kaivokset ja luonnonsuojelu:
+  - Suomessa on iso kaivospuumi joka heijastaa kansainvälistä kaivostoimintaa
+  - Näkyy paljon uutisissa.
+  - Meitä kiinnosti tutkia miten laajasta ilmiöstä on kyse ja toisaalta minkälaisia ympäristövaikutuksia kaivostoiminnalla on.
+  - Suomessa eri viranomaiset pitävät erilaisia rekistereitä erinäisistä asioista.
+  - Tukes pitää kirjaa siitä missä on kaivosalueita. Saimme datan heiltä.
+  - Metsähallitus pitää tietoa siitä missä on erilaisia luonnonsuojelualueita
+  - Ympäristöministeriöllä oli hallussa tieto siitä missä on natura 2000 alueet.
+  - Todella paljon dataa. xxxx erilaista aluetta.
+  - Saimme nämä datat näiltä eri tahoilta. Teimme niistä yhteismitallisia ja käytimme Google Fusion Tables työkalua yhdessä Google Maps Apin kanssa ja teille datoista interaktiivisen kartan jonka avulla käyttäjän oli mahdollista selata oman mökki tonttinsa ympäristöä.
+  - Google:n työkalut tekivät visualisoinnin tekemisestä helppoa. Piti vain hankkia datat oikeassa formaatissa.
+  - Ongelma on että dataaa on kyllä hyvin paljon avoimesti ja koneluettavasti olemassa, mutta sen hallinnointi ja ymmärtäminen mistä sitä saa on vielä ongelma:
+  http://www.tukes.fi/fi/Toimialat/Kaivokset/Karttatiedostot/
+
+Google Maps esimerkki:
+  - Speed Visualization, hands on.
+  - Näytetään miten teimme Bostonin räjähdys kartan. Eli miten piirsimme räjähdyspaikat kartalle. Yksittäiset kohteet, reitit, alueet. Nykyään toimituksemme osaa miltein tehdä tällaisia itsenäisesti.
+
+
+Me olemme täällä koko päivän ja meille saa tulla puhumaan jos on mitään teknisiä haasteita. Vastaamme mielellämme.
+
+Joukkoistamisesimerkki. Ehkä Saimaan Sulaminen.
+
+* Lähetä Anpelle viestiä.

@@ -1,0 +1,353 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=1024" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <title>ONKI module | Drupalcamp.fi | impress.js</title>
+  
+  <meta name="description" content="impress.js is a presentation tool based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com." />
+  <meta name="author" content="Bartek Szopka" />
+
+  <link href="http://fonts.googleapis.com/css?family=Open+Sans:regular,semibold,italic,italicsemibold|PT+Sans:400,700,400italic,700italic|PT+Serif:400,700,400italic,700italic" rel="stylesheet" />
+  <link href="css/impress-demo.css" rel="stylesheet" />
+  
+  <link rel="shortcut icon" href="favicon.png" />
+  <link rel="apple-touch-icon" href="apple-touch-icon.png" />
+  <style type="text/css">
+    h1 {
+      font-size: 75px;
+      margin-bottom: -20px;
+      line-height: 70px;
+      font-style: italic;
+    }
+    .slide q {
+      font-size: 40px;
+      margin-left: 20px;
+    }
+    .right {
+      text-align: right;
+    }
+    .floatRight {
+      float: right;
+    }
+    .floatLeft {
+      float: left;
+    }
+    .drupal-logo {
+      position: absolute; 
+      top: 0; 
+      right: 0;
+    }
+    img.border {
+      border: 1px solid #ccc;
+      box-shadow: 1px 1px 1px #000;
+    }
+    footnote {
+      position: absolute; 
+      bottom: 0; 
+      right: 12px;
+      font-size: 14px;
+    }
+    .bottomImage {
+      position: absolute; 
+      bottom: 40px; 
+      right: 12px;
+    }
+    footnote a:hover,
+    footnote a {
+      text-shadow: 0 0 0;
+      font-weight: bold;
+    }
+    a {
+      color: #660000;
+    }
+    footnote a {
+      text-decoration: none;
+      color: #666;
+    }
+    div.page {
+      position: absolute;
+      bottom: 0;
+      left: 12px;
+      font-size: 14px;
+    }
+  </style>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      $('div.slide').each(function(index) {
+        $(this).prepend('<img src="drupalcamp.fi-onki/drupal-logo.png" alt="" class="drupal-logo" />');
+      });
+      $('div.normalslide').each(function(index) {
+        $(this).append('<footnote><a href="http://teelmo.info" target="_blank">Teemo Tebest, @teelmo</a> | 2.6.2012 | <a href="http://drupalcamp.fi/" target="_blank">Drupalcamp.fi</a> | #dcfi</footnote>');
+      });
+      $('div.semantic-web').each(function(index) {
+        $(this).append('<img src="drupalcamp.fi-onki/semantic_web-logo.png" alt="" class="bottomImage" />');
+      });
+      $('div.onki').each(function(index) {
+        $(this).append('<img src="drupalcamp.fi-onki/onki-logo.png" alt="" class="bottomImage" />');
+      }); 
+      $('div.normalslide').each(function() {
+        var idx = $('div.normalslide').index($(this));
+        idx = idx + 1
+        $(this).append('<div class="page">' + idx + '</div>')
+      });
+    });
+  </script>
+</head>
+
+<body class="impress-not-supported">
+
+  <div class="fallback-message">
+    <p>Your browser <b>doesn't support the features required</b> by impress.js, so you are presented with a simplified version of this presentation.</p>
+    <p>For the best experience please use the latest <b>Chrome</b>, <b>Safari</b> or <b>Firefox</b> browser.</p>
+  </div>
+
+  <div id="impress">
+
+    <div class="step slide" data-x="0" data-y="-2500">
+      <img src="drupalcamp.fi-onki/drupalcampfi.png" alt="" style="position: absolute; top: -5px; left: -5px;"/>
+    </div>
+
+    <!-- First slide, first row (1) -->
+    <div id="onki" class="step slide" data-x="-1000" data-y="-1500">
+      <h1>Semantic web <br />and ONKI</h1>
+      <br />
+      <q><a href="http://twitter.com/teelmo" target="_blank">Teemo Tebest, @teelmo</a><br />Yleisradio</q>
+      <br /><br />
+      <q class="right"><a href="http://drupalcamp.fi/" target="_blank">Drupalcamp.fi</a> | 2.6.2012</q>
+    </div>
+
+    <!-- Overview -->
+    <div id="overview1" class="step" data-x="0" data-y="-800" data-scale="3" data-rotate="0">
+    </div>
+    <div id="overview2" class="step" data-x="0" data-y="1000" data-scale="3" data-rotate="0">
+    </div>
+    <div id="overview3" class="step" data-x="0" data-y="2800" data-scale="3" data-rotate="0">
+    </div>
+    
+
+
+    <!-- Second slide, first row (2) -->
+    <div class="step slide normalslide" data-x="0" data-y="-1500">
+      <h1>Teemo Tebest</h1>
+      <q>
+        <img src="drupalcamp.fi-onki/tebest.jpg" alt="" class="" />
+        My Internet meme
+      </q>
+    </div>
+
+    <!-- Third slide, first row (3) -->
+    <div class="step slide normalslide" data-x="1000" data-y="-1500">
+      <h1>Teemo Tebest</h1>
+      <q>
+        &bull;&nbsp; Social media web developer<br />
+        &bull;&nbsp; Working with Drupal since 2009<br />
+        &bull;&nbsp; Various projects, <a href="http://svenska.yle.fi" target="_blank" title="Svenska Yle's New Drupal">SYND</a> being the biggest<br />
+        &bull;&nbsp; Used to be a researcher at the <a href="http://tut.fi" target="_blank">Tampere university of technology</a><br />
+      </q>
+    </div>
+
+    <!-- First slide, second row (4) -->
+    <div class="step slide normalslide" data-x="1000" data-y="-500">
+      <h1>Today's mission</h1>
+      <q>
+        1. Semantic web<br />
+        <img src="drupalcamp.fi-onki/rdf-logo.png" alt="" class="floatRight" />
+        2. Ontologies<br />
+        3. Onki.fi service<br />
+        4. ONKI module<br />
+        5. Conclusions<br />
+      </q>
+    </div>
+
+    <!-- Second slide, second row (5) -->
+    <div class="step slide normalslide semantic-web" data-x="0" data-y="-500">
+      <h1>Semantic web</h1>
+      <q>
+        What does it mean?<br />
+        &bull;&nbsp; 
+      </q>
+    </div>
+    <!-- Second slide, second row (5) -->
+    <div class="step slide normalslide semantic-web" data-x="0" data-y="-500">
+      <h1>Semantic web</h1>
+      <q>
+        What does it mean?<br />
+        &bull;&nbsp; Content is machine readable.
+      </q>
+    </div>
+    <!-- Second slide, second row (5) -->
+    <div class="step slide normalslide semantic-web" data-x="0" data-y="-500">
+      <h1>Semantic web</h1>
+      <q>
+        What does it mean?<br />
+        &bull;&nbsp; Content is machine readable.<br />
+        &nbsp;&nbsp;&rarr;&nbsp; Machines are able to read the content like humans.<br />
+        &nbsp;&nbsp;&rarr;&nbsp; This has obvious benefits in searching and finding the content.
+      </q>
+    </div>
+
+    <!-- Third slide, second row (6) -->
+    <div class="step slide normalslide semantic-web" data-x="-1000" data-y="-500">
+      <h1>Semantic web</h1>
+      <q>
+        &bull;&nbsp; Author, publish date, tags, title, description... See: <a href="http://schema.org" target="_blank">schema.org</a><br />
+        &bull;&nbsp; In practise semantic web allows one to use the web more efficiently.<br />
+        &bull;&nbsp; Take for example <a href="http://en.wikipedia.org/wiki/Knowledge_Graph">Google's Knowledge Graph</a> or <a href="http://www.wolframalpha.com/">Wolfram Alpha</a>. Check: <br /><a href="http://www.google.com/webmasters/tools/richsnippets?url=http%3A%2F%2Fsvenska.yle.fi%2Fartikel%2F2012%2F06%2F01%2Fhar-saljer-alkoholdrycker-bast" target="_blank">Google Rich Snippets</a>
+      </q>
+    </div>
+
+    <!-- First slide, third row (7) -->
+    <div class="step slide normalslide" data-x="-1000" data-y="500">
+      <h1>Ontologies</h1>
+      <q>
+        &bull;&nbsp; Ontologies are part of the semantic web.<br />
+        &bull;&nbsp; Ontologies describe how different terms and taxonomies relate to each other.<br />
+        &bull;&nbsp; <span title="no language barriers">+++</span><br />
+        &bull;&nbsp; More from <a href="http://en.wikipedia.org/wiki/Ontology">Wikipedia</a><br />
+        <br />
+        Example &rarr;
+      </q>
+      <img src="drupalcamp.fi-onki/ontology.jpeg" alt="" class="bottomImage" />
+    </div>
+
+    <!-- Second slide, third row (8) -->
+    <div class="step slide normalslide" data-x="0" data-y="500">
+      <h1>Ontologies</h1>
+      <q>
+        <div style="position: absolute; right: 20px; top: 210px;">
+          Yes this thing!
+          <br />
+          <img src="drupalcamp.fi-onki/fly.jpeg" alt="" />
+
+        </div>
+        <img src="drupalcamp.fi-onki/zipper.jpeg" alt="" style="position: absolute; top: 540px; left: 400px;" />
+        &bull;&nbsp; a living being<br /> 
+        &nbsp;&nbsp;&nbsp;&nbsp;&rarr; species<br />
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&rarr; insect<br /> 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&rarr; fly<br />
+        <br />
+        ... not this thing
+      </q>
+    </div>
+
+    <!-- Third slide, third row (9) -->
+    <div class="step slide normalslide onki" data-x="1000" data-y="500">
+      <h1>Onki.fi</h1>
+      <q>
+        &rdquo;<a href="http://onki.fi" alt="">Onki.fi</a> is a service that contains Finnish and international (fi, se, en) ontologies, vocabularies and thesauri needed for publishing content cost-efficiently to the Semantic Web.&rdquo;
+      </q>
+    </div>
+
+    <!-- First slide, fouth row (10) -->
+    <div class="step slide normalslide onki" data-x="1000" data-y="1500">
+      <h1>Onki.fi</h1>
+      <q>
+        &bull;&nbsp; Service is maintained by the <a href="http://www.seco.tkk.fi/" target="_blank">Semantic Computing Research Group</a> in the <a href="http://www.aalto.fi/en/" target="_blank">Aalto University</a>.<br />
+        &bull;&nbsp; It contains several different ontologies that can be used either separately or all at the same time. 
+      </q>
+    </div>
+
+    <!-- Third slide, third row (11) -->
+    <div class="step slide normalslide onki" data-x="0" data-y="1500">
+      <h1>Onki module</h1>
+      <q>
+        <br />
+        During the development of <strong title="Svenska Yle's New Drupal">SYND</strong> we've build up a module that integrates the ontologies served by Onki.fi with Drupal taxonomies.<br />
+        Credits to Tomi Mikola, Mearra
+      </q>
+    </div>
+
+    <!-- Third slide, third row (12) -->
+    <div class="step slide normalslide onki" data-x="-1000" data-y="1500">
+      <h1>Onki module<br /> - motivation</h1>
+      <q>
+        We wanted to have a <strong>semantic solution</strong> that would get us a better <strong>searchability</strong> and <strong title="related content">findality</strong> but also a solution that would support the editors in the content creating process.
+      </q>
+    </div>
+
+    <!-- First slide, fouth row (13) -->
+    <div class="step slide normalslide onki" data-x="-1000" data-y="2500">
+      <h1>Onki module<br /> - hands on</h1>
+      <br />
+      <br />
+      <div>
+        <div class="floatLeft" style="width: 350px;">
+          Onki settings
+          <a href="http://localhost/drupal-7.14/admin/config/content/onki" target="_blank"><img src="drupalcamp.fi-onki/onki-module-settings.png" alt="" class="floatLeft border" /></a>
+        </div>
+        <div style="margin-left: 380px;">
+          Autocompleting terms
+          <a href="http://synd.dev/node/add/article" target="_blank"><img src="drupalcamp.fi-onki/onki-module-autocomplete.png" alt="" class="floatLeft border" /></a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Second slide, third row (14) -->
+    <div class="step slide normalslide" data-x="0" data-y="2500">
+      <h1>Onki module</h1>
+      <q>
+        &bull;&nbsp; The module is just released as a <a href="http://drupal.org/sandbox/teelmo/1596454" target="_blank">Sandbox project</a>.<br />
+        &bull;&nbsp; Currently the module is pending to be <a href="http://drupal.org/node/1604784" target="_blank">a full project</a> so please review :)</br>
+        &bull;&nbsp; Participation to the <strong>development</strong> <strong>process</strong> is also encouraged.
+      </q>
+    </div>
+
+    <!-- Third slide, third row (15) -->
+    <div class="step slide normalslide" data-x="1000" data-y="2500">
+      <h1>Arpa service</h1>
+      <q>
+        &bull;&nbsp; Arpa is a subfunctionality of Onki which <strong>automates</strong> the tagging process.<br />
+        &bull;&nbsp; Arpa takes in content and tries to guess what tags would best describe the content.<br /> 
+        &bull;&nbsp; We've also <a href="http://synd.dev/node/678/edit" target="_blank">integrated our system with ARPA</a> (coming also as a contrib module).
+      </q>
+    </div>
+
+    <!-- First slide, fourth row (16) -->
+    <div class="step slide normalslide" data-x="1000" data-y="3500">
+      <h1>Onki &amp; Arpa<br /> - obstacles</h1>
+      <q>
+        &bull;&nbsp; Downtime issues with Onki.fi servers<br />
+        &bull;&nbsp; No possibility to add custom terms (yet!)<br />
+        &bull;&nbsp; Some categories are not available (spatial, tv-programs, people...etc.)
+      </q>      
+    </div>
+
+    <!-- Second slide, fourth row (17) -->
+    <div class="step slide normalslide" data-x="0" data-y="3500">
+      <h1>Onki &amp; Arpa<br /> - benefits</h1>
+      <q>
+        <img src="drupalcamp.fi-onki/thumbs_up.jpeg" alt="" class="floatRight" style="padding-top: 30px; margin-right: -30px;"/>
+        &bull;&nbsp; <strong>Users:</strong> Better searchability<br />
+        &bull;&nbsp; <strong>Editors:</strong> Easy way to tag content<br /> 
+        &bull;&nbsp; <strong>Business:</strong> Better visibility<br />
+        &bull;&nbsp; <strong>Developers:</strong> Easier access<br />
+      </q>
+
+    </div>
+
+    <!-- Third slide, fourth row (18) -->
+    <div class="step slide normalslide" data-x="-1000" data-y="3500">
+      <h1>Thank you!</h1>
+      <q>
+        Questions?<br />
+        <br />
+        Feel free to bug me: <a href="http://twitter.com" target="_blank">@teelmo</a><br />
+        <img src="drupalcamp.fi-onki/drupal_thank_you.jpeg" alt="" style="margin-top: 30px;"/>
+      </q>
+    </div>
+
+    <!-- First slide, fourth row (19) -->
+    <div class="step slide" data-x="0" data-y="4500">
+      <img src="drupalcamp.fi-onki/drupalcampfi.png" alt="" style="position: absolute; top: -5px; left: -5px;"/>
+    </div>
+
+  </div>
+
+  <script src="js/impress.js"></script>
+  <script>impress().init();</script>
+
+</body>
+</html>

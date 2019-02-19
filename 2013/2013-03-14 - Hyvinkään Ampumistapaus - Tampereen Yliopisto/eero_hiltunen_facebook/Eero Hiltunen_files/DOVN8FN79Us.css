@@ -1,0 +1,242 @@
+/*1337855855,169775812*/
+
+.platformDialogFullpage{margin:0 auto 70px auto;width:640px}
+.platform_dialog_content .bucketlistPane .sectionContent{padding-bottom:0}
+.platform_dialog_content .bucketlistPane .colorGray{color:gray}
+.bucketlistPane .optPermBucket{width:585px}
+.bucketlistPane li.optedOut .optPermBucket{opacity:.3}
+.bucketlistPane .gdp_permission_icon{height:32px;width:32px;overflow:hidden;display:block;margin-right:8px}
+.bucketlistPane .permsExplanation{border-top:1px solid #e9e9e9}
+#gdp_non_revocable_buckets .sectionHeader{color:#000;font-size:13px;font-weight:bold}
+.permissionsHeader{padding:15px 20px}
+.permissionsHeader .contentWrapper{width:600px}
+.permissionsHeader .logo{margin-right:13px}
+.permissionsHeader .title{height:75px;vertical-align:middle}
+.permissionsHeader .subtitle{margin-top:4px;display:inline-block;line-height:12px}
+.permissionsHeader .rightContent{max-width:330px;position:relative;padding-left:8px;text-align:right}
+.permissionsHeader .rightContent .uiButton{margin-top:30px}
+.privacySelectorWrapper .uiButton .uiButtonText{color:#333;font-weight:normal}
+.privacySelectorWrapper .openToggler .uiButton .uiButtonText{color:#fff}
+.privacySelectorWrapper .selected .plusLabel{color:#fff}
+.privacySelectorSuppressed .uiSelectorButton{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/yI/r/AShQNChNgfr.png);background-repeat:no-repeat;background-position:right -1px}
+.privacySelectorSuppressed .audienceSelector .uiSelectorButton .customimg{opacity:.5}
+.privacySelectorSuppressed:hover .uiButton .uiButtonText{color:#333}
+.privacySelectorSuppressed .uiButton .uiButtonText{color:gray}
+.privacySelectorSuppressed .openToggler .uiButton .uiButtonText{color:#fff}
+.privacySelectorSuppressed:hover .audienceSelector .uiSelectorButton .customimg, .privacySelectorSuppressed .openToggler .uiSelectorButton .customimg{opacity:1}
+.privacySelectorFixed .uiSelectorNormal{max-width:91px}
+.privacySelectorFixed .uiSelectorNormal .uiSelectorButton, .privacySelectorFixed .uiSelectorNormal .uiSelectorButton:active, .privacySelectorFixed .uiSelectorNormal .uiSelectorButton:focus, .privacySelectorFixed .uiSelectorNormal .uiSelectorButton:hover, .privacySelectorFixed .uiSelectorNormal .uiButtonSuppressed:active, .privacySelectorFixed .uiSelectorNormal .uiButtonSuppressed:focus, .privacySelectorFixed .uiSelectorNormal .uiButtonSuppressed:hover, .privacySelectorFixed .uiSelectorNormal .uiSelectorButton .uiButtonText{max-width:60px}
+.privacySelectorFixed .uiSelectorNormal .uiSelectorButton .img{float:left}
+.platformDialogFullpage{margin:0 auto 70px auto;width:640px}
+.permissionsViewEducation{background-color:#eceff4;border-bottom:1px dashed #ccc;padding:12px 20px}
+.tosPane{min-width:640px}
+.columnWrapper{width:600px}
+.tosPane .leftColumn{width:290px}
+.tosPane .rightColumn{width:285px}
+.tosPane .sectionHeader{color:#919191}
+.tosPane .sectionContent{color:#333;padding-bottom:15px}
+.tosPane .colorGray{color:#606060}
+.tosPane .noheader{color:#333}
+.tosPane .sectionContent .bulletlist{margin-bottom:-5px;color:#333}
+.tosPane .sectionContent .bulletlistItem{margin-bottom:4px}
+.tosPane .legalese{color:#999;font-size:9px;line-height:13px}
+.permissionsPublishActionsBadge{background:#CCC url(https://s-static.ak.fbcdn.net/rsrc.php/v2/yg/r/t1fUo0ohmlU.png) no-repeat 10px;border:1px solid #ccc;-webkit-border-radius:3px;-webkit-border-top-right-radius:6px;-webkit-border-bottom-right-radius:6px;font-size:11px;line-height:14px;padding-bottom:2px;width:285px}
+.permissionsLockText{background-color:#fff;border:solid 1px #ccc;border-left:0;-webkit-border-top-right-radius:3px;-webkit-border-bottom-right-radius:3px;margin:-1px -1px -3px 52px;padding:7px 10px}
+.platform_dialog_fullheight_page body{height:100%}
+.platform_dialog_fullheight_page .platform_dialog .platform_dialog_bottom_bar{bottom:0;left:0;position:fixed;right:0}
+.platform_dialog_joey_page .platform_dialog_header_container{background-color:#6d84b4;border:1px solid #3b5998}
+.platform_dialog_joey_page .platform_dialog_header_container .platform_dialog_header{color:#fff;font-size:14px;font-weight:bold;padding:5px}
+.platform_dialog_joey_page .platform_dialog_content,
+.platform_dialog_joey_page .platform_dialog_bottom_bar_border_lr,
+.platform_dialog_joey_page .confirmation_stripes{border-left:1px solid #555;border-right:1px solid #555}
+.platform_dialog_joey_page .platform_dialog_bottom_bar_border_tb{border-bottom:1px solid #555}
+.platform_dialog_joey_page .platform_dialog_icon{background:#6D84B4 url(https://s-static.ak.fbcdn.net/rsrc.php/v1/yd/r/Cou7n-nqK52.gif) no-repeat scroll center;float:left;height:16px;margin:5px;width:16px}
+.platformDialogFullpage{margin:0 auto 70px auto;width:640px}
+.platformDialogFullpage .uiHeaderBottomBorder{border-color:#ccc;margin-bottom:0;padding-bottom:.5em}
+.platform_dialog .confirmation_stripes{background:transparent url(https://s-static.ak.fbcdn.net/rsrc.php/v2/y7/r/sVrwJtmBVjI.gif) repeat scroll 0 0;height:15px}
+.platform_dialog .platform_dialog_content_padded{padding:10px}
+.platform_dialog .platform_dialog_error p,
+.platform_dialog .platform_dialog_status p{margin:4px 0 0}
+.platform_dialog .platform_dialog_bottom_bar_border_tb{border-top:1px solid #ccc}
+.platform_dialog .platform_dialog_bottom_bar{background-color:#f2f2f2;bottom:0;left:0;position:fixed;right:0;width:100%;z-index:10}
+.platform_dialog .platform_dialog_bottom_bar_table{width:100%}
+.platform_dialog .platform_dialog_content_fixed_bottom_bar{padding-bottom:46px}
+.platform_dialog .platform_dialog_content_padded_fixed_bottom_bar{padding-bottom:56px}
+.platform_dialog .platform_dialog_buttons{float:right;padding:10px;text-align:right}
+.platform_dialog .platform_dialog_footer{float:left;margin:7px 5px 7px 10px}
+.platform_dialog .platform_dialog_buttons input{margin:0}
+.platform_dialog .platform_dialog_subtitle{border-bottom:1px solid #d8dfea;margin-bottom:10px;padding-bottom:4px}
+body.platform_dialog,
+html.wrapped body.platform_dialog #body{overflow:auto}
+.feedform .interaction_form .feed_dialog_disclaimer{padding:10px 0 0 0}
+.feedform .platform_dialog_bottom_bar .platform_dialog_bottom_bar_table{float:right;width:auto}
+.feedform .UIFullPage_Container .fbPrivacyWidget,
+.feedform .UIFullPage_Container .audienceSelector{float:right;margin-right:10px;margin-top:-4px}
+.feedform .interaction_form .story_preview_nile{padding:0}
+.feedform .interaction_form .UIIntentionalStory{margin-bottom:0;padding-top:0}
+.feedform .interaction_form .recipients{padding:0 0 15px 0}
+.feedform .interaction_form .recipients strong{margin-left:-7px;padding:4px 4px 0 0}
+.fb_dialog_attachment_pagelet{background:transparent url(https://s-static.ak.fbcdn.net/rsrc.php/v2/y9/r/jKEcVPZFk-2.gif) no-repeat center;height:50px;margin:0 auto}
+.appRequestBody{line-height:14px;color:gray}
+.appRequestBodyNewA div{width:530px}
+.hasLeftCol .appRequestBodyNewA div{width:295px}
+.hasLeftCol .combinedAppGameDash .appRequestBodyNewA div{width:340px}
+.extraRequest,
+.hiddenSubmitButton,
+.requestsSeeAll .hiddenRequestsLink{display:none}
+.requestsSeeAll .extraRequest{display:block}
+.appRequestTitle{margin-top:4px}
+.appRequestTitlePreview{margin-top:-2px;font-size:12px}
+.appRequestTitlePreview a{font-weight:bold}
+.combinedAppGameDash .appRequest{padding:0 0 10px 13px}
+.appRequest .closeButton{margin:2px 0 1px 0}
+.appRequestGroup .closeButton{margin:2px 0 1px 0}
+.appRequestPreview .closeButton{margin:2px 0 1px 0}
+.appRequestPreview{background-color:#eff1f8;border-color:#dfe2ee;border-style:solid;border-width:2px;margin-right:60px;padding:7px}
+.appRequest .uiCloseButton, .appRequestPreview .uiCloseButton{display:none}
+.appRequest:hover .uiCloseButton, .appRequestPreview:hover .uiCloseButton{display:block}
+.requests .uiMorePagerLight .uiMorePagerPrimary{padding:5px 0 4px 13px;border:none}
+.requests .uiMorePagerLight .uiMorePagerPrimary{padding:5px 0 5px 13px;border:none}
+.requests .uiMorePagerLight .uiMorePagerPrimary:hover{background-color:#d8dfea;border:none}
+.requests .uiMorePagerPrimary .moreRequestsText{font-size:9px;font-weight:bold}
+.unclickable{position:relative}
+.unclickable .unclickableMask{background:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/y4/r/-PAXP-deijE.gif) repeat;height:100%;left:0;position:absolute;top:0;width:100%;z-index:1}
+.UIStory_Hide{display:block;float:right;margin-top:-2px}
+.UIStory_Hide a.uiCloseButton{opacity:0}
+.UIStory_Hide a.uiCloseButton:hover, .UIStory:hover .UIStory_Hide a.uiCloseButton, .UIStory_Hide .openToggler a.uiCloseButton{opacity:1}
+.stream_participants_not_expanded .stream_participants_long, .stream_participants_expanded .stream_participants_short{display:none}
+.UIStory_Privacy a{padding:0 5px;line-height:12px;display:inline-block;background:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/yJ/r/izQe4GX_lA2.gif) no-repeat center right}
+.UIStory_Privacy.UIStory_TargetedPrivacy a{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/yd/r/UJHgnnKoTwL.gif);padding:0 7px;line-height:14px}
+.UIStory .text_exposed_link{display:block;padding-top:4px;font-size:11px}
+.UIIntentionalStory{background-color:#fff;border-top:1px solid #eee;margin-bottom:7px;min-height:50px;padding:7px 0 0 60px;position:relative}
+.UIStory:first-child{border-top:none;margin-top:0}
+.story_preview_nile .UIIntentionalStory{border:none}
+.UIIntentionalStory_Location, .UIIntentionalStory_Time, .UIIntentionalStory_Time a{color:#777;font-size:11px}
+.UIIntentionalStory_BottomAttribution{color:#777}
+.UIIntentionalStory_BottomAttribution a{color:#777}
+.UIIntentionalStory_Pic{left:0;position:absolute}
+.UIIntentionalStory_Image{display:block;position:absolute;vertical-align:middle}
+.UIIntentionalStory_Message, .UIIntentionalStory .location{font-size:13px;font-weight:normal}
+.UIIntentionalStory_Message_Generated{color:#777}
+.UIFeedFormStory_Prompt{color:gray;font-size:11px;padding-right:8px}
+.UIFeedFormStory_Prompt .UIFeedFormStory_Lead{font-weight:bold}
+.UIFeedFormStory_Prompt textarea{font-size:13px;font-weight:normal;margin-top:5px;overflow:hidden;width:100%}
+.UIIntentionalStory_Arrow{padding:0 1px}
+.UIIntentionalStory_Names{color:gray}
+.UIIntentionalStory_Names a, a.UIIntentionalStory_Names{font-weight:bold}
+a.UIIntentionalStory_Names{color:#3b5998}
+.UIIntentionalStory_Attribution{color:gray}
+.UIIntentionalStory .UIStoryAttachment_MediaSingle{padding-right:10px}
+.UIIntentionalStory_PhotoExtra{padding-left:8px}
+.UIIntentionalStory_MediaExtra{display:none;padding-left:8px}
+.text_exposed .UIIntentionalStory_MediaExtra{display:block}
+.UIIntentionalStory_Info{clear:left;margin-top:3px;min-height:16px;display:block}
+.UIActionLinks .UIIntentionalStory_Mobile{margin-top:-2px}
+.UIIntentionalStory_InfoText{color:#777;min-height:16px;padding:2px 0 0 0}
+.UIIntentionalStory_InfoTextIndented{padding-left:22px}
+.UIIntentionalStory_Tagged{background:url(https://s-static.ak.fbcdn.net/rsrc.php/v2/yV/r/IJYgcESal33.png) no-repeat;background-position:0 -395px;padding-left:16px;width:0;display:inline-block}
+.story_hide_menu{text-align:center}
+.UIIntentionalStory_hover{background:#eee}
+.UIIntentionalStory .swfvideo .extra{padding-bottom:0;padding-right:0}
+.UIIntentionalStory .UIMediaItem_video{padding-bottom:0}
+.UIIntentionalStory_CollapsedStories{background-color:#fff;border-top:1px solid #eee;display:block;font-size:9px;font-weight:bold;margin-bottom:7px;padding-top:7px;margin-top:7px;position:relative}
+.UIIntentionalStory_CollapsedStoriesLoading{background:#fff url(https://s-static.ak.fbcdn.net/rsrc.php/v2/yb/r/GsNJNwuI-UM.gif) 6px right no-repeat}
+.UIMediaItem_ManyItems{float:left}
+.UIMediaItem img{display:block}
+.UIMediaItem .uiVideoThumb{display:block}
+.UIMediaItem_Wrapper{overflow:hidden}
+.UIMediaItem_Photo .UIMediaItem_Wrapper{display:inline-block}
+.UIMediaItem_Photo .UIMediaItem_PhotoFrame{border:3px solid white}
+.UIMediaItem_UnknownWidth img{max-width:90px;max-height:90px}
+.UIStoryAttachment{margin-top:6px;overflow:hidden;padding-right:10px;margin-bottom:5px}
+.UIStoryAttachment_Tab{position:absolute}
+.UIStoryAttachment_Icon{background:#fff;padding-bottom:2px}
+.UIStoryAttachment_BlockQuote{border-left:2px solid #ccc;padding:0 0 3px 8px}
+.UIStoryAttachment_BlockQuote .UIStoryAttachment_Title{margin-top:0}
+.UIStoryAttachment_Media{float:left;overflow:hidden;padding-right:10px}
+.UIStoryAttachment_MediaWide{float:none}
+.UIStoryAttachment_MediaShortened .UIStoryAttachment_MediaWide{float:left}
+.text_exposed .UIStoryAttachment_MediaShortened .UIStoryAttachment_MediaWide{float:none;display:block}
+.UIStoryAttachment_Info{display:table}
+.text_exposed .UIStoryAttachment_MediaShortened .UIStoryAttachment_Info, .UIStory_Open .UIStoryAttachment_Info{display:block;clear:left}
+.UIStoryAttachment_Title{font-weight:bold;padding-top:3px}
+.UIStoryAttachment_TitleAbove{margin:0}
+.UIStoryAttachment_TitleAboveMedia{margin:0 0 5px}
+.UIStoryAttachment_TitleBelow{clear:left;padding:5px 0 0}
+.UIStoryAttachment_Title_Byline{color:#777;font-weight:normal}
+.UIStoryAttachment_Title_Byline a{font-weight:bold}
+.UIStoryAttachment_Caption{color:gray;padding-top:3px}
+.UIStoryAttachment_Copy{color:gray;padding:3px 0}
+.UIStoryAttachment_Copy .CopyTitle{font-weight:bold}
+.UIStoryAttachment_Copy table{border-collapse:collpase}
+.UIStoryAttachment_Copy table td{padding:2px 2px 0 0}
+.UIStoryAttachment_Table{padding-top:2px}
+.UIStoryAttachment_Tags{color:gray;padding:0 0 3px}
+.UIStoryAttachment_Label{color:#999;padding-right:4px}
+.UIStoryAttachment_Tags .UIStoryAttachment_Label{background:transparent url(https://s-static.ak.fbcdn.net/rsrc.php/v1/yV/r/IJYgcESal33.png) no-repeat left -395px;padding-left:16px}
+.UIStoryAttachment_InlineInfo .UIStoryAttachment_Copy, .UIStoryAttachment_InlineInfo .UIStoryAttachment_Title{display:inline}
+.platform_apprequests_message{padding-left:7px !important}
+.platform_apprequests_preview .uiInfoTable .label{width:auto}
+.platform_apprequests_preview li{padding:10px}
+.platform_apprequests_preview .table_cell{display:table-cell}
+.platform_apprequests_footer{width:350px}
+.profileBrowserDialog .fbProfileBrowserListContainer li:first-child{border-top:none}
+.profileBrowserDialog .listView{height:353px}
+.profileBrowserDialog .fbProfileBrowserResult{height:353px;overflow-y:auto;position:relative}
+.profileBrowserDialog .filterBox{border-bottom:1px solid #ccc;border-top:none}
+.profileBrowserDialog .fbProfileBrowserSummaryBox{margin:0 4px}
+.profileBrowserDialog .limitNotReached .checkmark{display:none}
+.profileBrowserDialog .checkmark{position:relative;top:2px;left:7px}
+.profileBrowserDialog .fbProfileBrowserList .fbProfileBrowserListItem{padding:4px}
+.filterBoxAlignment{padding:10px 7px 10px 5px}
+.requestMessage{border:0 none;outline:0 none;padding:0;width:100%}
+.requestMessageWrapper{background-color:#fff;border:1px solid #bdc7d8;overflow:hidden;padding:3px 3px 4px 3px}
+.standardLayout .streamStyleRequest{padding:3px 0 0 5px}
+.checkableListItem .anchor:hover{text-decoration:none}
+.selectedCheckable, .selectedCheckable .anchor:hover{background:#e3e7f1}
+.selectedCheckable + .selectedCheckable{border-color:#c3cce1}
+.disabledCheckable .anchor, .disabledCheckable .anchor:hover{background:#fff;cursor:default;opacity:.3;outline:none}
+.suggestedDivider{background:#e9e9e9;height:6px;text-align:center;text-transform:uppercase}
+.suggestedDivider .dividerText{background:#fff;position:relative;top:-4px}
+.multiColumnCheckable{float:left;margin:5px 0 0 5px;overflow:hidden;width:262px}
+.threeColumns .multiColumnCheckable{width:173px}
+.threeColumns .multiColumnCheckable.presenceIncluded{width:196px}
+.threeColumns .multiColumnCheckable .content, .threeColumns .multiColumnCheckable .spacer{height:29px}
+.threeColumns .multiColumnCheckable .long{padding-top:1px}
+.threeColumns .multiColumnCheckable .text{font-weight:normal}
+.threeColumns .multiColumnCheckable .subtitle{display:none}
+.threeColumns .multiColumnCheckable .photo{height:30px;margin-right:5px;width:30px}
+.multiColumnCheckable .checkbox{float:left;margin:23px 8px 0 6px}
+.threeColumns .multiColumnCheckable .checkbox{margin:12px 6px 0}
+.multiColumnCheckable .anchor{border:1px solid #fff;border-width:1px 0;display:block;outline:none;padding:6px}
+.threeColumns .multiColumnCheckable .anchor{padding:2px}
+.multiColumnCheckable .anchor:hover{background-color:#eceff5;border-color:#eceff5}
+.multiColumnCheckable .selected .text{color:#fff}
+.limitReached .multiColumnCheckable .anchor{border-color:#fff}
+.multiColumnCheckable.selectedCheckable .anchor{background-color:#d8dfea;border-color:#c3cce1}
+.multiColumnCheckable .presenceImg{float:right;height:12px;margin:0 5px;width:8px}
+.multiColumnCheckable .presenceImg.active{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/yi/r/Ce0Xa8hRU2A.png);background-repeat:no-repeat;background-position:-845px -397px;margin-top:7px}
+.multiColumnCheckable .presenceImg.mobile{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/yi/r/Ce0Xa8hRU2A.png);background-repeat:no-repeat;background-position:-75px -30px;margin-top:8px}
+.interaction_form .recipients{font-size:11px;padding:5px 10px 2px;color:gray}
+.interaction_form .recipients strong{float:left;padding:4px}
+.interaction_form .recipients .token{font-weight:normal;float:left;display:block;background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/yK/r/mD9hhq3V835.gif);background-repeat:no-repeat;color:#000;margin:2px;white-space:nowrap}
+.interaction_form .recipients .token span{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/yK/r/mD9hhq3V835.gif);background-position:top right;background-repeat:no-repeat;display:block}
+.interaction_form .recipients .token span span{background-position:bottom right}
+.interaction_form .recipients .token span span span{background-position:bottom left}
+.interaction_form .recipients .token span span span span{background-image:none;padding:2px 3px 3px 5px}
+.interaction_form .recipients .token:hover,
+.interaction_form .recipients .token:hover span{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/ym/r/Ze4Z6J_Shqw.gif);text-decoration:none}
+.interaction_form .recipients a.hide{background-repeat:no-repeat;background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/yV/r/pFoKUTi0nJ6.gif);background-position:3px 2px;padding:0 8px 0 3px;text-decoration:none}
+.interaction_form .recipients a.hide:hover{text-decoration:none}
+.gdp_fullpage .gdp_left{width:300px}
+.gdp_fullpage div.platform_dialog_content{margin:0;padding:0}
+.sp_464v1f{background-image:url(https://s-static.ak.fbcdn.net/rsrc.php/v1/y6/r/K6k-pcbD-ZK.png);background-repeat:no-repeat;display:inline-block;height:32px;width:32px}
+.sx_780cad{background-position:-0px -0px}
+.sx_113bea{background-position:-0px -33px}
+.sx_a88141{background-position:-0px -66px}
+.sx_198984{background-position:-0px -99px}
+.sx_592a7b{background-position:-0px -132px}
+.sx_bb552b{background-position:-0px -165px}
+.sx_548b66{background-position:-0px -198px}
+
+#bootloader_awIgw { height: 42px; }

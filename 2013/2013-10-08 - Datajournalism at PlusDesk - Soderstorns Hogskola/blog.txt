@@ -1,0 +1,5 @@
+https://m.facebook.com/anunieminen?v=friends
+https://m.facebook.com/teelmo?v=friends
+
+http://graph.facebook.com/anunieminen 732028610
+http://graph.facebook.com/teelmo 635279474

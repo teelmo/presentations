@@ -1,0 +1,11 @@
+- Statsterin esittely
+- Teoriaa
+  * Visualisointikuva Wasserman faust mikä lie
+  * Interventiot, muutoksen kuvaus
+  * Kertautuvat vaikutukset (cascading effects) ja vaikuttavuus (effectiveness)
+- Omaa pohdintaa
+  * Visualisointi käytännössä
+    -> Järjestelmät
+    -> Datan kerääminen
+    -> 
+    

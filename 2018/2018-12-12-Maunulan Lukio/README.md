@@ -1,6 +1,6 @@
 # Visuaalisia dataesimerkkejä Ylestä
 
-[Maunulan lukio](https://www.mayk.fi/) pidetty tunti.
+[Maunulan lukio](https://www.mayk.fi/)ssa pidetty tunti.
 
 * 12. joulukuuta 2018
 

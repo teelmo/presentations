@@ -8,12 +8,10 @@ class: full, middle
 ---
 class: left, middle
 
-# Visualizing data into a story
+# <span class="highlight">Investigation</span> &rarr; A visual <span class="highlight">story</span>
 
-* <span class="highlight">Pension</span> Calculator
-* <span class="highlight">Municipality</span> Radar
-* Exercises
-* Worse of the worse
+* <span class="highlight">Exercises</span>
+* and <span class="highlight">Examples</span>
 
 ```javascript
 if (Motivation === true) {
@@ -30,7 +28,6 @@ class: left, middle
 <img src="img/kolmoset_1.png" alt="" style="width: 600px; style:inline;"/>
 
 ---
-
 class: left, middle
 
 # <span class="highlight">20</span>
@@ -40,35 +37,29 @@ class: left, middle
 ---
 class: left, middle
 
-# <span class="highlight">Story</span> When Can You Retire And For How Long
+# <span class="highlight">Story</span> My year living on social welfare
 
-<p><span class="highlight">Motivation</span> Pension system reform</p>
-<p><span class="highlight">Implementation</span> Embedded calculator</p>
-<p><span class="highlight">Outcome</span> One of the most read stories in 2016</p>
+<p><span class="highlight">Motivation</span> To understand the social welfare system</p>
+<p><span class="highlight">Implementation</span> An interactive game</p>
+<p><span class="highlight">Outcome</span> NODA '19 winner</p>
 
-<div style="float: right"><a href="https://docs.google.com/spreadsheets/d/1Gj3uqUzWOUeDGamxc8Ig_Owu-EfZzzs-MaLSLESf0C4/edit#gid=1128173612" target="_blank">» data</a></div><br />
-<div style="float: right"><a href="https://yle.fi/uutiset/3-9273402" target="_blank">» story</a></div><br />
-<div style="float: right"><a href="https://dashboard.yle.fi/article/3-9273402" target="_blank">» numbers</a></div><br />
-<div style="float: right"><a href="https://ebuddj.github.io/2019-population/" target="_blank">» story2</a></div>
+<div style="float: right"><a href="https://yle.fi/uutiset/3-10509829" target="_blank">» story</a></div><br />
+<div style="float: right"><a href="https://dashboard.yle.fi/article/3-10509829" target="_blank">» numbers</a></div><br />
 
 ---
 class: left, middle
-# One of most read stories in 2016, <span class="highlight">Why?</span>
+# NODA '19 winner, <span class="highlight">Why?</span>
 
-* Calculator <span class="highlight">placed on top</span> of the article
-* Had a <span class="highlight">default result</span>
-* Easy to use
-* Simple and <span class="highlight">&ldquo;Suprising&rdquo;</span> message
-* <span class="highlight">Shareable</span> result, over 100,000 FB actions
-* Funny &rarr; <span class="highlight">Memorable</span>
+* The story showed <span class="highlight">how the system works</span> even for those not part of it
+* The implemantion succeeded in <span class="highlight">breaking prejudice</span> on people living on welfare
+* They didn't just take into account the money but also the quality of life
 
 ---
 class: left, middle
 # Challenges / Obstacles
 
-* From <span class="highlight">Excel</span> to story
-* <span class="highlight">Two datasets</span> &rarr; pick more relevant
-* Use of <span class="highlight">understandable language</span> and terms
+* The data updates during the process and the different scenarios were <span class="highlight">difficult to handle</span>
+* The scenarios were <span class="highlight">debateable</span> even between experts
 
 ---
 class: left, middle
@@ -86,37 +77,32 @@ class: left, middle
 
 ---
 class: left, middle
-# <span class="highlight">Story</span> What is the status of your municipality
+# <span class="highlight">Story</span> Hate speech and online shaming
 
-<p><span class="highlight">Motivation</span> Upcoming elections</p>
-<p><span class="highlight">Implementation</span> Municipality Radar</p>
-<p><span class="highlight">Outcome</span> Noda Awards '17 nominee</p>
+<p><span class="highlight">Motivation</span> Growing hatred on social media</p>
+<p><span class="highlight">Implementation</span> Mobile storytelling</p>
+<p><span class="highlight">Outcome</span> Reached younger audiences</p>
 
-<div style="float: right"><a href="https://docs.google.com/spreadsheets/d/15M_MyAudZXCMASTlbP4SSA3BTQFlw7RRxVwa47uDcEs/edit#gid=0" target="_blank">» data</a></div><br />
-<div style="float: right"><a href="https://yle.fi/uutiset/3-9490180" target="_blank">» story</a></div><br />
-<div style="float: right"><a href="https://dashboard.yle.fi/article/3-9192528" target="_blank">» numbers</a></div>
+<div style="float: right"><a href="https://yle.fi/aihe/artikkeli/2019/10/22/luuri-taynna-sontaa-ahdistavia-viesteja-ja-puheluita-tuntemattomista-numeroista" target="_blank">» story</a></div><br />
+<div style="float: right"><a href="https://dashboard.yle.fi/article/20-293082" target="_blank">» numbers</a></div>
 
 ---
 class: left, middle
-# Noda Awards '17 nominee, <span class="highlight">Why?</span>
+# Reached younger audiences, <span class="highlight">Why?</span>
 
-* Quick <span class="highlight">Overview</span> &rarr; <span class="highlight">Details</span> on Demand
-* <span class="highlight">Personalized</span> and <span class="highlight">Familiar</span> feel
-  * Municipality arms, Subtitle, Background map, Street view, Municipality text
-* We <span class="highlight">crowdsourced</span> candidate test questions
-* Was adopted by municipalities and by public
-* <a href="http://yle.fi/uutiset/3-9252893" target="_blank">Data and process was opened</a>
+* <span class="highlight">The interface</span> makes the story feel more personal
+* Everything is based on <span class="highlight">real stories</span>
+* The story made visible that the phenomena exists <span class="highlight">outside social media</span>
+* The implementation also gives a <span class="highlight">solution</span>
 
 ---
 class: left, middle
 # Challenges / Obstacles
 
-* <span class="highlight">Getting data</span> for current municipalities 
-* Merging various data sources and formats into one sheet
-* Learning <span class="highlight">statistical analysis</span> and standard deviation
-* Getting unified municipality texts and handling updates
-* <span class="highlight">Finishing and polishing</span>
-* Technical issues 
+* Publication was <span class="highlight">tied with TV</span>'s schedule; also a positive
+* Some elements which were considered had to be removed
+* <span class="highlight">Polishing</span> in the story
+* To succeed the project had to be done by <span class="highlight">professionals</span> who were motivated
 
 ---
 class: left, middle

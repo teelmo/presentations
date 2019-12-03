@@ -1,7 +1,7 @@
-# How to make a successful data story?
+# Turning an investigation into a visual story
 
-[Aaltoyliopistossa](https://www.aalto.fi/) pidetty datajournalismi luento.
+[EBU Investigative Network-tapaamisessa](https://ebu.ch) pidetty datajournalismi luento.
 
-* <div>14. helmikuuta 2019</div>
+* <div>3. joulukuuta 2019</div>
 
 markdown-to-slides index.md -o index.html -s ../css/styles.css

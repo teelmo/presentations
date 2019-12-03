@@ -1,6 +1,6 @@
-# Teemo Tebest
+# Data Journalism
 
-[EBU Newsmeetingissä](https://ebu.ch) pidetty esittely.
+[EBU News Meetingissä](https://ebu.ch) pidetty esittely.
 
 * <div>3. huhtikuuta 2019</div>
 

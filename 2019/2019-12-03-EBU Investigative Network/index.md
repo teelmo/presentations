@@ -63,20 +63,6 @@ class: left, middle
 
 ---
 class: left, middle
-# Exercise
-
-Make up as many ways to visualize numbers <span class="highlight">75</span> and <span class="highlight">37</span>. Sketch on paper.
-
-<span class="highlight">Take 5 minutes</span>
-
----
-class: left, middle
-# <span class="highlight">Examples</span>
-
-<img src="img/numbers.png" alt="" style="width: 700px;" />
-
----
-class: left, middle
 # <span class="highlight">Story</span> Hate speech and online shaming
 
 <p><span class="highlight">Motivation</span> Growing hatred on social media</p>
@@ -103,25 +89,6 @@ class: left, middle
 * Some elements which were considered had to be removed
 * <span class="highlight">Polishing</span> in the story
 * To succeed the project had to be done by <span class="highlight">professionals</span> who were motivated
-
----
-class: left, middle
-# Data visualizations gone <span class="highlight">wrong</span>
-
-* <a href="http://livingqlikview.com/the-9-worst-data-visualizations-ever-created" target="_blank">The 9 Worst Data Visualizations Ever Created</a>
-
----
-class: left, middle
-# Data visualization <span class="highlight">success</span>
-
-* <a href="https://www.youtube.com/watch?v=-yIHxOui9nQ" target="_blank">How temperature has changed in each country since 1900</a>
-
----
-class: left, middle
-# One more to pick your brain
-
-<img src="img/b25b.png" alt="" style="width: 200px; display:inline;" />
-<img src="img/blog_raf_bullet_holes_0.jpg" alt="" style="width: 500px; display:inline;"/>
 
 ---
 class: center, middle
